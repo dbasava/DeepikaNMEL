@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Regression Tests 1" failures="0" tests="4" time="894.964" errors="0">
-  <properties/>
-  <testcase name="preCondition" time="302.443" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
-  <testcase name="filterActivitesTeacher" time="151.661" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
-  <testcase name="filterActivitesStudent" time="223.571" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
-  <testcase name="recentActivityTest" time="207.819" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
-</testsuite>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Regression Tests 5" failures="0" tests="2" time="474.268" errors="0">
-  <properties/>
-  <testcase name="tocTreeStructure1" time="323.812" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_Student"/>
-  <testcase name="previewAssignments" time="129.628" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_teacher"/>
-</testsuite>

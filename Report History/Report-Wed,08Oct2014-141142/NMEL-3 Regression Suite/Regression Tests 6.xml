@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Regression Tests 6" failures="0" tests="1" time="194.34" errors="0">
-  <properties/>
-  <testcase name="verifyPendingBatchRegistration" time="183.409" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.BatchRegistration"/>
-</testsuite>

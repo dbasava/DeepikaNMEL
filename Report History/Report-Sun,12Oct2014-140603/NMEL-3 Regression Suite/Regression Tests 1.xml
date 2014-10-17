@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Regression Tests 1" failures="0" tests="1" time="413.402" errors="0">
-  <properties/>
-  <testcase name="ProgramAdminTest" time="402.263" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin"/>
-</testsuite>
