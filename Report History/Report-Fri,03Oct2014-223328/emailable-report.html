@@ -1,0 +1,339 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG:  Unit Test</title>
+<style type="text/css">
+table caption,table.info_table,table.param,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.param td,table.param th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.param th {vertical-align:bottom}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.param td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.param tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+<body>
+<table cellspacing=0 cellpadding=0 class="param">
+<tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em">Regression Tests 2</td><td class="numi">11</td><td class="numi">11</td><td class="numi">0</td><td class="numi">0</td><td class="numi">2,957.2 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+</table>
+<a id="summary"></a>
+<table cellspacing=0 cellpadding=0 class="passed">
+<tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Time<br/>(Msecs)</th></tr>
+<tr><th colspan="4">Regression Tests 2 &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="5">com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student<td><a href="#m1">inboxMessageReadStudent (regression)</a></td><td class="numi">1</td><td class="numi">201944</td></tr><tr class="passedodd"><td><a href="#m2">inboxViewAndSortStudent (regression)</a></td><td class="numi">1</td><td class="numi">393984</td></tr><tr class="passedodd"><td><a href="#m3">messageCreateStudent (regression)</a></td><td class="numi">1</td><td class="numi">135296</td></tr><tr class="passedodd"><td><a href="#m4">messageInboxNotificationStudent (regression)</a></td><td class="numi">1</td><td class="numi">365585</td></tr><tr class="passedodd"><td><a href="#m5">sentMessagesViewAndSortStudent (regression)</a></td><td class="numi">1</td><td class="numi">246635</td></tr>
+<tr class="passedeven"><td rowspan="6">com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher<td><a href="#m6">inboxMessageNotification (regression)</a></td><td class="numi">1</td><td class="numi">356472</td></tr><tr class="passedeven"><td><a href="#m7">inboxMessageReadMessage (regression)</a></td><td class="numi">1</td><td class="numi">236568</td></tr><tr class="passedeven"><td><a href="#m8">inboxMessageViewAndSort (regression)</a></td><td class="numi">1</td><td class="numi">412969</td></tr><tr class="passedeven"><td><a href="#m9">messageCreate (regression)</a></td><td class="numi">1</td><td class="numi">132124</td></tr><tr class="passedeven"><td><a href="#m10">sentMessageViewAndSort (regression)</a></td><td class="numi">1</td><td class="numi">227552</td></tr><tr class="passedeven"><td><a href="#m11">turnOffMessangerAndCreateMessage (regression)</a></td><td class="numi">1</td><td class="numi">229458</td></tr>
+</table>
+<h1>Regression Tests 2</h1>
+<a id="m1"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student:inboxMessageReadStudent</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-189_42, NEWNGMEL-189_44, NEWNGMEL-189_45, NEWNGMEL-189_46, NEWNGMEL-189_47, NEWNGMEL-189_48.</b></br><br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default	.</br><br/>
+<br>Teacher messageSubject Test.72 is displayed in student inbox.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_42 Pass</b><br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_44 Pass</b><br><br/>
+<br><b>Student is able to see all the  From (sender name), To (recipient list), Subject (message subject) and the message Content.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_45 Pass</b><br><br/>
+<br>Correct data is displayed in the message.</br><br/>
+<br>Student is navigated to New Message tab in reply mode.</br><br/>
+<br><b>The recipients and the subject are already filled with appropriate values.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_46 Pass</b><br><br/>
+<br>Teacher is navigated to New Message tab in forward mode.</br><br/>
+<br><b>The recipients field is empty and the subject are already filled.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_47 Pass</b><br><br/>
+<br><b>Dialog box for delete confirmation is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_48 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m2"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student:inboxViewAndSortStudent</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-189_30, NEWNGMEL-189_31, NEWNGMEL-189_32, NEWNGMEL-189_33, NEWNGMEL-189_34, NEWNGMEL-189_35, NEWNGMEL-189_37, NEWNGMEL-189_38, NEWNGMEL-189_39, NEWNGMEL-189_40, NEWNGMEL-189_36, NEWNGMEL-189_41.</b><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br><b>Inbox is selected by default.</br><br/>
+<br><b>Teacher messageSubject Test.247is displayed in student inbox.</br><br/>
+<br><b>Teacher messageSubject Test.743is displayed in student inbox.</br><br/>
+<br><b>The message sent by the teacher and column headers are displayed in Inbox tab.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_30 Pass</b><br><br/>
+<br><b>The messages are sorted as per priorities.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_31 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for sender type.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_32 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for sender.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_33 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for Subject.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_34 Pass</b><br><br/>
+<br><b>The messages are sorted as per the dates.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_35 Pass</b><br><br/>
+<br><b>The messages are not displayed as per the dates.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-189_37 Fail</b><br><br/>
+Student is able to display all messages on clicking Show All button.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_41 Pass</b><br><br/>
+<br><b>The inbox message are displayed for selected sender type.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_38 Pass</b><br><br/>
+<br><b>Unread messages are not displayed when filter is set for Read.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_39 Pass</b><br><br/>
+<br><b>The messages displayed are not inrange, sent by student and the status is for these messages is Read.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-189_40 Fail</b><br><br/>
+<br><b>The contents are deleted. Test case NEWNGMEL-189_36 passed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_36 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m3"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student:messageCreateStudent</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-147_14, NEWNGMEL-147_15, NEWNGMEL-147_17, NEWNGMEL-147_16, NEWNGMEL-147_13, NEWNGMEL-147_18, NEWNGMEL-147_11, NEWNGMEL-147_19.</b><br/>
+Current Tab selected isMessage<br/>
+<br><b>Error message is displayed for empty recipient list.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_14 Pass</b><br><br/>
+<br><b>Student can enter recipient manually.</b><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-147_15 Fail</b><br><br/>
+Recipients are added from contact list<br/>
+<br><b>Error message is displayed for empty subject line list.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_17 Pass</b><br><br/>
+<br><b>An error message for long subject is displayed.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_16 Pass</b><br><br/>
+Recipients are added from contact list<br/>
+<br><b>Recipients are displayed in Recipients field.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_13 Pass</b><br><br/>
+<br><b>By default priority is set to Normal<br/>
+<br><b>Student is able to set priority.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_18 Pass</b><br><br/>
+<br><b>Student is able to send message from new message tab.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_11 Pass</b><br><br/>
+The message exists in Sent Items tab<br/>
+<br><b>The message sent is displayed in Sent messages tab.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_19 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m4"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student:messageInboxNotificationStudent</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-189_25, NEWNGMEL-189_29, NEWNGMEL-189_26,NEWNGMEL-189_27, NEWNGMEL-189_28.</b><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+<br><b>Message notification is displayed.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_25 Pass</b><br><br/>
+Current Tab selected isMessage<br/>
+<br><b>Inbox is selected by default.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_29 Pass</b><br><br/>
+Current Tab selected isMessage<br/>
+<br>Latest messages appear first.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_26 Pass</b><br><br/>
+<br>Teacher messageSubject Test.900is displayed in student inbox.</br><br/>
+<br>Teacher messageSubject Test.374is displayed in student inbox.</br><br/>
+<br>Message notification is displayed.</br><br/>
+<br><b>The notification counter is reduced by 1.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_27 Pass</b><br><br/>
+<br><b>The no notification displayed.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_28 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m5"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student:sentMessagesViewAndSortStudent</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-190_11, NEWNGMEL-190_13, NEWNGMEL-190_15, NEWNGMEL-190_16, NEWNGMEL-190_17, NEWNGMEL-190_18.</b><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br>Sent message tab is displayed.</br><br/>
+<br>The table headers exists in Sent Items tab<br/>
+<br>Sent messageSubject Test.735is displayed.</br><br/>
+<br><b>Most recent messages appear first.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_11 Pass</b><br><br/>
+<br><b>The messages are sorted as per priorities.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_13 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for recipeints.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_14 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for subject.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_15 Pass</b><br><br/>
+<br><b>The messages are sorted as per the dates.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_16 Pass</b><br><br/>
+<br><b>The messages are displayed as per the dates.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_18 Pass</b><br><br/>
+<br><b>The contents are deleted.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_17 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m6"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher:inboxMessageNotification</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-189_1, NEWNGMEL-189_2, NEWNGMEL-189_3, NEWNGMEL-189_4.</b></br><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+<br><b>Message notification is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_1 Pass</b><br><br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br>Latest messages appear first.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_2 Pass</b><br><br/>
+<br>Student messageSubject Test.25is displayed in teacher inbox.</br><br/>
+<br>Message notification is displayed.</br><br/>
+<br><b>The notification counter is reduced by 1.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_3 Pass</b><br><br/>
+<br><b>The no notification displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_4 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m7"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher:inboxMessageReadMessage</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-189_18, NEWNGMEL-189_21, NEWNGMEL-189_22, NEWNGMEL-189_23, NEWNGMEL-189_24.</b></br><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br>Student messageSubject Test.530is displayed in teacher inbox.</br><br/>
+<br><b>Teacher is able to read message by clicking on the message.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_18 Pass</b><br><br/>
+<br><b>Teacher is able to see all the  From (sender name), To (recipient list), Subject (message subject) and the message Content.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_21 Pass</b><br><br/>
+<br>Incorrect data is displayed in the message.</br><br/>
+<br>Teacher is navigated to New Message tab in reply mode.</br><br/>
+<br><b>The recipients and the subject are already filled with appropriate values.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_22 Pass</b><br><br/>
+<br>Teacher is navigated to New Message tab in forward mode.</br><br/>
+<br><b>The recipients field is empty and the subject are already filled.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_23 Pass</b><br><br/>
+<br><b>Dialog box for delete confirmation is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_24 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m8"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher:inboxMessageViewAndSort</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-189_7, NEWNGMEL-189_8, NEWNGMEL-189_9, NEWNGMEL-189_10, NEWNGMEL-189_11, NEWNGMEL-189_13, NEWNGMEL-189_15, NEWNGMEL-189_16, NEWNGMEL-189_12.</b></br><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br>The table headers exists in Inbox tab<br/>
+<br><b>The messages are sorted as per priorities.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_7 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for sender type.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_8 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for sender.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_9 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for Subject.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_10 Pass</b><br><br/>
+<br><b>The messages are sorted as per the dates.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_11 Pass</b><br><br/>
+<br><b>The messages are not displayed as per the dates.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-189_13 Fail</b><br><br/>
+<br><b>Unread messages are not displayed when filter is set for Read.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_15 Pass</b><br><br/>
+<br><b>The messages displayed are not inrange, sent by student and the status is for these messages is Read.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-189_16 Fail</b><br><br/>
+<br><b>The contents are deleted.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_12 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m9"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher:messageCreate</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-147_5, NEWNGMEL-147_8, NEWNGMEL-147_7, NEWNGMEL-147_4, NEWNGMEL-147_1, NEWNGMEL-147_10.</b></br><br/>
+Current Tab selected isMessage<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_5 Pass</b><br><br/>
+<br>Error message is displayed for empty recipient list.</br><br/>
+<br>Teacher cannot enter recipient manually. <br/>
+Recipients are added from contact list<br/>
+<br><b>Error message is displayed for empty subject line list.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_8 Pass</b><br><br/>
+<br><b>An error message for long subject is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_7 Pass</b><br><br/>
+Recipients are added from contact list<br/>
+<br><b>Recipients are displayed in Recipients field.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_4 Pass</b><br><br/>
+<br>By default priority is set to Normal<br/>
+<br><b>Teacher is able to send from new message tab.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_1 Pass</b><br><br/>
+The message exists in Sent Items tab<br/>
+<br><b>The message sent is displayed in Sent messages tab.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_10 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m10"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher:sentMessageViewAndSort</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-190_1, NEWNGMEL-190_3 , NEWNGMEL-190_5, NEWNGMEL-190_6,  NEWNGMEL-190_7, NEWNGMEL-190_4, NEWNGMEL-190_8.</b></br><br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br>Sent message tab is displayed.</br><br/>
+<br>The table headers exists in Sent Items tab<br/>
+<br>Sent messagenullis not displayed.</br><br/>
+<br><b>Latest messages appear first.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_1 Pass</b><br><br/>
+<br><b>The messages are not sorted as per priorities.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-190_3 Fail</b><br><br/>
+<br><b>The messages are sorted alphabetically for recipeints.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_4 Pass</b><br><br/>
+<br><b>The messages are not sorted alphabetically for subject.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-190_5 Fail</b><br><br/>
+<br><b>The messages are sorted as per the dates.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_6 Pass</b><br><br/>
+<br><b>The messages are displayed as per the dates.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_8 Pass</b><br><br/>
+<br><b>The contents are deleted.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_7 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m11"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher:turnOffMessangerAndCreateMessage</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL-147_2, NEWNGMEL-147_3, NEWNGMEL-1681_5, NEWNGMEL-1681_6, NEWNGMEL-153_2.</b></br><br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isSettings<br/>
+<br> Course Management tab is loaded correctly<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+<br><b>Teacher is able to send message to the student.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_3 Pass</b><br><br/>
+Current Tab selected isMessage<br/>
+<br><b>The contact list checkbox is disabled.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_2 Pass</b><br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_12 Pass</b><br><br/>
+Student is able to send message to only the teacher and not student when the messanger is turned off.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-153_2 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>

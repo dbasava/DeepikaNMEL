@@ -1,0 +1,643 @@
+<html>
+<head>
+<title>TestNG:  Regression Tests 4</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Regression Tests 4</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>6/5/2</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Oct 10 12:23:43 PDT 2014</td>
+</tr>
+<tr><td>Total time:</td><td>1407 seconds (1407488 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='3' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td width="30%"><b>Exception</b></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebook()'>gradebook<br/><b>NEWNGMEL-131_9, NEWNGMEL-131_3, NEWNGMEL-131_4, NEWNGMEL-131_5, NEWNGMEL-131_6, NEWNGMEL-131_7, NEWNGMEL-131_8.</b><br/>
+<a href="#Output-1428383778" onClick='toggleBox("Output-1428383778", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1428383778" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1428383778">
+<a href="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebook.png">Screenshot</a><br/>
+</div>
+</td>
+<td>0</td>
+<td><div><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds: null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: eea58d1fb1b7824635b30b5e6c99fc2f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir15388_22767}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:151)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:73)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebook(GradeBook_Teacher_withP2.java:118)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1428383778", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1428383778'><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds: null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: eea58d1fb1b7824635b30b5e6c99fc2f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir15388_22767}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:151)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:73)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebook(GradeBook_Teacher_withP2.java:118)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+</pre></div></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookAutoGradedPractice()'>gradebookAutoGradedPractice<br/><b>NEWNGMEL-139_3, NEWNGMEL-131_1, NEWNGMEL_961_10, NEWNGMEL-131_11, NEWNGMEL-131_12.</b><br/>
+<a href="#Output-780416873" onClick='toggleBox("Output-780416873", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-780416873" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-780416873">
+<a href="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookAutoGradedPractice.png">Screenshot</a><br/>
+</div>
+</td>
+<td>0</td>
+<td><div><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds: null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: eea58d1fb1b7824635b30b5e6c99fc2f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir15388_22767}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:151)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:73)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookAutoGradedPractice(GradeBook_Teacher_withP2.java:238)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace780416873", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace780416873'><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds: null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: eea58d1fb1b7824635b30b5e6c99fc2f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir15388_22767}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:151)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:73)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookAutoGradedPractice(GradeBook_Teacher_withP2.java:238)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+</pre></div></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookFunctions()'>gradebookFunctions<br/><b>NEWNGMEL-1369_5, NEWNGMEL-2029_2, NEWNGMEL-131_10</b><br/>
+<a href="#Output-793317427" onClick='toggleBox("Output-793317427", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-793317427" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-793317427">
+<a href="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookFunctions.png">Screenshot</a><br/>
+</div>
+</td>
+<td>0</td>
+<td><div><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds: null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: eea58d1fb1b7824635b30b5e6c99fc2f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir15388_22767}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:151)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:73)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookFunctions(GradeBook_Teacher_withP2.java:478)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace793317427", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace793317427'><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds: null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: eea58d1fb1b7824635b30b5e6c99fc2f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir15388_22767}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:151)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:73)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookFunctions(GradeBook_Teacher_withP2.java:478)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+</pre></div></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt()'>preConditionTeacherGradedAssignAndAttempt<br/>
+<a href="#Output-1884797589" onClick='toggleBox("Output-1884797589", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1884797589" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1884797589">
+Current Tab selected isCOURSE<br/>
+Selected a Course Options<br/>
+Tree Structure till unitPronunciation practice<br/>
+Toc Tree structure at sub-unitWord stress in adjectives<br/>
+Exercise 1is Assigned/Open<br/>
+Selected All Students<br/>
+Selected a Date<br/>
+Clicked Assign button<br/>
+X
+The assignment has been successfully allocated to your student.<br/>
+Teacher_1 logged out<br/>
+<a href="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt.png">Screenshot</a><br/>
+</div>
+</td>
+<td>395</td>
+<td><div><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8 milliseconds: null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: eea58d1fb1b7824635b30b5e6c99fc2f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir15388_22767}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:151)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:396)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:130)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:126)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	at com.pearson.piltg.ngmelII.util.UtilityCommon.waitForElementVisible(UtilityCommon.java:245)
+	at com.pearson.piltg.ngmelII.common.Common.logoutFromTheApplication(Common.java:199)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt(GradeBook_Teacher_withP2.java:112)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1884797589", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1884797589'><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8 milliseconds: null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: eea58d1fb1b7824635b30b5e6c99fc2f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir15388_22767}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:151)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:396)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:130)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:126)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	at com.pearson.piltg.ngmelII.util.UtilityCommon.waitForElementVisible(UtilityCommon.java:245)
+	at com.pearson.piltg.ngmelII.common.Common.logoutFromTheApplication(Common.java:199)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt(GradeBook_Teacher_withP2.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+</pre></div></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.viewScoresAtLevelPracticeActivity()'>viewScoresAtLevelPracticeActivity<br/><b>NEWNGMEL-1369_13, NEWNGMEL-1369_14, NEWNGMEL-1369_15</b></td>
+<td>0</td>
+<td><div><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds: null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: eea58d1fb1b7824635b30b5e6c99fc2f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir15388_22767}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:151)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:73)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.viewScoresAtLevelPracticeActivity(GradeBook_Teacher_withP2.java:610)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1262201407", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1262201407'><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds: null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: eea58d1fb1b7824635b30b5e6c99fc2f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir15388_22767}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:151)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:73)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.viewScoresAtLevelPracticeActivity(GradeBook_Teacher_withP2.java:610)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+</pre></div></td>
+</tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='3' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td width="30%"><b>Exception</b></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.assignmentAverage()'>assignmentAverage<br/><b>NEWNGMEL-131_13, NEWNGMEL-131_14, NEWNGMEL-131_15</b><br/>
+<a href="#Output-5634689" onClick='toggleBox("Output-5634689", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-5634689" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-5634689">
+Current Tab selected isCourse<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitVocabulary - Types of films<br/>
+Exercise 2**is Open<br/>
+Current Tab selected isGradebook<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitThe Big Picture<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-131_13 Pass</b><br><br/>
+Current Tab selected isSettings<br/>
+<br> PERSONAL PROFILE tab is loaded correctly<br/>
+<br><b><font color='red'>Exception Occured.</b><br><br/>
+</div>
+</td>
+<td>329</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradeBookExport()'>gradeBookExport<br/><b>NEWNGMEL-2205_24, NEWNGMEL-2205_17</b><br/>
+<a href="#Output-331840976" onClick='toggleBox("Output-331840976", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-331840976" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-331840976">
+Current Tab selected isGradebook<br/>
+Tree Structure till unitThe Big Picture<br/>
+The scores are exported as excel.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-2205_24 Pass</b><br><br/>
+Tree Structure till unitThe Big Picture<br/>
+The scores are exported as excel.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-2205_17 Pass</b><br><br/>
+</div>
+</td>
+<td>96</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutoGradedAssignNAttempt()'>preConditionAutoGradedAssignNAttempt<br/>
+<a href="#Output-318251212" onClick='toggleBox("Output-318251212", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-318251212" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-318251212">
+Current Tab selected isCOURSE<br/>
+Selected a Course Options<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitVocabulary - Types of films<br/>
+Exercise 3**is Assigned/Open<br/>
+Selected All Students<br/>
+Selected a Date<br/>
+Clicked Assign button<br/>
+X
+The assignment has been successfully allocated to your student.<br/>
+Teacher_1 logged out<br/>
+</div>
+</td>
+<td>241</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutogradedAttempt()'>preConditionAutogradedAttempt<br/>
+<a href="#Output-2043731663" onClick='toggleBox("Output-2043731663", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2043731663" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2043731663">
+Current Tab selected isCourse<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitVocabulary - Types of films<br/>
+Exercise 2**is Open<br/>
+</div>
+</td>
+<td>147</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign.reAssignAssignments()'>reAssignAssignments<br/><b>NEWNGMEL-3212_1,NEWNGMEL-3212_2</b><br/>
+<a href="#Output-1051584247" onClick='toggleBox("Output-1051584247", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1051584247" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1051584247">
+Test method: NEWNGMEL-3212_1,NEWNGMEL-3212_2<br/>
+<br> <font color=green>Home tab is loaded correctly</font><br/>
+Home Page is loaded<br/>
+Current Tab selected isSETTINGS<br/>
+<br> PERSONAL PROFILE tab is loaded correctly<br/>
+Teacher is now in Expert mode<br/>
+</div>
+</td>
+<td>56</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.viewScoresAtLevelAutoGradedAssignment()'>viewScoresAtLevelAutoGradedAssignment<br/><b>NEWNGMEL-2205_12,NEWNGMEL-2205_13,NEWNGMEL-2205_14,NEWNGMEL-2205_15</b><br/>
+<a href="#Output-266074358" onClick='toggleBox("Output-266074358", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-266074358" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-266074358">
+Current Tab selected isGradebook<br/>
+</div>
+</td>
+<td>120</td>
+<td></td>
+</tr>
+</table><p>
+<table width='100%' border='1' class='invocation-skipped'>
+<tr><td colspan='3' align='center'><b>SKIPPED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td width="30%"><b>Exception</b></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookTeacherGradedAssignment()'>gradebookTeacherGradedAssignment<br/><b>NEWNGMEL-131_2,NEWNGMEL-139_5.</b></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.viewScoresAtLevelAssignmentTeacherGraded()'>viewScoresAtLevelAssignmentTeacherGraded<br/><b>NEWNGMEL-2205_7, NEWNGMEL-2205_5, NEWNGMEL-2205_3, NEWNGMEL-2205_1</b></td>
+<td>0</td>
+<td></td>
+</tr>
+</table><p>
+</body>
+</html>

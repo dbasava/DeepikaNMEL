@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 6" failures="3" tests="8" time="1498.276" errors="0">
+  <properties/>
+  <testcase name="preConditionTeacherGradedAssignAndAttempt" time="210.253" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher"/>
+  <testcase name="gradebookTeacherGradedAssignment" time="129.413" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher"/>
+  <testcase name="gradebookAutoGradedPractice" time="303.752" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher"/>
+  <testcase name="viewScoresAtLevelPracticeActivity" time="174.541" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher"/>
+  <testcase name="assignmentAverage" time="267.066" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher"/>
+  <testcase name="gradebookAutoGradedPracticeStudentLogin" time="160.427" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher">
+    <failure type="org.openqa.selenium.TimeoutException" message="Timed out after 120 seconds waiting for presence of element located by: By.xpath: //div[contains(@class,&apos;tree student&apos;)]//ul/li/div/span[contains(text(), &apos;UNIT 2&apos;)]/parent::div/a
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.109&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Driver info: driver.version: unknown">
+      <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 120 seconds waiting for presence of element located by: By.xpath: //div[contains(@class,'tree student')]//ul/li/div/span[contains(text(), 'UNIT 2')]/parent::div/a
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '192.168.1.109', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.pearson.piltg.ngmelII.util.UtilityCommon.waitForElementPresent(UtilityCommon.java:197)
+	at com.pearson.piltg.ngmelII.util.UtilityCommon.clickAndWait(UtilityCommon.java:434)
+	at com.pearson.piltg.ngmelII.gradebook.page.GradeBookCommon.selectActivityStudent(GradeBookCommon.java:345)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebookAutoGradedPracticeStudentLogin(GradeBook_Teacher.java:514)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '192.168.1.109', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 1c08447d3682070e12d8d6f24d23a78b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir1548_16462}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 33 more
+... Removed 27 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="gradebook" time="121.936" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher">
+    <failure type="org.openqa.selenium.TimeoutException" message="Timed out after 120 seconds waiting for presence of element located by: By.id: username
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.109&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Driver info: driver.version: unknown">
+      <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 120 seconds waiting for presence of element located by: By.id: username
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '192.168.1.109', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.pearson.piltg.ngmelII.util.UtilityCommon.waitForElementPresent(UtilityCommon.java:197)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:75)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebook(GradeBook_Teacher.java:280)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '192.168.1.109', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 1c08447d3682070e12d8d6f24d23a78b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir1548_16462}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:348)
+	at org.openqa.selenium.By$ById.findElement(By.java:220)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 32 more
+... Removed 27 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="gradeboogradebookFunctionskFunctions" time="121.753" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher">
+    <failure type="org.openqa.selenium.TimeoutException" message="Timed out after 120 seconds waiting for presence of element located by: By.id: username
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.109&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Driver info: driver.version: unknown">
+      <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 120 seconds waiting for presence of element located by: By.id: username
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '192.168.1.109', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.pearson.piltg.ngmelII.util.UtilityCommon.waitForElementPresent(UtilityCommon.java:197)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:75)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradeboogradebookFunctionskFunctions(GradeBook_Teacher.java:349)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '192.168.1.109', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 1c08447d3682070e12d8d6f24d23a78b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir1548_16462}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:348)
+	at org.openqa.selenium.By$ById.findElement(By.java:220)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 32 more
+... Removed 27 stack frames]]>
+    </failure>
+  </testcase>
+</testsuite>

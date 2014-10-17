@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+  <title>NMEL Test Report - Regression Tests 6</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+    <link href="custom.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="reportng.js"></script>
+</head>
+<body>
+<h1>Regression Tests 6</h1>
+<p>
+  Test duration: 0.007s
+</p>
+
+  <table class="resultsTable configTable">
+    <tr><th colspan="3" class="header failedConfig">Failed Configuration</th></tr>
+              <tr class="group">
+        <td colspan="3">com.pearson.piltg.ngmelII.RegressionNMELIII.BatchRegistration</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  setUp
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+        
+    
+        
+
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: cannot get automation extension<br/>
+from chrome not reachable<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 1.10 seconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: d6e7adb2d7cb5b38b6c039bd245c996c<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir7660_21916}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-0">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:783)<br />
+              com.pearson.piltg.ngmelII.common.Common.setUpCommon(Common.java:295)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.BatchRegistration.setUp(BatchRegistration.java:26)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:398)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:145)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:82)<br />
+              org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:103)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+          <tr class="group">
+        <td colspan="3">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  setUp
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+        
+    
+        
+
+        <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: cannot get automation extension<br/>
+from chrome not reachable<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 1.08 seconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: 33b95c7cbbc21bdea4c7cda68c7aad29<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir8768_13632}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-1">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:783)<br />
+              com.pearson.piltg.ngmelII.common.Common.setUpCommon(Common.java:295)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.setUp(GradeBook_Teacher.java:29)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:398)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:145)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:82)<br />
+              org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:103)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+          <tr class="group">
+        <td colspan="3">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeSettings</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  setUp
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+        
+    
+        
+
+        <a href="javascript:toggleElement('exception-2', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: cannot get automation extension<br/>
+from chrome not reachable<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 1.08 seconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: 415172894a27b0b8582b324aa6906be5<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir8180_22981}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-2">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:783)<br />
+              com.pearson.piltg.ngmelII.common.Common.setUpCommon(Common.java:295)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.GradeSettings.setUp(GradeSettings.java:23)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:398)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:145)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:82)<br />
+              org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:103)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+          <tr class="group">
+        <td colspan="3">com.pearson.piltg.ngmelII.RegressionNMELIII.Help</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  setUp
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+        
+    
+        
+
+        <a href="javascript:toggleElement('exception-3', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: cannot get automation extension<br/>
+from chrome not reachable<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 1.08 seconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: 8aa875dd1ebf0d4c945ce5e89d96727b<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir7212_12676}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-3">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:783)<br />
+              com.pearson.piltg.ngmelII.common.Common.setUpCommon(Common.java:295)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.Help.setUp(Help.java:17)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:398)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:145)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:82)<br />
+              org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:103)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+          <tr class="group">
+        <td colspan="3">com.pearson.piltg.ngmelII.RegressionNMELIII.Miscellaneous</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  setUp
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+        
+    
+        
+
+        <a href="javascript:toggleElement('exception-4', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: cannot get automation extension<br/>
+from chrome not reachable<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 1.09 seconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: 497642135615583cd6ad6fbc5eee4e9f<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir428_28330}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-4">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:783)<br />
+              com.pearson.piltg.ngmelII.common.Common.setUpCommon(Common.java:295)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.Miscellaneous.setUp(Miscellaneous.java:30)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:398)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:145)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:82)<br />
+              org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:103)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+          <tr class="group">
+        <td colspan="3">com.pearson.piltg.ngmelII.RegressionNMELIII.RemoveStudent</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  setUp
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+        
+    
+        
+
+        <a href="javascript:toggleElement('exception-5', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: cannot get automation extension<br/>
+from chrome not reachable<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 1.15 seconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: a8fb17fb589e663d71d29f01aa413175<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir9256_30998}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-5">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:783)<br />
+              com.pearson.piltg.ngmelII.common.Common.setUpCommon(Common.java:295)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.RemoveStudent.setUp(RemoveStudent.java:35)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:398)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:145)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:82)<br />
+              org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:103)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+    
+          <tr><td colspan="3">&nbsp;</td></tr>
+      <tr><td colspan="3" class="header skippedConfig">Skipped Configuration</td></tr>
+                    <tr>
+          <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.BatchRegistration</td>
+        </tr>
+                
+<tr>
+  <td class="method">
+                  tearDown
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+              <tr>
+          <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher</td>
+        </tr>
+                
+<tr>
+  <td class="method">
+                  tearDown
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+              <tr>
+          <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeSettings</td>
+        </tr>
+                
+<tr>
+  <td class="method">
+                  tearDown
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+              <tr>
+          <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.Help</td>
+        </tr>
+                
+<tr>
+  <td class="method">
+                  tearDown
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+              <tr>
+          <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.Miscellaneous</td>
+        </tr>
+                
+<tr>
+  <td class="method">
+                  tearDown
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+              <tr>
+          <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.RemoveStudent</td>
+        </tr>
+                
+<tr>
+  <td class="method">
+                  tearDown
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+            </table>
+
+
+
+  <table class="resultsTable" width="100%">
+    <tr><th colspan="3" class="header skipped">Skipped Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.BatchRegistration</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  verifyPendingBatchRegistration
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-131_13">assignmentAverage</span>
+      </td>
+  <td class="duration">
+    0.001s
+  </td>
+  <td class="result">
+                             <i>Depends on method(s): </i>
+        <span class="dependency">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebookAutoGradedPractice</span>
+          
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-131_4">gradebook</span>
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-131_1, NEWNGMEL_961_10,NEWNGMEL-131_11, NEWNGMEL-131_12, NEWNGMEL-1369_6, NEWNGMEL-1369_7.">gradebookAutoGradedPractice</span>
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-139_3, NEWNGMEL_187_6, NEWNGMEL_187_7">gradebookAutoGradedPracticeStudentLogin</span>
+      </td>
+  <td class="duration">
+    0.001s
+  </td>
+  <td class="result">
+                             <i>Depends on method(s): </i>
+        <span class="dependency">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebookAutoGradedPractice</span>
+          
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-1369_5,NEWNGMEL-2029_2">gradebookFunctions</span>
+      </td>
+  <td class="duration">
+    0.001s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-131_2">gradebookTeacherGradedAssignment</span>
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                             <i>Depends on method(s): </i>
+        <span class="dependency">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.preConditionTeacherGradedAssignAndAttempt</span>
+          
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  preConditionTeacherGradedAssignAndAttempt
+      </td>
+  <td class="duration">
+    0.001s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-1369_13, NEWNGMEL-1369_14, NEWNGMEL-1369_15">viewScoresAtLevelPracticeActivity</span>
+      </td>
+  <td class="duration">
+    0.001s
+  </td>
+  <td class="result">
+                             <i>Depends on method(s): </i>
+        <span class="dependency">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebookAutoGradedPractice</span>
+          
+    
+        
+
+      </td>
+</tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeSettings</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL_1763_1, NEWNGMEL_1763_3">threshold</span>
+      </td>
+  <td class="duration">
+    0.001s
+  </td>
+  <td class="result">
+                       <i>Depends on group(s): </i>
+        <span class="dependency">autogradedAttempt</span>
+        <br />
+                
+    
+        
+
+      </td>
+</tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.Help</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-194_1, NEWNGMEL-194_2">studentHelp</span>
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-152_1, NEWNGMEL-152_2">teacherHelp</span>
+      </td>
+  <td class="duration">
+    0.001s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.Miscellaneous</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL_1063_2,NEWNGMEL_332_2,NEWNGMEL-2966_1, NEWNGMEL-2966_2, NEWNGMEL-2966_3">userLanguage_Breadcrum_FooterBarVerification</span>
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.RemoveStudent</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-107_1,NEWNGMEL-107_3 ">removeStudents</span>
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                         
+    
+        
+
+      </td>
+</tr>
+      </table>
+
+  
+</body>
+</html>

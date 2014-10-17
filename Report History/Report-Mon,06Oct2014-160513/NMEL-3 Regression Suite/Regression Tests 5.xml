@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 5" failures="0" tests="4" time="512.771" errors="0">
+  <properties/>
+  <testcase name="changeDefaultEndDate" time="61.381" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+  <testcase name="enrollCourse" time="55.926" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+  <testcase name="courseSettingValidation" time="209.578" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+  <testcase name="verifyNumberOfAttempts" time="176.265" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+</testsuite>

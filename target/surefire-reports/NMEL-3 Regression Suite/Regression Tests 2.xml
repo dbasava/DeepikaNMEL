@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 2" failures="0" tests="18" time="4298.38" errors="0">
+  <properties/>
+  <testcase name="forwardMessageTurnOff" time="128.948" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage"/>
+  <testcase name="forwardMessage" time="276.534" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage"/>
+  <testcase name="calendarAssignment" time="266.064" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+  <testcase name="calendarAddEventsOnPastDates" time="126.749" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+  <testcase name="addEventStudent" time="202.469" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+  <testcase name="calendarCourseVerify" time="286.413" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+  <testcase name="calendarGeneralEventVerify" time="218.538" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+  <testcase name="sentMessagesViewAndSortStudent" time="263.141" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+  <testcase name="inboxMessageReadStudent" time="209.223" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+  <testcase name="messageInboxNotificationStudent" time="312.731" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+  <testcase name="messageCreateStudent" time="136.256" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+  <testcase name="inboxViewAndSortStudent" time="298.855" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+  <testcase name="inboxMessageNotification" time="331.16" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+  <testcase name="inboxMessageViewAndSort" time="329.944" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+  <testcase name="messageCreate" time="136.413" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+  <testcase name="inboxMessageReadMessage" time="245.587" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+  <testcase name="turnOffMessangerAndCreateMessage" time="242.166" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+  <testcase name="sentMessageViewAndSort" time="234.314" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+</testsuite>

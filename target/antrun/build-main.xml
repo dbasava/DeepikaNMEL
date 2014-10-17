@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <tstamp>
+    <format pattern="EEE,ddMMMyyyy-HHmmss" locale="en,UK" property="time"/>
+  </tstamp>
+  <property name="suite" value="RegressionTesting"/>
+  <mkdir dir="Report History/Report-${time}"></mkdir>
+  <copy todir="Report History/Report-${time}">
+    <fileset dir="target/surefire-reports"/>
+  </copy>
+</target>
+</project>

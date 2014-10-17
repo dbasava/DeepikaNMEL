@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG:  Unit Test</title>
+<style type="text/css">
+table caption,table.info_table,table.param,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.param td,table.param th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.param th {vertical-align:bottom}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.param td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.param tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+<body>
+<table cellspacing=0 cellpadding=0 class="param">
+<tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em">Regression Tests 2</td><td class="numi">5</td><td class="numi">5</td><td class="numi">0</td><td class="numi">0</td><td class="numi">1,047.3 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+</table>
+<a id="summary"></a>
+<table cellspacing=0 cellpadding=0 class="passed">
+<tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Time<br/>(Msecs)</th></tr>
+<tr><th colspan="4">Regression Tests 2 &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="5">com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender<td><a href="#m1">addEventStudent (regression)</a></td><td class="numi">1</td><td class="numi">205505</td></tr><tr class="passedodd"><td><a href="#m2">calendarAddEventsOnPastDates (regression)</a></td><td class="numi">1</td><td class="numi">126108</td></tr><tr class="passedodd"><td><a href="#m3">calendarAssignment (regression)</a></td><td class="numi">1</td><td class="numi">220048</td></tr><tr class="passedodd"><td><a href="#m4">calendarCourseVerify (regression)</a></td><td class="numi">1</td><td class="numi">272599</td></tr><tr class="passedodd"><td><a href="#m5">calendarGeneralEventVerify (regression)</a></td><td class="numi">1</td><td class="numi">213234</td></tr>
+</table>
+<h1>Regression Tests 2</h1>
+<a id="m1"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender:addEventStudent</h2>
+<div style="padding-left:3em">
+<br><b>Student is not able to create a course event.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL - 150_12 Fail</b><br><br/>
+<br><b>A course event was not created.</b></br><br/>
+General event not created by Student.<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m2"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender:calendarAddEventsOnPastDates</h2>
+<div style="padding-left:3em">
+<br><b>Event was created with past date.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL - 150_7 Pass</b><br><br/>
+<br><b>Event was created with past date.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL - 150_8 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m3"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender:calendarAssignment</h2>
+<div style="padding-left:3em">
+<br>Test method: NEWNGMEL-2528_3, NEWNGMEL-2528_8, NEWNGMEL-2528_4, NEWNGMEL-2528_5.</br><br/>
+Current Tab selected isCOURSE<br/>
+Selected a Course Options<br/>
+Tree Structure till unitPast Lives<br/>
+Toc Tree structure at sub-unitVocabulary - History<br/>
+Exercise 2*is Assign again<br/>
+Selected All Students<br/>
+Selected a Date<br/>
+Clicked Assign button<br/>
+X
+The assignment has been successfully allocated to your student.<br/>
+Teacher_1 logged out<br/>
+<br> <font color=green>The expected selected tab is To Do List and the actual selected tab is HOME</font><br/>
+The expected selected tab is [Calendar] and the actual selected tab is [Calendar]<br/>
+Current Month is selected.<br/>
+Current week is selected by default.<br/>
+<br>Current Month and week is selected.</br><br/>
+The drop down is successfully set toDay<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m4"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender:calendarCourseVerify</h2>
+<div style="padding-left:3em">
+<br><b>Test method: NEWNGMEL - 150_3, NEWNGMEL - 150_4, NEWNGMEL-978_1, NEWNGMEL-978_5, NEWNGMEL-682_3, NEWNGMEL-978_3, NEWNGMEL-978_7, NEWNGMEL-978_11, NEWNGMEL-978_15, NEWNGMEL-978_13, NEWNGMEL-978_17.</b></br><br/>
+Current Tab selected isHome<br/>
+Current Month is selected.<br/>
+Current week is selected by default.<br/>
+<br>Current Week and month is selected.</br><br/>
+<br><b>A course event was created using date picker.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL - 150_3 Pass</b><br><br/>
+<br><b>A course event was created by manual date entry. Test case NEWNGMEL - 150_4 passed.</b></br><br/>
+<br>Course events checkbox is checked.</br><br/>
+<br>Week view is selected by default.</br><br/>
+<br>Initially week view is displayed.</br><br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+<br>Course events are not displayed when Course events checkbox is unchecked.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-978_5 Pass</b><br><br/>
+The drop down is successfully set toDay<br/>
+<br><b>Day view is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-682_3 Pass</b><br><br/>
+The event is created and displayed on calendar page<br/>
+<br><b>Event is displayed in day view.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-978_3 Pass</b><br><br/>
+<br>Course events are not displayed when Course events checkbox is unchecked.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-978_7 Pass</b><br><br/>
+The expected selected tab is [To do list] and the actual selected tab is [Calendar]<br/>
+Current Month is selected.<br/>
+Current week is selected by default.<br/>
+<br>Current Week and month is selected.</br><br/>
+<br>Course events checkbox is checked.</br><br/>
+<br>Week view is selected by default.</br><br/>
+<br>Initially week view is displayed.</br><br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+<br>Course events are not displayed when Course events checkbox is unchecked.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-978_15 Pass</b><br><br/>
+The drop down is successfully set toDay<br/>
+<br>Day view is displayed.</br><br/>
+The event is created and displayed on calendar page<br/>
+<br><b>Event is displayed in day view.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-978_13 Pass</b><br><br/>
+<br>Course events are not displayed when Course events checkbox is unchecked.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-978_17 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m5"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender:calendarGeneralEventVerify</h2>
+<div style="padding-left:3em">
+<br>Test method: NEWNGMEL - 150_1, NEWNGMEL - 150_2, NEWNGMEL-978_2, NEWNGMEL-978_4, NEWNGMEL-682_3, NEWNGMEL-978_4, NEWNGMEL-978_8, NEWNGMEL-978_12, NEWNGMEL-978_16, NEWNGMEL-978_14, NEWNGMEL-978_18.</br><br/>
+The expected selected tab is [Calendar] and the actual selected tab is [Calendar]<br/>
+Current Month is selected.<br/>
+Current week is selected by default.<br/>
+<br>Current Week and month is selected.</br><br/>
+<br><b>A general event was created using date picker.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL - 150_1 Pass</b><br><br/>
+<br><b>A general event was created by manual input. Test case NEWNGMEL - 150_2 passed.</b></br><br/>
+<br>General events checkbox is checked.</br><br/>
+<br>Week view is selected by default.</br><br/>
+<br>Initially week view is displayed.</br><br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+<br>General events are not displayed when general events checkbox is unchecked.</br><br/>
+<br><b><font color='green'>Test Case  NEWNGMEL-978_6 Pass</b><br><br/>
+The drop down is successfully set toDay<br/>
+<br><b>Day view is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-682_3 Pass</b><br><br/>
+The event is not created and not displayed on calendar page<br/>
+<br><b>General event is not displayed in day view.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_4 Fail</b><br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_8 Fail</b><br><br/>
+The expected selected tab is [To do list] and the actual selected tab is [Calendar]<br/>
+Current Month is selected.<br/>
+Current week is selected by default.<br/>
+<br>Current Week and month is selected.</br><br/>
+<br>General events checkbox is checked.</br><br/>
+<br>Week view is selected by default.</br><br/>
+<br>Initially week view is displayed.</br><br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+<br>General events are not displayed when General events checkbox is unchecked.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-978_16 Pass</b><br><br/>
+The drop down is successfully set toDay<br/>
+<br>Day view is displayed.</br><br/>
+The event is not created and not displayed on calendar page<br/>
+<br><b>Event is not displayed in day view.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_14 Fail</b><br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_18 Fail</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>

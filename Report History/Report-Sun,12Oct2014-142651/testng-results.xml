@@ -1,0 +1,64 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="NMEL-3 Regression Suite">
+    <groups>
+      <group name="regression">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin.ProgramAdminTest()" name="ProgramAdminTest" class="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin"/>
+      </group>
+    </groups>
+    <test name="Regression Tests 1">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2312" started-at="2014-10-12T14:26:48Z" finished-at="2014-10-12T14:26:51Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="8511" started-at="2014-10-12T14:26:40Z" finished-at="2014-10-12T14:26:48Z">
+        </test-method>
+        <test-method status="FAIL" signature="ProgramAdminTest()" name="ProgramAdminTest" duration-ms="1" started-at="2014-10-12T14:26:48Z" description="NML-4_2,NML-4_5,NML-4_6,NML-234_1,NML-234_3,NML-235_1,NML-235_2,NML-235_3" finished-at="2014-10-12T14:26:48Z">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problem: 
+	Duplicate local variable jse
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problem: 
+	Duplicate local variable jse
+
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin.ProgramAdminTest(ProgramAdmin.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

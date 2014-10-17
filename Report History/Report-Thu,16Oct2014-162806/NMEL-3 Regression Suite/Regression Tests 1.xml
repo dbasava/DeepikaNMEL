@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 1" failures="1" tests="6" time="281.538" errors="0">
+  <properties/>
+  <testcase name="@AfterClass tearDown" time="0.0" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList">
+    <failure type="org.openqa.selenium.WebDriverException" message="chrome not reachable
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 35 milliseconds
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Session ID: 4b099c2e44a1707cc15d2d6fb780cec5
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir8844_18725}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]">
+      <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 35 milliseconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 4b099c2e44a1707cc15d2d6fb780cec5
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir8844_18725}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:418)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.tearDown(HomePage_Student_ToDoList.java:416)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 28 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="@BeforeClass setUp" time="0.0" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList">
+    <failure type="org.openqa.selenium.WebDriverException" message="unknown error: cannot get automation extension
+from chrome not reachable
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.55 seconds
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Session ID: 6e0e25a054b55bf4780fa2155b9a91fb
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir3796_6147}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]">
+      <![CDATA[org.openqa.selenium.WebDriverException: unknown error: cannot get automation extension
+from chrome not reachable
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.55 seconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 6e0e25a054b55bf4780fa2155b9a91fb
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir3796_6147}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:783)
+	at com.pearson.piltg.ngmelII.common.Common.setUpCommon(Common.java:300)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList.setUp(HomePage_Teacher_ToDoList.java:29)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 28 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="@AfterClass tearDown" time="0.0" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeClass setUp" time="0.0" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin">
+    <failure type="org.openqa.selenium.WebDriverException" message="unknown error: cannot get automation extension
+from chrome not reachable
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.71 seconds
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Session ID: 365b576f092b0b2f21857be303434903
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir900_15921}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]">
+      <![CDATA[org.openqa.selenium.WebDriverException: unknown error: cannot get automation extension
+from chrome not reachable
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.71 seconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 365b576f092b0b2f21857be303434903
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir900_15921}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:783)
+	at com.pearson.piltg.ngmelII.common.Common.setUpCommon(Common.java:300)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin.setUp(ProgramAdmin.java:38)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 28 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="@AfterClass tearDown" time="0.0" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin">
+    <skipped/>
+  </testcase>
+  <testcase name="selfStudy" time="47.152" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+  <testcase name="verifyBlankAndIncorrectForPractise" time="50.126" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+  <testcase name="verifyAndAttemptActivity" time="143.664" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList">
+    <failure type="org.openqa.selenium.WebDriverException" message="chrome not reachable
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.30 seconds
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Session ID: 4b099c2e44a1707cc15d2d6fb780cec5
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir8844_18725}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]">
+      <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.30 seconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 4b099c2e44a1707cc15d2d6fb780cec5
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir8844_18725}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.logoutFromTheApplication(Common.java:199)
+	at com.pearson.piltg.ngmelII.common.Common.assignActivity(Common.java:615)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyAndAttemptActivity(HomePage_Student_ToDoList.java:37)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 28 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="verifyBlankAndIncorrectForAutograded" time="0.001" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList">
+    <skipped/>
+  </testcase>
+  <testcase name="teacherToDo" time="0.001" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList">
+    <skipped/>
+  </testcase>
+  <testcase name="ProgramAdminTest" time="0.001" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin">
+    <skipped/>
+  </testcase>
+</testsuite>

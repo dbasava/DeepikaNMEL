@@ -1,0 +1,4007 @@
+<testng-results>
+  <reporter-output>
+    <line>
+      <![CDATA[<p>The Teacher created is:Teacher_20141016110711</p>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The teacher is asked to select a course when the teacher has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher created is:Teacher_20141016111654</p>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The teacher is asked to select a course when the teacher has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test cases: NEWNGMEL_763_1, NEWNGMEL_163_1, NEWNGMEL_187_3]]>
+    </line>
+    <line>
+      <![CDATA[The student created is:Student_20141016112640]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<b>The student is not enrolled for the requested product.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_763_1 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is successfully enrolled to course using course id provided by teacher.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_163_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The student is not asked to select a course when the student has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_187_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The student created is:Student_20141016113515]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<b>The student is not enrolled for the requested product.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_763_1 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is successfully enrolled to course using course id provided by teacher.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_163_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The student is not asked to select a course when the student has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_187_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Settings module test case: NEWNGMEL-2744_3.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>User is not able to select a tab without setting country value.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2744_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The student created is:Student_20141016114552]]>
+    </line>
+    <line>
+      <![CDATA[Self study student:]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[The student is not asked to select a course when the student has more than one course.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_160_3, NEWNGMEL_160_4.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>The course is loaded.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The student has access to the Teacher led courses.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_160_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br>The course is loaded.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The student has access to the Teacher led courses.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_160_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-2586_4, NEWNGMEL-2586_7.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitReading (2)]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2is Open]]>
+    </line>
+    <line>
+      <![CDATA[<br>Wrong answer is displayed and Blank answers are displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2586_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2586_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_168_5, NEWNGMEL_168_1, NEWNGMEL_168_2, NEWNGMEL_167_3, NEWNGMEL_168_6, NEWNGMEL-1741_1,NEWNGMEL-1741_2, NEWNGMEL_117_8.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitReading (2)]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [To Do List] is not a valid tab. The valid tabs are [Home, Course, Gradebook, Message, Settings]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Assignments exists on the page..</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1741_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Due date is greater than or equal to current date.Hence due date has not passed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[The list in To Do tab is expanded and all the assignments are displayed.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[UNIT 1, Play The Game!, Reading (2), Exercise 2 found.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_167_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student was able to click the open link to launch the activity.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The assignmentUNIT 1, Play The Game!, Reading (2), Exercise 2still exits on the ToDo list.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1741_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Assignment UNIT 1, Play The Game!, Reading (2), Exercise 2is deleted.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_117_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-2586_3, NEWNGMEL-2586_6, NEWNGMEL-2586_9.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitReading (2)]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [To Do List] is not a valid tab. The valid tabs are [Home, Course, Gradebook, Message, Settings]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Wrong answer is displayed and Blank answers are displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2586_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2586_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Previuos incorrect and blank fields are displayed blank.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2586_9 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_168_7, NEWNGMEL_117_2, NEWNGMEL-117_1, NEWNGMEL-117_3, NEWNGMEL-117_4, NEWNGMEL_117_7,NEWNGMEL_168_8, NEWNGMEL-2039_10, NEWNGMEL-117_7, NEWNGMEL-117_8, NEWNGMEL-139_6, NEWNGMEL-120_1,NEWNGMEL_167_12, NEWNGMEL-125_1, NEWNGMEL-117_11, NEWNGMEL-117_12, NEWNGMEL-117_14, NEWNGMEL-117_15NEWNGMEL-117_16, NEWNGMEL-117_17.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitSchwa /ə/]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>The expected selected tab is Home and the actual selected tab is HOME</font>]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [To Do List] is not a valid tab. The valid tabs are [Home, Course, Gradebook, Message, Settings]]]>
+    </line>
+    <line>
+      <![CDATA[<br>Assignments exists on the page]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Past date error message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Error message is displayed when past date is entered.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_117_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher is able to re-set the due date from To-Do for an assignment for a student.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-117_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Due date for UNIT 9, Pronunciation practice, Schwa /ə/, Exercise 1is changed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[The drop down is successfully set toWeek]]>
+    </line>
+    <line>
+      <![CDATA[Deepika is this done]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-117_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-117_4 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[getRecentActivityTableContents  is done]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to verify the due date changed in To Do under Recent Activity tab.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_117_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [To Do List] is not a valid tab. The valid tabs are [Home, Course, Gradebook, Message, Settings]]]>
+    </line>
+    <line>
+      <![CDATA[<br>Due date is greater than or equal to current date.Hence due date has not passed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is able to verify due date changed by the teacher.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2039_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The drop down is successfully set toWeek]]>
+    </line>
+    <line>
+      <![CDATA[Deepika 18]]>
+    </line>
+    <line>
+      <![CDATA[element not visible
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: bd780cc49b85dc3049841c0e2f338abc
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir8096_3657}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is now in Program Administrator role]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NML-4_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NML-235_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitGrammar - Present simple]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1*is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<br>View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[getRecentActivityTableContents  is done]]>
+    </line>
+    <line>
+      <![CDATA[est [Today, New event Event1666316922dtPick has been added at 17 Oct 2014, 9:22 AM by Teacher_, Teacher_20141016110711
+General, New event Event1666316922dtPick has been added at 17 Oct 2014, 9:21 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Edit
+See report
+Assignment UNIT 1, Play The Game!, Grammar - Present simple, Exercise 1* has been sent 17 Oct 2014, 9:19 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Today, New event Event1666316922dtPick has been added at 17 Oct 2014, 9:22 AM by Teacher_, Teacher_20141016110711
+General, New event Event1666316922dtPick has been added at 17 Oct 2014, 9:21 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Edit
+See report
+Assignment UNIT 1, Play The Game!, Grammar - Present simple, Exercise 1* has been sent 17 Oct 2014, 9:19 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Edit
+See report
+Assignment's UNIT 9, Pronunciation practice, Schwa /ə/, Exercise 1 due date was changed to 18 Oct 2014, 9:30 PM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Edit
+See report
+Assignment UNIT 9, Pronunciation practice, Schwa /ə/, Exercise 1 has been sent 17 Oct 2014, 9:11 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Assignment UNIT 1, Play The Game!, Reading (2), Exercise 2 has been deleted 17 Oct 2014, 9:07 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Today, New event Event1666316922dtPick has been added at 17 Oct 2014, 9:22 AM by Teacher_, Teacher_20141016110711
+General, New event Event1666316922dtPick has been added at 17 Oct 2014, 9:21 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Edit
+See report
+Assignment UNIT 1, Play The Game!, Grammar - Present simple, Exercise 1* has been sent 17 Oct 2014, 9:19 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Edit
+See report
+Assignment's UNIT 9, Pronunciation practice, Schwa /ə/, Exercise 1 due date was changed to 18 Oct 2014, 9:30 PM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Edit
+See report
+Assignment UNIT 9, Pronunciation practice, Schwa /ə/, Exercise 1 has been sent 17 Oct 2014, 9:11 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Assignment UNIT 1, Play The Game!, Reading (2), Exercise 2 has been deleted 17 Oct 2014, 9:07 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2, Assignment UNIT 1, Play The Game!, Reading (2), Exercise 2 has been deleted 17 Oct 2014, 9:00 AM by Teacher_, Teacher_20141016110711
+Course_20141016111007 - Next Move 2]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>By default,the filter is set to Everything under Recent activity tab.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_12 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by assignments only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_9 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by general events only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by course events only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Completed filterActivitesTeacher]]>
+    </line>
+    <line>
+      <![CDATA[Completed filterActivitesTeacher]]>
+    </line>
+    <line>
+      <![CDATA[<br>View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[getRecentActivityTableContents  is done]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>The recent activities are displayed when the student navigates to the Recent Activity tab.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-37_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>By default,the filter is set to Everything under Recent activity tab.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-37_12 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is not able to filter Recent activity tab by assignments only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-37_9 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by general events only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-37_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by course events only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-37_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test method : NEWNGMEL_117_4, NEWNGMEL_117_3,NEWNGMEL-2039_11, NEWNGMEL_117_6.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitGrammar - Present simple]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2*is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>The latest assigned activity is displayed on teacher recent activity page.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[Past date error message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Error message is displayed when past date is entered.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_117_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to change the due date successfully.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Due date for UNIT 1, Play The Game!, Grammar - Present simple, Exercise 2*is changed.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_117_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_117_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[getRecentActivityTableContents  is done]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Student is able to verify the due date changed by teacher to appear under Recent Activity tab.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2039_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>The assignment is not deleted from recent activity tab.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_117_6 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Test cases: NEWNGMEL-1682_5,NEWNGMEL-1682_6.</br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSettings]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-1682_1,NEWNGMEL-1682_2.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher messageFw: Subject Test.677is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1682_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student messageFw: Subject Test.677is displayed in teacher inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1682_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Test method: NEWNGMEL-2528_3, NEWNGMEL-2528_8, NEWNGMEL-2528_4, NEWNGMEL-2528_5.</br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPast Lives]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - History]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2*is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>The expected selected tab is To Do List and the actual selected tab is HOME</font>]]>
+    </line>
+    <line>
+      <![CDATA[The expected selected tab is [Calendar] and the actual selected tab is [Calendar]]]>
+    </line>
+    <line>
+      <![CDATA[Current Month is selected.]]>
+    </line>
+    <line>
+      <![CDATA[Current week is selected by default.]]>
+    </line>
+    <line>
+      <![CDATA[<br>Current Month and week is selected.</br>]]>
+    </line>
+    <line>
+      <![CDATA[Verification sucessful]]>
+    </line>
+    <line>
+      <![CDATA[Verification sucessful]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2528_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The drop down is successfully set toDay]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Event was created with past date.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL - 150_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Event was created with past date.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL - 150_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is not able to create a course event.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL - 150_12 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>A course event was not created.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[General event not created by Student.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL - 150_3, NEWNGMEL - 150_4, NEWNGMEL-978_1, NEWNGMEL-978_5, NEWNGMEL-682_3, NEWNGMEL-978_3, NEWNGMEL-978_7, NEWNGMEL-978_11, NEWNGMEL-978_15, NEWNGMEL-978_13, NEWNGMEL-978_17.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[Current Month is selected.]]>
+    </line>
+    <line>
+      <![CDATA[Current week is selected by default.]]>
+    </line>
+    <line>
+      <![CDATA[<br>Current Week and month is selected.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>A course event was created using date picker.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL - 150_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>A course event was created by manual date entry. Test case NEWNGMEL - 150_4 passed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Course events checkbox is checked.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Week view is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Initially week view is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[Verification sucessful]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-978_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[<br>Course events are not displayed when Course events checkbox is unchecked.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-978_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The drop down is successfully set toDay]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Day view is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-682_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The event is not created and not displayed on calendar page]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Event is not displayed in day view.<b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-978_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-978_7 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The expected selected tab is [To do list] and the actual selected tab is [Calendar]]]>
+    </line>
+    <line>
+      <![CDATA[Current Month is selected.]]>
+    </line>
+    <line>
+      <![CDATA[Current week is selected by default.]]>
+    </line>
+    <line>
+      <![CDATA[<br>Current Week and month is selected.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Course events checkbox is checked.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Week view is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Initially week view is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[Verification sucessful]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-978_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[<br>Course events are not displayed when Course events checkbox is unchecked.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-978_15 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The drop down is successfully set toDay]]>
+    </line>
+    <line>
+      <![CDATA[<br>Day view is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[The event is not created and not displayed on calendar page]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Event is not displayed in day view.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-978_13 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-978_17 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Test method: NEWNGMEL - 150_1, NEWNGMEL - 150_2, NEWNGMEL-978_2, NEWNGMEL-978_4, NEWNGMEL-682_3, NEWNGMEL-978_4, NEWNGMEL-978_8, NEWNGMEL-978_12, NEWNGMEL-978_16, NEWNGMEL-978_14, NEWNGMEL-978_18.</br>]]>
+    </line>
+    <line>
+      <![CDATA[The expected selected tab is [Calendar] and the actual selected tab is [Calendar]]]>
+    </line>
+    <line>
+      <![CDATA[Current Month is selected.]]>
+    </line>
+    <line>
+      <![CDATA[Current week is selected by default.]]>
+    </line>
+    <line>
+      <![CDATA[<br>Current Week and month is selected.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>A general event was created using date picker.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL - 150_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>A general event was created by manual input. Test case NEWNGMEL - 150_2 passed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>General events checkbox is checked.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Week view is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Initially week view is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[<br>General events are not displayed when general events checkbox is unchecked.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case  NEWNGMEL-978_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The drop down is successfully set toDay]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Day view is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-682_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The event is not created and not displayed on calendar page]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>General event is not displayed in day view.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-978_4 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-978_8 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The expected selected tab is [To do list] and the actual selected tab is [Calendar]]]>
+    </line>
+    <line>
+      <![CDATA[Current Month is selected.]]>
+    </line>
+    <line>
+      <![CDATA[Current week is selected by default.]]>
+    </line>
+    <line>
+      <![CDATA[<br>Current Week and month is selected.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>General events checkbox is checked.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Week view is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Initially week view is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[Verification sucessful]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>General event is displayed in week view.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-978_12 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[The event type is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[<br>General events are not displayed when General events checkbox is unchecked.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-978_16 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The drop down is successfully set toDay]]>
+    </line>
+    <line>
+      <![CDATA[<br>Day view is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[The event is not created and not displayed on calendar page]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Event is not displayed in day view.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-978_14 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-978_18 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-190_11, NEWNGMEL-190_13, NEWNGMEL-190_15, NEWNGMEL-190_16, NEWNGMEL-190_17, NEWNGMEL-190_18.</b>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Sent message tab is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>The table headers exists in Sent Items tab]]>
+    </line>
+    <line>
+      <![CDATA[<br>Sent messageSubject Test.68is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Most recent messages appear first.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per priorities.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_13 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for recipeints.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_14 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for subject.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_15 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per the dates.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_16 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are displayed as per the dates.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_18 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The contents are deleted.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_17 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_42, NEWNGMEL-189_44, NEWNGMEL-189_45, NEWNGMEL-189_46, NEWNGMEL-189_47, NEWNGMEL-189_48.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default	.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher messageSubject Test.574 is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_42 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_44 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is able to see all the  From (sender name), To (recipient list), Subject (message subject) and the message Content.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_45 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Correct data is displayed in the message.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student is navigated to New Message tab in reply mode.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The recipients and the subject are already filled with appropriate values.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_46 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher is navigated to New Message tab in forward mode.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The recipients field is empty and the subject are already filled.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_47 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Dialog box for delete confirmation is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_48 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_25, NEWNGMEL-189_29, NEWNGMEL-189_26,NEWNGMEL-189_27, NEWNGMEL-189_28.</b>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Message notification is displayed.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_25 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Inbox is selected by default.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_29 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Latest messages appear first.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_26 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher messageSubject Test.287is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher messageSubject Test.308is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Message notification is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The notification counter is reduced by 1.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_27 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The no notification displayed.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_28 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-147_14, NEWNGMEL-147_15, NEWNGMEL-147_17, NEWNGMEL-147_16, NEWNGMEL-147_13, NEWNGMEL-147_18, NEWNGMEL-147_11, NEWNGMEL-147_19.</b>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Error message is displayed for empty recipient list.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_14 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student can enter recipient manually.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-147_15 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Error message is displayed for empty subject line list.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_17 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>An error message for long subject is displayed.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_16 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Recipients are displayed in Recipients field.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_13 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>By default priority is set to Normal]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is able to set priority.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_18 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is able to send message from new message tab.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The message exists in Sent Items tab]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The message sent is displayed in Sent messages tab.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_19 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_30, NEWNGMEL-189_31, NEWNGMEL-189_32, NEWNGMEL-189_33, NEWNGMEL-189_34, NEWNGMEL-189_35, NEWNGMEL-189_37, NEWNGMEL-189_38, NEWNGMEL-189_39, NEWNGMEL-189_40, NEWNGMEL-189_36, NEWNGMEL-189_41.</b>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher messageSubject Test.799is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher messageSubject Test.903is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The message sent by the teacher and column headers are displayed in Inbox tab.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_30 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per priorities.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_31 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for sender type.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_32 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for sender.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_33 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for Subject.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_34 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per the dates.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_35 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_1, NEWNGMEL-189_2, NEWNGMEL-189_3, NEWNGMEL-189_4.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Message notification is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Latest messages appear first.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student messageSubject Test.288is displayed in teacher inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student messageSubject Test.241is displayed in teacher inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Message notification is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The notification counter is reduced by 1.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The no notification displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_7, NEWNGMEL-189_8, NEWNGMEL-189_9, NEWNGMEL-189_10, NEWNGMEL-189_11, NEWNGMEL-189_13, NEWNGMEL-189_15, NEWNGMEL-189_16, NEWNGMEL-189_12.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>The table headers exists in Inbox tab]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are not sorted as per priorities.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-189_7 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for sender type.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for sender.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_9 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for Subject.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are not sorted  as per the dates.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-189_11 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-147_5, NEWNGMEL-147_8, NEWNGMEL-147_7, NEWNGMEL-147_4, NEWNGMEL-147_1, NEWNGMEL-147_10.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Error message is displayed for empty recipient list.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher cannot enter recipient manually. ]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Error message is displayed for empty subject line list.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>An error message for long subject is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Recipients are displayed in Recipients field.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>By default priority is set to Normal]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher is able to send from new message tab.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The message exists in Sent Items tab]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The message sent is displayed in Sent messages tab.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_18, NEWNGMEL-189_21, NEWNGMEL-189_22, NEWNGMEL-189_23, NEWNGMEL-189_24.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student messageSubject Test.934is displayed in teacher inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher is able to read message by clicking on the message.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_18 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher is able to see all the  From (sender name), To (recipient list), Subject (message subject) and the message Content.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_21 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Incorrect data is displayed in the message.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher is navigated to New Message tab in reply mode.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The recipients and the subject are already filled with appropriate values.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_22 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher is navigated to New Message tab in forward mode.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The recipients field is empty and the subject are already filled.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_23 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Dialog box for delete confirmation is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_24 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-147_2, NEWNGMEL-147_3, NEWNGMEL-1681_5, NEWNGMEL-1681_6, NEWNGMEL-153_2.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSettings]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher is able to send message to the student.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The contact list checkbox is disabled.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_12 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Student is able to send message to only the teacher and not student when the messanger is turned off.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-153_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-190_1, NEWNGMEL-190_3 , NEWNGMEL-190_5, NEWNGMEL-190_6,  NEWNGMEL-190_7, NEWNGMEL-190_4, NEWNGMEL-190_8.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Sent message tab is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>The table headers exists in Sent Items tab]]>
+    </line>
+    <line>
+      <![CDATA[<br>Sent messagenullis not displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Latest messages appear first.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per priorities.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for recipeints.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for subject.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per the dates.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are displayed as per the dates.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The contents are deleted.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL_113_3]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font>]]>
+    </line>
+    <line>
+      <![CDATA[The Home tab did not load appropriatly.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is in Expert mode]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Loaded TabCOURSE SETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[Default value for score to gradebookUnlimited]]>
+    </line>
+    <line>
+      <![CDATA[Default value for score to gradebookUnlimited]]>
+    </line>
+    <line>
+      <![CDATA[Default value for score to gradebook1]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_1873_1 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Error In the Page]]>
+    </line>
+    <line>
+      <![CDATA[Student_20141016112640logged out]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL_113_1,NEWNGMEL_113_2,NEWNGMEL_113_3,NEWNGMEL_113_5,NEWNGMEL_113_6,NEWNGMEL_1873_1,NEWNGMEL-2037_11,NEWNGMEL-2037_12]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font>]]>
+    </line>
+    <line>
+      <![CDATA[The Home tab did not load appropriatly.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is in Expert mode]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Loaded TabCOURSE SETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[ new vaule selected is4]]>
+    </line>
+    <line>
+      <![CDATA[ new vaule selected is4]]>
+    </line>
+    <line>
+      <![CDATA[X
+The updated course settings have been saved]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1873_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unit Pronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitIntonation in questions and answers]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_113_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_113_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Test Case NEWNGMEL-2037_11  Pass</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2037_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_20141016110711 logged out]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL_113_6]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font>]]>
+    </line>
+    <line>
+      <![CDATA[The Home tab did not load appropriately.]]>
+    </line>
+    <line>
+      <![CDATA[View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL_336_7,NEWNGMEL_336_9,NEWNGMEL_336_10,NEWNGMEL_336_12,Toc-Student NEWNGMEL-2269_1]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font>]]>
+    </line>
+    <line>
+      <![CDATA[The Home tab did not load appropriatly.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is now in Basic mode]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_336_7 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_336_12 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL-2037_10.]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font>]]>
+    </line>
+    <line>
+      <![CDATA[The Home tab did not load appropriately.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is now in Expert mode]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL_336_2,NEWNGMEL_336_3,NEWNGMEL_336_4,NEWNGMEL_336_5.]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font>]]>
+    </line>
+    <line>
+      <![CDATA[The Home tab did not load appropriatly.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is now in Basic mode]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_336_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL_1873_2,NEWNGMEL_1873_3]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is now in Expert mode]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-1683_3, NEWNGMEL-1683_4.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1683_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-1683_1, NEWNGMEL-1683_2.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1683_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-2475_21</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitSchwa /ə/]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1is Assign again]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Mark link exists. Hence teacher is able to see the number of assignments that have been submitted.</br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is allowed to add textual comments along with the mark while grading the assignment. Grading test case.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-126_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test Case NEWNGMEL-2475_21 Pass Partially</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Mark link does not exists. Hence teacher is not able to see the number of assignments that have been submitted.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-2475_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-2475_21 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-2475_17</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitSpeaking and listening]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitSpeaking - Opinions]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2475_17 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-2475_5,NEWNGMEL-126_1(Grading scenario).</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitIntonation in questions and answers]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Mark link exists. Hence teacher is able to see the number of assignments that have been submitted.</br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is allowed to add textual comments along with the mark while grading the assignment. Grading test case.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-126_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2475_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Test method: NEWNGMEL-1681_1,NEWNGMEL-1681_2.</br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher reply messageRe: Subject Test.431is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1681_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student reply messageRe: Subject Test.431is displayed in teacher inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1681_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2**is Open]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 3**is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2**is Open]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_13 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSettings]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'>Exception Occured.</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[The scores are exported as excel.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2205_24 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[The scores are exported as excel.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2205_17 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitWord stress in adjectives]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[Mark link exists. Hence teacher is able to see the number of assignments that have been submitted.]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[no such element
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: da0510c609b7704c31c500de5fe1aff3
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir2888_10636}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the Gradebook of the course for the teacher graded activity.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the students scores at course level under gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_13 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the students scores at unit level under gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_14 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the students scores at sub unit level under gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the students scores at activity level under gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_15 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to expand the Gradebook screen by clicking on the expand arrow (<<) under course tab.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_9 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is entitled to more than one product.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to navigate between courses.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The default selected value is Assignments & Tests.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The gradebook view is changed to the selected course.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2029_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to sort the student name columns in Gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2**is tried again]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is be able to view the Gradebook of the course for the auto graded activity. Test case NEWNGMEL-131_1 passed.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case  Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the recorded accumulated number of attempts under Gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_961_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_961_10 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-131_1 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL-3212_1,NEWNGMEL-3212_2]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is now in Expert mode]]>
+    </line>
+    <line>
+      <![CDATA[Test Methods : NEWNGMEL_1087_7]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is in Expert mode]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unit Play The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitGrammar - Present simple]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1*is Assign again]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to override default settings from send assignment page.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1087_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test Method : NEWNGMEL_1490_4, NEWNGMEL_1490_1,NEWNGMEL_1490_2 ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSettings]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1490_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSettings]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1490_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1490_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_1063_4.<br><b>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method : NEWNGMEL_163_3]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_1063_3,NEWNGMEL_1063_5,NEWNGMEL-1770_1,NEWNGMEL-1770_2,NEWNGMEL-1770_3,NEWNGMEL-1770_5,NEWNGMEL-1770_6,NEWNGMEL-1770_7,NEWNGMEL-1973_2,NEWNGMEL-1973_3,NEWNGMEL-1975_1,NEWNGMEL-1975_2,NEWNGMEL-1975_3,NEWNGMEL-1975_5, NEWNGMEL-1770_2.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is in Expert mode]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1770_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>The error message is displayed.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1770_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1770_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Error message is displayed.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1770_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_961_1, NEWNGMEL_961_3,NEWNGMEL_961_2.<br><b>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Home Page is loaded</br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[Loaded TabCourse Settings]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_961_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_961_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_961_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_97_1, NEWNGMEL_97_2, NEWNGMEL_97_3, NEWNGMEL_97_7, NEWNGMEL_97_4, NEWNGMEL_97_8, NEWNGMEL_97_5,NEWNGMEL_97_6.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_97_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Unit 1 is hidden for the student.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_97_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher is able to un-hide previously hidden unit bucket.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_97_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Unit Play The Game! is disabled.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_97_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is able to view the un-hidden content.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_97_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>UNIT 1 is hidden for the student.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_97_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_97_6 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test Methods : NEWNGMEL-964_3,NEWNGMEL-964_2,NEWNGMEL-964_5]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options value--Course_20141016111007]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitSyllables]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[Password1234  logged out]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHOME]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL-2332_1,NEWNGMEL-2332_3,NEWNGMEL-2332_12]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is in Expert mode]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unit Grammar reference]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unit Grammar practice - Present continuous]]>
+    </line>
+    <line>
+      <![CDATA[Previwed window is displayed and window id isCDwindow-ADCE8456-A390-45D4-A696-77768370046C]]>
+    </line>
+    <line>
+      <![CDATA[Previwed fillin]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2332_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-:2332_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unit Pronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unit Word stress in adjectives]]>
+    </line>
+    <line>
+      <![CDATA[Previwed window is displayed and window id isCDwindow-07FD861B-7ABB-4A98-AD85-C54E0548C136]]>
+    </line>
+    <line>
+      <![CDATA[Previwed audiosubmit]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2332_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-:2332_12 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2**is tried again]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is not able to view the scores for the student in  gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-131_1 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the recorded accumulated number of attempts under Gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_961_10 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2**is tried again]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to drill down on a student to see the students individual scores.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_12 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the first attempt score/grade results in the Gradebook for practice activity.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is unable to drill down on a student to see the students individual scores.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-131_12 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the last attempt score/grade results in the Gradebook for practice activity.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is unable to view the last attempt score/grade results in the Gradebook for practice activity.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-1369_7 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is not able to toggle between first attempt and last attempt scores.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-131_11 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2**is tried again]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'>Exception Occured.</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Student is able to see the report window.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-139_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Student is able to view first attempt scores for autograded practice.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_187_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Student is able to view last attempt scores for autograded pracrice.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_187_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :Submit link is displayed.Submit link is disabled</b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :View link is displayed.View link is enabled.</b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :Discard link is displayed.Discard link is enabled.</b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Fail :Submit Batch button is disabled.</b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :No students error is displayed.</b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :Edit Student successful. TC NML-202_4 Pass </b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :Student deleted. TC NML-202_3 Pass. </b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Fail :Teacher able to submit batch. If the Teacher doesn't confirm the batch with legal T'c & C's TC NML-2055_1 Fail. </b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_187_6.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitProgress Test 1]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [To Do List] is not a valid tab. The valid tabs are [Home, Course, Gradebook, Message, Settings]]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitProgress Test 1]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitProgress Test 1]]>
+    </line>
+    <line>
+      <![CDATA[Student is able to view the first attempt score/grade results in the Gradebook for Test activity.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_187_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-194_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-194_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-152_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-152_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test Methods : NEWNGMEL_1063_2,NEWNGMEL_332_2,NEWNGMEL-2966_1, NEWNGMEL-2966_2, NEWNGMEL-2966_3 ]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Language set is Italiano.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The footer contains copyright, my english lab url and terms and condition.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2966_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Pop up window is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[PDF window is displayed. ]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2966_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL-107_1,NEWNGMEL-107_3]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[X
+Selected students have been removed from course.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGRADEBOOK]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-107_1 Fail</b><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="NMEL-3 Regression Suite">
+    <groups>
+      <group name="register">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerCandidateStudent()" name="registerCandidateStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+      </group>
+      <group name="rumba">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerInstructor()" name="registerInstructor" class="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+      </group>
+      <group name="movestudent">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt()" name="preConditionTeacherGradedAssignAndAttempt" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+      </group>
+      <group name="regression">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList.teacherToDo()" name="teacherToDo" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.selfStudy()" name="selfStudy" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyBlankAndIncorrectForPractise()" name="verifyBlankAndIncorrectForPractise" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyAndAttemptActivity()" name="verifyAndAttemptActivity" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyBlankAndIncorrectForAutograded()" name="verifyBlankAndIncorrectForAutograded" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin.ProgramAdminTest()" name="ProgramAdminTest" class="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesTeacher()" name="filterActivitesTeacher" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesStudent()" name="filterActivitesStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.recentActivityTest()" name="recentActivityTest" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.inboxMessageNotification()" name="inboxMessageNotification" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender.calendarAssignment()" name="calendarAssignment" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.inboxMessageViewAndSort()" name="inboxMessageViewAndSort" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.messageCreate()" name="messageCreate" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.inboxMessageReadMessage()" name="inboxMessageReadMessage" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.turnOffMessangerAndCreateMessage()" name="turnOffMessangerAndCreateMessage" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage.forwardMessageTurnOff()" name="forwardMessageTurnOff" class="com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.sentMessagesViewAndSortStudent()" name="sentMessagesViewAndSortStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.inboxMessageReadStudent()" name="inboxMessageReadStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.messageInboxNotificationStudent()" name="messageInboxNotificationStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.sentMessageViewAndSort()" name="sentMessageViewAndSort" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender.calendarAddEventsOnPastDates()" name="calendarAddEventsOnPastDates" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender.addEventStudent()" name="addEventStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.messageCreateStudent()" name="messageCreateStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.inboxViewAndSortStudent()" name="inboxViewAndSortStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender.calendarCourseVerify()" name="calendarCourseVerify" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage.forwardMessage()" name="forwardMessage" class="com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender.calendarGeneralEventVerify()" name="calendarGeneralEventVerify" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage.studentDelete()" name="studentDelete" class="com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.assignAssignmentDefaultSettingExpertMode()" name="assignAssignmentDefaultSettingExpertMode" class="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements.toDoAssignmentDisappearStudent()" name="toDoAssignmentDisappearStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements.recentActivityEnhancementsStudent()" name="recentActivityEnhancementsStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.assignAssignmentExpertMode()" name="assignAssignmentExpertMode" class="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.studentAttemptAssignAssignmentExpertMode()" name="studentAttemptAssignAssignmentExpertMode" class="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage.teacherDelete()" name="teacherDelete" class="com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.ReplyMessage.replyMessage()" name="replyMessage" class="com.pearson.piltg.ngmelII.RegressionNMELIII.ReplyMessage"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements.toDoEnhancementsTeacher()" name="toDoEnhancementsTeacher" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.sendAssignmentPageVerificationForCourseEndDateGreaterExpertMode()" name="sendAssignmentPageVerificationForCourseEndDateGreaterExpertMode" class="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.studentsAttemptsPractiseActivity()" name="studentsAttemptsPractiseActivity" class="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebook()" name="gradebook" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookFunctions()" name="gradebookFunctions" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookAutoGradedPractice()" name="gradebookAutoGradedPractice" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradeBookExport()" name="gradeBookExport" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookTeacherGradedAssignment()" name="gradebookTeacherGradedAssignment" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.viewScoresAtLevelPracticeActivity()" name="viewScoresAtLevelPracticeActivity" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign.reAssignAssignments()" name="reAssignAssignments" class="com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.changeDefaultEndDate()" name="changeDefaultEndDate" class="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_teacher.previewAssignments()" name="previewAssignments" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Show_Hide.showHide()" name="showHide" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Show_Hide"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.enrollCourse()" name="enrollCourse" class="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.courseSettingValidation()" name="courseSettingValidation" class="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.verifyNumberOfAttempts()" name="verifyNumberOfAttempts" class="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Help.studentHelp()" name="studentHelp" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Help"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Help.teacherHelp()" name="teacherHelp" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Help"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebookAutoGradedPractice()" name="gradebookAutoGradedPractice" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher"/>
+      </group>
+      <group name="autogradedAttempt">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutogradedAttempt()" name="preConditionAutogradedAttempt" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutoGradedAssignNAttempt()" name="preConditionAutoGradedAssignNAttempt" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+      </group>
+    </groups>
+    <test name="Regression Tests 4">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign">
+        <test-method status="PASS" signature="reAssignAssignments()" name="reAssignAssignments" duration-ms="180805" started-at="2014-10-17T03:41:59Z" description="NEWNGMEL-3212_1,NEWNGMEL-3212_2" finished-at="2014-10-17T03:45:00Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9925" started-at="2014-10-17T03:41:49Z" finished-at="2014-10-17T03:41:59Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2342" started-at="2014-10-17T03:45:00Z" finished-at="2014-10-17T03:45:02Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2">
+        <test-method status="PASS" signature="viewScoresAtLevelPracticeActivity()" name="viewScoresAtLevelPracticeActivity" duration-ms="118217" started-at="2014-10-17T03:25:45Z" description="NEWNGMEL-1369_13, NEWNGMEL-1369_14, NEWNGMEL-1369_15" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutogradedAttempt" finished-at="2014-10-17T03:27:43Z">
+        </test-method>
+        <test-method status="PASS" signature="assignmentAverage()" name="assignmentAverage" duration-ms="356826" started-at="2014-10-17T03:06:35Z" description="NEWNGMEL-131_13, NEWNGMEL-131_14, NEWNGMEL-131_15" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutogradedAttempt" finished-at="2014-10-17T03:12:32Z">
+        </test-method>
+        <test-method status="PASS" signature="preConditionTeacherGradedAssignAndAttempt()" name="preConditionTeacherGradedAssignAndAttempt" duration-ms="401704" started-at="2014-10-17T03:14:38Z" finished-at="2014-10-17T03:21:20Z">
+        </test-method>
+        <test-method status="PASS" signature="gradebookAutoGradedPractice()" name="gradebookAutoGradedPractice" duration-ms="441465" started-at="2014-10-17T03:34:25Z" description="NEWNGMEL-139_3, NEWNGMEL-131_1, NEWNGMEL_961_10, NEWNGMEL-131_11, NEWNGMEL-131_12." finished-at="2014-10-17T03:41:47Z">
+        </test-method>
+        <test-method status="PASS" signature="preConditionAutoGradedAssignNAttempt()" name="preConditionAutoGradedAssignNAttempt" duration-ms="251808" started-at="2014-10-17T03:00:09Z" finished-at="2014-10-17T03:04:20Z">
+        </test-method>
+        <test-method status="PASS" signature="gradebook()" name="gradebook" duration-ms="97287" started-at="2014-10-17T03:27:43Z" description="NEWNGMEL-131_9, NEWNGMEL-131_3, NEWNGMEL-131_4, NEWNGMEL-131_5, NEWNGMEL-131_6, NEWNGMEL-131_7, NEWNGMEL-131_8." finished-at="2014-10-17T03:29:20Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9001" started-at="2014-10-17T02:57:21Z" finished-at="2014-10-17T02:57:30Z">
+        </test-method>
+        <test-method status="PASS" signature="gradebookTeacherGradedAssignment()" name="gradebookTeacherGradedAssignment" duration-ms="140195" started-at="2014-10-17T03:21:20Z" description="NEWNGMEL-131_2,NEWNGMEL-139_5." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt" finished-at="2014-10-17T03:23:40Z">
+        </test-method>
+        <test-method status="PASS" signature="gradeBookExport()" name="gradeBookExport" duration-ms="126168" started-at="2014-10-17T03:12:32Z" description="NEWNGMEL-2205_24, NEWNGMEL-2205_17" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutoGradedAssignNAttempt" finished-at="2014-10-17T03:14:38Z">
+        </test-method>
+        <test-method status="PASS" signature="viewScoresAtLevelAutoGradedAssignment()" name="viewScoresAtLevelAutoGradedAssignment" duration-ms="134433" started-at="2014-10-17T03:04:20Z" description="NEWNGMEL-2205_12,NEWNGMEL-2205_13,NEWNGMEL-2205_14,NEWNGMEL-2205_15" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutoGradedAssignNAttempt" finished-at="2014-10-17T03:06:35Z">
+        </test-method>
+        <test-method status="PASS" signature="viewScoresAtLevelAssignmentTeacherGraded()" name="viewScoresAtLevelAssignmentTeacherGraded" duration-ms="125103" started-at="2014-10-17T03:23:40Z" description="NEWNGMEL-2205_7, NEWNGMEL-2205_5, NEWNGMEL-2205_3, NEWNGMEL-2205_1" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt" finished-at="2014-10-17T03:25:45Z">
+        </test-method>
+        <test-method status="PASS" signature="gradebookFunctions()" name="gradebookFunctions" duration-ms="304641" started-at="2014-10-17T03:29:20Z" description="NEWNGMEL-1369_5, NEWNGMEL-2029_2, NEWNGMEL-131_10" finished-at="2014-10-17T03:34:25Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2428" started-at="2014-10-17T03:41:47Z" finished-at="2014-10-17T03:41:49Z">
+        </test-method>
+        <test-method status="PASS" signature="preConditionAutogradedAttempt()" name="preConditionAutogradedAttempt" duration-ms="158651" started-at="2014-10-17T02:57:30Z" finished-at="2014-10-17T03:00:09Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Regression Tests 5">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_teacher">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10017" started-at="2014-10-17T04:36:34Z" finished-at="2014-10-17T04:36:44Z">
+        </test-method>
+        <test-method status="PASS" signature="previewAssignments()" name="previewAssignments" duration-ms="380946" started-at="2014-10-17T04:36:44Z" description="NEWNGMEL-2332_1,NEWNGMEL-2332_3,NEWNGMEL-2332_12" finished-at="2014-10-17T04:43:05Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2399" started-at="2014-10-17T04:43:05Z" finished-at="2014-10-17T04:43:08Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Show_Hide">
+        <test-method status="PASS" signature="showHide()" name="showHide" duration-ms="486392" started-at="2014-10-17T04:14:47Z" description="NEWNGMEL_97_1, NEWNGMEL_97_2, NEWNGMEL_97_3, NEWNGMEL_97_7, NEWNGMEL_97_4, NEWNGMEL_97_8, NEWNGMEL_97_5,NEWNGMEL_97_6" finished-at="2014-10-17T04:22:54Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2328" started-at="2014-10-17T04:22:54Z" finished-at="2014-10-17T04:22:56Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="12143" started-at="2014-10-17T04:14:35Z" finished-at="2014-10-17T04:14:47Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile">
+        <test-method status="PASS" signature="settings()" name="settings" duration-ms="457796" started-at="2014-10-17T03:45:11Z" description="NEWNGMEL_1087_7" finished-at="2014-10-17T03:52:49Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2338" started-at="2014-10-17T04:01:13Z" finished-at="2014-10-17T04:01:16Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9327" started-at="2014-10-17T03:45:02Z" finished-at="2014-10-17T03:45:11Z">
+        </test-method>
+        <test-method status="PASS" signature="changePassword()" name="changePassword" duration-ms="504205" started-at="2014-10-17T03:52:49Z" description="NEWNGMEL_1490_4, NEWNGMEL_1490_1,NEWNGMEL_1490_2" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile.settings" finished-at="2014-10-17T04:01:13Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_Student">
+        <test-method status="PASS" signature="tocTreeStructure1()" name="tocTreeStructure1" duration-ms="806358" started-at="2014-10-17T04:23:07Z" finished-at="2014-10-17T04:36:33Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10790" started-at="2014-10-17T04:22:56Z" finished-at="2014-10-17T04:23:07Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1265" started-at="2014-10-17T04:36:33Z" finished-at="2014-10-17T04:36:34Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings">
+        <test-method status="PASS" signature="changeDefaultEndDate()" name="changeDefaultEndDate" duration-ms="69296" started-at="2014-10-17T04:01:52Z" description="NEWNGMEL_1063_4" finished-at="2014-10-17T04:03:02Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2615" started-at="2014-10-17T04:14:33Z" finished-at="2014-10-17T04:14:35Z">
+        </test-method>
+        <test-method status="PASS" signature="enrollCourse()" name="enrollCourse" duration-ms="52856" started-at="2014-10-17T04:03:02Z" description="NEWNGMEL_163_3" finished-at="2014-10-17T04:03:55Z">
+        </test-method>
+        <test-method status="PASS" signature="courseSettingValidation()" name="courseSettingValidation" duration-ms="335986" started-at="2014-10-17T04:03:55Z" description="NEWNGMEL_1063_3,NEWNGMEL_1063_5,NEWNGMEL-1770_1,NEWNGMEL-1770_2,NEWNGMEL-1770_3,NEWNGMEL-1770_5,NEWNGMEL-1770_6,NEWNGMEL-1770_7,NEWNGMEL-1973_2,NEWNGMEL-1973_3,NEWNGMEL-1975_1,NEWNGMEL-1975_2,NEWNGMEL-1975_3,NEWNGMEL-1975_5, NEWNGMEL-1770_2" finished-at="2014-10-17T04:09:31Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyNumberOfAttempts()" name="verifyNumberOfAttempts" duration-ms="302046" started-at="2014-10-17T04:09:31Z" description="NEWNGMEL_961_1,NEWNGMEL_961_2, NEWNGMEL_961_3" finished-at="2014-10-17T04:14:33Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="36699" started-at="2014-10-17T04:01:16Z" finished-at="2014-10-17T04:01:52Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Regression Tests Deepika">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity">
+        <test-method status="PASS" signature="recentActivityTest()" name="recentActivityTest" duration-ms="444762" started-at="2014-10-17T00:26:02Z" description="NEWNGMEL_117_4, NEWNGMEL_117_3, NEWNGMEL-2039_11, NEWNGMEL_117_6." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesStudent" finished-at="2014-10-17T00:33:27Z">
+        </test-method>
+        <test-method status="PASS" signature="filterActivitesStudent()" name="filterActivitesStudent" duration-ms="114144" started-at="2014-10-17T00:24:08Z" description="NEWNGMEL-37_8, NEWNGMEL-37_12, NEWNGMEL-37_9, NEWNGMEL-37_10, NEWNGMEL-37_11." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesTeacher" finished-at="2014-10-17T00:26:02Z">
+        </test-method>
+        <test-method status="PASS" signature="preCondition()" name="preCondition" duration-ms="335657" started-at="2014-10-17T00:16:49Z" finished-at="2014-10-17T00:22:25Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="12871" started-at="2014-10-17T00:16:36Z" finished-at="2014-10-17T00:16:49Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="9377" started-at="2014-10-17T00:33:27Z" finished-at="2014-10-17T00:33:37Z">
+        </test-method>
+        <test-method status="PASS" signature="filterActivitesTeacher()" name="filterActivitesTeacher" duration-ms="103654" started-at="2014-10-17T00:22:25Z" description="NEWNGMEL-38_8, NEWNGMEL-38_12, NEWNGMEL-38_9, NEWNGMEL-38_10, NEWNGMEL-38_11." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.preCondition" finished-at="2014-10-17T00:24:08Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Regression Tests 2">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher">
+        <test-method status="PASS" signature="inboxMessageNotification()" name="inboxMessageNotification" duration-ms="331160" started-at="2014-10-17T01:19:53Z" description="NEWNGMEL-189_1, NEWNGMEL-189_2, NEWNGMEL-189_3, NEWNGMEL-189_4" finished-at="2014-10-17T01:25:24Z">
+        </test-method>
+        <test-method status="PASS" signature="messageCreate()" name="messageCreate" duration-ms="136413" started-at="2014-10-17T01:30:54Z" description="NEWNGMEL-147_5, NEWNGMEL-147_8, NEWNGMEL-147_7, NEWNGMEL-147_4, NEWNGMEL-147_1, NEWNGMEL-147_10" finished-at="2014-10-17T01:33:11Z">
+        </test-method>
+        <test-method status="PASS" signature="turnOffMessangerAndCreateMessage()" name="turnOffMessangerAndCreateMessage" duration-ms="242166" started-at="2014-10-17T01:37:16Z" description="NEWNGMEL-147_2, NEWNGMEL-147_3, NEWNGMEL-1681_5, NEWNGMEL-1681_6, NEWNGMEL-153_2." finished-at="2014-10-17T01:41:18Z">
+        </test-method>
+        <test-method status="PASS" signature="inboxMessageViewAndSort()" name="inboxMessageViewAndSort" duration-ms="329944" started-at="2014-10-17T01:25:24Z" description="NEWNGMEL-189_7, NEWNGMEL-189_8, NEWNGMEL-189_9, NEWNGMEL-189_10, NEWNGMEL-189_11, NEWNGMEL-189_13, NEWNGMEL-189_15, NEWNGMEL-189_16, NEWNGMEL-189_12." finished-at="2014-10-17T01:30:54Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2358" started-at="2014-10-17T01:45:13Z" finished-at="2014-10-17T01:45:15Z">
+        </test-method>
+        <test-method status="PASS" signature="sentMessageViewAndSort()" name="sentMessageViewAndSort" duration-ms="234314" started-at="2014-10-17T01:41:18Z" description="NEWNGMEL-190_1, NEWNGMEL-190_3 , NEWNGMEL-190_5, NEWNGMEL-190_6,  NEWNGMEL-190_7, NEWNGMEL-190_4, NEWNGMEL-190_8." finished-at="2014-10-17T01:45:13Z">
+        </test-method>
+        <test-method status="PASS" signature="inboxMessageReadMessage()" name="inboxMessageReadMessage" duration-ms="245587" started-at="2014-10-17T01:33:11Z" description="NEWNGMEL-189_18, NEWNGMEL-189_21, NEWNGMEL-189_22, NEWNGMEL-189_23, NEWNGMEL-189_24." finished-at="2014-10-17T01:37:16Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="11338" started-at="2014-10-17T01:19:42Z" finished-at="2014-10-17T01:19:53Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage">
+        <test-method status="PASS" signature="forwardMessageTurnOff()" name="forwardMessageTurnOff" duration-ms="128948" started-at="2014-10-17T00:33:46Z" description="NEWNGMEL-1682_5,NEWNGMEL-1682_6." finished-at="2014-10-17T00:35:55Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2377" started-at="2014-10-17T00:40:32Z" finished-at="2014-10-17T00:40:34Z">
+        </test-method>
+        <test-method status="PASS" signature="forwardMessage()" name="forwardMessage" duration-ms="276534" started-at="2014-10-17T00:35:55Z" description="NEWNGMEL-1682_1,NEWNGMEL-1682_2." finished-at="2014-10-17T00:40:32Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9475" started-at="2014-10-17T00:33:37Z" finished-at="2014-10-17T00:33:46Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender">
+        <test-method status="PASS" signature="calendarGeneralEventVerify()" name="calendarGeneralEventVerify" duration-ms="218538" started-at="2014-10-17T00:55:26Z" description="NEWNGMEL - 150_1, NEWNGMEL - 150_2, NEWNGMEL-978_2, NEWNGMEL-978_4, NEWNGMEL-682_3, NEWNGMEL-978_6, NEWNGMEL-978_8, NEWNGMEL-978_12, NEWNGMEL-978_16, NEWNGMEL-978_14, NEWNGMEL-978_18" finished-at="2014-10-17T00:59:04Z">
+        </test-method>
+        <test-method status="PASS" signature="calendarCourseVerify()" name="calendarCourseVerify" duration-ms="286413" started-at="2014-10-17T00:50:39Z" description="NEWNGMEL - 150_3, NEWNGMEL - 150_4, NEWNGMEL-978_1, NEWNGMEL-978_5, NEWNGMEL-682_3, NEWNGMEL-978_3, NEWNGMEL-978_7, NEWNGMEL-978_11, NEWNGMEL-978_15, NEWNGMEL-978_13, NEWNGMEL-978_17" finished-at="2014-10-17T00:55:26Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10227" started-at="2014-10-17T00:40:34Z" finished-at="2014-10-17T00:40:44Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2343" started-at="2014-10-17T00:59:04Z" finished-at="2014-10-17T00:59:07Z">
+        </test-method>
+        <test-method status="PASS" signature="calendarAssignment()" name="calendarAssignment" duration-ms="266064" started-at="2014-10-17T00:40:44Z" description="NEWNGMEL-2528_3,NEWNGMEL-2528_8, NEWNGMEL-2528_4, NEWNGMEL-2528_5." finished-at="2014-10-17T00:45:10Z">
+        </test-method>
+        <test-method status="PASS" signature="addEventStudent()" name="addEventStudent" duration-ms="202469" started-at="2014-10-17T00:47:17Z" description="NEWNGMEL - 150_12, NEWNGMEL - 150_11." finished-at="2014-10-17T00:50:39Z">
+        </test-method>
+        <test-method status="PASS" signature="calendarAddEventsOnPastDates()" name="calendarAddEventsOnPastDates" duration-ms="126749" started-at="2014-10-17T00:45:10Z" description="NEWNGMEL - 150_7, NEWNGMEL - 150_8." finished-at="2014-10-17T00:47:17Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2352" started-at="2014-10-17T01:19:39Z" finished-at="2014-10-17T01:19:42Z">
+        </test-method>
+        <test-method status="PASS" signature="messageInboxNotificationStudent()" name="messageInboxNotificationStudent" duration-ms="312731" started-at="2014-10-17T01:07:11Z" description="NEWNGMEL-189_25, NEWNGMEL-189_29, NEWNGMEL-189_26,NEWNGMEL-189_27, NEWNGMEL-189_28." finished-at="2014-10-17T01:12:24Z">
+        </test-method>
+        <test-method status="PASS" signature="messageCreateStudent()" name="messageCreateStudent" duration-ms="136256" started-at="2014-10-17T01:12:24Z" description=" NEWNGMEL-147_14, NEWNGMEL-147_15, NEWNGMEL-147_17, NEWNGMEL-147_16, NEWNGMEL-147_13, NEWNGMEL-147_18, NEWNGMEL-147_11, NEWNGMEL-147_19" finished-at="2014-10-17T01:14:40Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="12388" started-at="2014-10-17T00:59:07Z" finished-at="2014-10-17T00:59:19Z">
+        </test-method>
+        <test-method status="PASS" signature="inboxMessageReadStudent()" name="inboxMessageReadStudent" duration-ms="209223" started-at="2014-10-17T01:03:42Z" description="NEWNGMEL-189_42, NEWNGMEL-189_44, NEWNGMEL-189_45, NEWNGMEL-189_46, NEWNGMEL-189_47, NEWNGMEL-189_48." finished-at="2014-10-17T01:07:11Z">
+        </test-method>
+        <test-method status="PASS" signature="sentMessagesViewAndSortStudent()" name="sentMessagesViewAndSortStudent" duration-ms="263141" started-at="2014-10-17T00:59:19Z" description="NEWNGMEL-190_11, NEWNGMEL-190_13, NEWNGMEL-190_15, NEWNGMEL-190_16, NEWNGMEL-190_17, NEWNGMEL-190_18" finished-at="2014-10-17T01:03:42Z">
+        </test-method>
+        <test-method status="PASS" signature="inboxViewAndSortStudent()" name="inboxViewAndSortStudent" duration-ms="298855" started-at="2014-10-17T01:14:40Z" description="NEWNGMEL-189_30, NEWNGMEL-189_31, NEWNGMEL-189_32, NEWNGMEL-189_33, NEWNGMEL-189_34, NEWNGMEL-189_35, NEWNGMEL-189_37, NEWNGMEL-189_38, NEWNGMEL-189_39, NEWNGMEL-189_40, NEWNGMEL-189_36, NEWNGMEL-189_41." finished-at="2014-10-17T01:19:39Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Regression Tests 3">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements">
+        <test-method status="PASS" signature="toDoAssignmentDisappearStudent()" name="toDoAssignmentDisappearStudent" duration-ms="607145" started-at="2014-10-17T02:31:48Z" description="NEWNGMEL-2475_21" finished-at="2014-10-17T02:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="44611" started-at="2014-10-17T02:31:03Z" finished-at="2014-10-17T02:31:48Z">
+        </test-method>
+        <test-method status="PASS" signature="recentActivityEnhancementsStudent()" name="recentActivityEnhancementsStudent" duration-ms="207081" started-at="2014-10-17T02:41:55Z" description="NEWNGMEL-2475_17" finished-at="2014-10-17T02:45:22Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1314" started-at="2014-10-17T02:52:30Z" finished-at="2014-10-17T02:52:31Z">
+        </test-method>
+        <test-method status="PASS" signature="toDoEnhancementsTeacher()" name="toDoEnhancementsTeacher" duration-ms="427742" started-at="2014-10-17T02:45:22Z" description="NEWNGMEL-2475_5,NEWNGMEL-126_1(Grading scenario)" finished-at="2014-10-17T02:52:30Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ReplyMessage">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="13850" started-at="2014-10-17T02:52:31Z" finished-at="2014-10-17T02:52:45Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2352" started-at="2014-10-17T02:57:19Z" finished-at="2014-10-17T02:57:21Z">
+        </test-method>
+        <test-method status="PASS" signature="replyMessage()" name="replyMessage" duration-ms="273499" started-at="2014-10-17T02:52:45Z" description="NEWNGMEL-1681_1,NEWNGMEL-1681_2." finished-at="2014-10-17T02:57:19Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle">
+        <test-method status="PASS" signature="assignAssignmentDefaultSettingExpertMode()" name="assignAssignmentDefaultSettingExpertMode" duration-ms="299946" started-at="2014-10-17T01:45:25Z" description="NEWNGMEL_113_3" finished-at="2014-10-17T01:50:24Z">
+        </test-method>
+        <test-method status="PASS" signature="sendAssignmentPageVerificationForCourseEndDateGreaterExpertMode()" name="sendAssignmentPageVerificationForCourseEndDateGreaterExpertMode" duration-ms="175975" started-at="2014-10-17T02:13:39Z" description="NEWNGMEL-2037_10" finished-at="2014-10-17T02:16:35Z">
+        </test-method>
+        <test-method status="PASS" signature="studentsAttemptsPractiseActivity()" name="studentsAttemptsPractiseActivity" duration-ms="234127" started-at="2014-10-17T02:19:33Z" description="NEWNGMEL_1873_2,NEWNGMEL_1873_3" finished-at="2014-10-17T02:23:27Z">
+        </test-method>
+        <test-method status="PASS" signature="assignAssignmentExpertMode()" name="assignAssignmentExpertMode" duration-ms="709333" started-at="2014-10-17T01:50:24Z" description="NEWNGMEL_113_1,NEWNGMEL_113_2,NEWNGMEL_113_3,NEWNGMEL_113_5,NEWNGMEL_1873_1,NEWNGMEL-2037_11,NEWNGMEL-2037_12" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.assignAssignmentDefaultSettingExpertMode" finished-at="2014-10-17T02:02:14Z">
+        </test-method>
+        <test-method status="PASS" signature="studentAttemptAssignAssignmentExpertMode()" name="studentAttemptAssignAssignmentExpertMode" duration-ms="506804" started-at="2014-10-17T02:02:14Z" description="NEWNGMEL_113_6" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.assignAssignmentExpertMode" finished-at="2014-10-17T02:10:41Z">
+        </test-method>
+        <test-method status="PASS" signature="assignTestBasicModeDueDateTimer()" name="assignTestBasicModeDueDateTimer" duration-ms="177935" started-at="2014-10-17T02:10:41Z" finished-at="2014-10-17T02:13:39Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2377" started-at="2014-10-17T02:23:27Z" finished-at="2014-10-17T02:23:29Z">
+        </test-method>
+        <test-method status="PASS" signature="assignActivityBasicMode()" name="assignActivityBasicMode" duration-ms="178133" started-at="2014-10-17T02:16:35Z" finished-at="2014-10-17T02:19:33Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9581" started-at="2014-10-17T01:45:15Z" finished-at="2014-10-17T01:45:25Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="11243" started-at="2014-10-17T02:23:29Z" finished-at="2014-10-17T02:23:40Z">
+        </test-method>
+        <test-method status="PASS" signature="teacherDelete()" name="teacherDelete" duration-ms="213754" started-at="2014-10-17T02:27:27Z" description="NEWNGMEL-1683_1, NEWNGMEL-1683_2" finished-at="2014-10-17T02:31:01Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2376" started-at="2014-10-17T02:31:01Z" finished-at="2014-10-17T02:31:03Z">
+        </test-method>
+        <test-method status="PASS" signature="studentDelete()" name="studentDelete" duration-ms="226834" started-at="2014-10-17T02:23:40Z" description="NEWNGMEL-1683_3, NEWNGMEL-1683_4" finished-at="2014-10-17T02:27:27Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Rumba Regression Test">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="16554" started-at="2014-10-16T23:25:53Z" finished-at="2014-10-16T23:26:09Z">
+        </test-method>
+        <test-method status="PASS" signature="registerCandidateStudent()" name="registerCandidateStudent" duration-ms="1001734" started-at="2014-10-16T23:26:20Z" description="NEWNGMEL_763_1, NEWNGMEL_163_1, NEWNGMEL_187_3" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerInstructor" finished-at="2014-10-16T23:43:01Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="16393" started-at="2014-10-16T23:49:07Z" finished-at="2014-10-16T23:49:24Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10509" started-at="2014-10-16T23:26:09Z" finished-at="2014-10-16T23:26:20Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="12193" started-at="2014-10-16T23:45:19Z" finished-at="2014-10-16T23:45:31Z">
+        </test-method>
+        <test-method status="PASS" signature="registerInstructor()" name="registerInstructor" duration-ms="1143737" started-at="2014-10-16T23:06:49Z" description="NEWNGMEL_1063_1, NEWNGMEL-1369_3" finished-at="2014-10-16T23:25:53Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="16353" started-at="2014-10-16T23:43:01Z" finished-at="2014-10-16T23:43:18Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="11273" started-at="2014-10-16T23:43:18Z" finished-at="2014-10-16T23:43:29Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="16396" started-at="2014-10-16T23:45:02Z" finished-at="2014-10-16T23:45:19Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="14894" started-at="2014-10-16T23:06:34Z" finished-at="2014-10-16T23:06:49Z">
+        </test-method>
+        <test-method status="PASS" signature="registerCandidateStudentSelfStudy()" name="registerCandidateStudentSelfStudy" duration-ms="216216" started-at="2014-10-16T23:45:31Z" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.settingsPersonalProfile" finished-at="2014-10-16T23:49:07Z">
+        </test-method>
+        <test-method status="PASS" signature="settingsPersonalProfile()" name="settingsPersonalProfile" duration-ms="93499" started-at="2014-10-16T23:43:29Z" description="Settings module test case: NEWNGMEL-2744_3." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerCandidateStudent" finished-at="2014-10-16T23:45:02Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Regression Tests 1">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList">
+        <test-method status="PASS" signature="teacherToDo()" name="teacherToDo" duration-ms="378206" started-at="2014-10-17T00:08:33Z" description="NEWNGMEL_168_7,NEWNGMEL_167_12, NEWNGMEL-117_1,NEWNGMEL_117_2, NEWNGMEL_168_8, NEWNGMEL-139_6,NEWNGMEL-120_1, NEWNGMEL-2039_10,NEWNGMEL-125_1, NEWNGMEL_117_7" finished-at="2014-10-17T00:14:51Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2360" started-at="2014-10-17T00:14:51Z" finished-at="2014-10-17T00:14:54Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10067" started-at="2014-10-17T00:08:23Z" finished-at="2014-10-17T00:08:33Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2341" started-at="2014-10-17T00:16:34Z" finished-at="2014-10-17T00:16:36Z">
+        </test-method>
+        <test-method status="PASS" signature="ProgramAdminTest()" name="ProgramAdminTest" duration-ms="89679" started-at="2014-10-17T00:15:04Z" description="NML-4_2,NML-4_5,NML-4_6,NML-234_1,NML-234_3,NML-235_1,NML-235_2,NML-235_3" finished-at="2014-10-17T00:16:34Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10256" started-at="2014-10-17T00:14:54Z" finished-at="2014-10-17T00:15:04Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2412" started-at="2014-10-17T00:08:21Z" finished-at="2014-10-17T00:08:23Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9333" started-at="2014-10-16T23:49:24Z" finished-at="2014-10-16T23:49:33Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyAndAttemptActivity()" name="verifyAndAttemptActivity" duration-ms="485879" started-at="2014-10-16T23:54:14Z" description="NEWNGMEL_168_5, NEWNGMEL_168_1, NEWNGMEL_168_2, NEWNGMEL_167_3, NEWNGMEL_168_6, NEWNGMEL-1741_1, NEWNGMEL-4793_1, NEWNGMEL_117_8" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyBlankAndIncorrectForPractise" finished-at="2014-10-17T00:02:20Z">
+        </test-method>
+        <test-method status="PASS" signature="selfStudy()" name="selfStudy" duration-ms="126606" started-at="2014-10-16T23:49:33Z" description="NEWNGMEL_160_3, NEWNGMEL_160_4.</br>" finished-at="2014-10-16T23:51:40Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyBlankAndIncorrectForAutograded()" name="verifyBlankAndIncorrectForAutograded" duration-ms="360454" started-at="2014-10-17T00:02:20Z" description="NEWNGMEL-2586_3, NEWNGMEL-2586_6, NEWNGMEL-2586_9" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyAndAttemptActivity" finished-at="2014-10-17T00:08:21Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyBlankAndIncorrectForPractise()" name="verifyBlankAndIncorrectForPractise" duration-ms="154767" started-at="2014-10-16T23:51:40Z" description="NEWNGMEL-2586_4, NEWNGMEL-2586_7." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.selfStudy" finished-at="2014-10-16T23:54:14Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Regression Tests 6">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeSettings">
+        <test-method status="SKIP" signature="threshold()" name="threshold" duration-ms="0" depends-on-groups="autogradedAttempt" started-at="2014-10-17T05:03:38Z" description="NEWNGMEL_1763_1, NEWNGMEL_1763_3" finished-at="2014-10-17T05:03:38Z">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method com.pearson.piltg.ngmelII.RegressionNMELIII.GradeSettings.threshold() depends on nonexistent group "autogradedAttempt"]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method com.pearson.piltg.ngmelII.RegressionNMELIII.GradeSettings.threshold() depends on nonexistent group "autogradedAttempt"
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:953)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1327" started-at="2014-10-17T05:03:38Z" finished-at="2014-10-17T05:03:39Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10124" started-at="2014-10-17T05:03:28Z" finished-at="2014-10-17T05:03:38Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Gradebook_Student">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9562" started-at="2014-10-17T05:07:13Z" finished-at="2014-10-17T05:07:22Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2361" started-at="2014-10-17T05:16:06Z" finished-at="2014-10-17T05:16:08Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyFirstAttemptLastAttemptTest()" name="verifyFirstAttemptLastAttemptTest" duration-ms="523236" started-at="2014-10-17T05:07:22Z" finished-at="2014-10-17T05:16:06Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Help">
+        <test-method status="PASS" signature="teacherHelp()" name="teacherHelp" duration-ms="77125" started-at="2014-10-17T05:17:39Z" description="NEWNGMEL-152_1, NEWNGMEL-152_2" finished-at="2014-10-17T05:18:56Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9440" started-at="2014-10-17T05:16:08Z" finished-at="2014-10-17T05:16:17Z">
+        </test-method>
+        <test-method status="PASS" signature="studentHelp()" name="studentHelp" duration-ms="81927" started-at="2014-10-17T05:16:17Z" description="NEWNGMEL-194_1, NEWNGMEL-194_2" finished-at="2014-10-17T05:17:39Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2302" started-at="2014-10-17T05:18:56Z" finished-at="2014-10-17T05:18:59Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.RemoveStudent">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9112" started-at="2014-10-17T05:21:17Z" finished-at="2014-10-17T05:21:26Z">
+        </test-method>
+        <test-method status="PASS" signature="removeStudents()" name="removeStudents" duration-ms="153239" started-at="2014-10-17T05:21:26Z" description="NEWNGMEL-107_1,NEWNGMEL-107_3 " finished-at="2014-10-17T05:23:59Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2358" started-at="2014-10-17T05:23:59Z" finished-at="2014-10-17T05:24:01Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Miscellaneous">
+        <test-method status="PASS" signature="userLanguage_Breadcrum_FooterBarVerification()" name="userLanguage_Breadcrum_FooterBarVerification" duration-ms="126321" started-at="2014-10-17T05:19:08Z" description="NEWNGMEL_1063_2,NEWNGMEL_332_2,NEWNGMEL-2966_1, NEWNGMEL-2966_2, NEWNGMEL-2966_3" finished-at="2014-10-17T05:21:14Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2371" started-at="2014-10-17T05:21:14Z" finished-at="2014-10-17T05:21:17Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9372" started-at="2014-10-17T05:18:59Z" finished-at="2014-10-17T05:19:08Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher">
+        <test-method status="PASS" signature="assignmentAverage()" name="assignmentAverage" duration-ms="290949" started-at="2014-10-17T04:56:08Z" description="NEWNGMEL-131_13" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebookAutoGradedPractice" finished-at="2014-10-17T05:00:59Z">
+        </test-method>
+        <test-method status="FAIL" signature="viewScoresAtLevelPracticeActivity()" name="viewScoresAtLevelPracticeActivity" duration-ms="1" started-at="2014-10-17T05:03:39Z" description="NEWNGMEL-1369_13, NEWNGMEL-1369_14, NEWNGMEL-1369_15" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebookAutoGradedPractice" finished-at="2014-10-17T05:03:39Z">
+          <exception class="org.openqa.selenium.remote.SessionNotFoundException">
+            <message>
+              <![CDATA[Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.viewScoresAtLevelPracticeActivity(GradeBook_Teacher.java:467)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="FAIL" signature="gradeboogradebookFunctionskFunctions()" name="gradeboogradebookFunctionskFunctions" duration-ms="2" started-at="2014-10-17T05:07:13Z" description="NEWNGMEL-1369_5,NEWNGMEL-2029_2" finished-at="2014-10-17T05:07:13Z">
+          <exception class="org.openqa.selenium.remote.SessionNotFoundException">
+            <message>
+              <![CDATA[Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradeboogradebookFunctionskFunctions(GradeBook_Teacher.java:400)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="PASS" signature="gradebookAutoGradedPracticeStudentLogin()" name="gradebookAutoGradedPracticeStudentLogin" duration-ms="149018" started-at="2014-10-17T05:00:59Z" description="NEWNGMEL-139_3, NEWNGMEL_187_6, NEWNGMEL_187_7" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebookAutoGradedPractice" finished-at="2014-10-17T05:03:28Z">
+        </test-method>
+        <test-method status="FAIL" signature="preConditionTeacherGradedAssignAndAttempt()" name="preConditionTeacherGradedAssignAndAttempt" duration-ms="7000" started-at="2014-10-17T05:03:39Z" finished-at="2014-10-17T05:03:46Z">
+          <exception class="org.openqa.selenium.remote.SessionNotFoundException">
+            <message>
+              <![CDATA[Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.preConditionTeacherGradedAssignAndAttempt(GradeBook_Teacher.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="FAIL" signature="tearDown()" name="tearDown" is-config="true" duration-ms="0" started-at="2014-10-17T05:07:13Z" finished-at="2014-10-17T05:07:13Z">
+          <exception class="org.openqa.selenium.remote.SessionNotFoundException">
+            <message>
+              <![CDATA[Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:418)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.tearDown(GradeBook_Teacher.java:670)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:398)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:145)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:82)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:209)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="PASS" signature="gradebookAutoGradedPractice()" name="gradebookAutoGradedPractice" duration-ms="765859" started-at="2014-10-17T04:43:22Z" description="NEWNGMEL-131_1, NEWNGMEL_961_10,NEWNGMEL-131_11, NEWNGMEL-131_12, NEWNGMEL-1369_6, NEWNGMEL-1369_7." finished-at="2014-10-17T04:56:08Z">
+        </test-method>
+        <test-method status="FAIL" signature="gradebook()" name="gradebook" duration-ms="2" started-at="2014-10-17T05:07:13Z" description="NEWNGMEL-131_4" finished-at="2014-10-17T05:07:13Z">
+          <exception class="org.openqa.selenium.remote.SessionNotFoundException">
+            <message>
+              <![CDATA[Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebook(GradeBook_Teacher.java:316)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="SKIP" signature="gradebookTeacherGradedAssignment()" name="gradebookTeacherGradedAssignment" duration-ms="1" started-at="2014-10-17T05:03:46Z" description="NEWNGMEL-131_2" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.preConditionTeacherGradedAssignAndAttempt" finished-at="2014-10-17T05:03:46Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="14022" started-at="2014-10-17T04:43:08Z" finished-at="2014-10-17T04:43:22Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.BatchRegistration">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10316" started-at="2014-10-17T05:03:46Z" finished-at="2014-10-17T05:03:56Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyPendingBatchRegistration()" name="verifyPendingBatchRegistration" duration-ms="193860" started-at="2014-10-17T05:03:56Z" finished-at="2014-10-17T05:07:10Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2342" started-at="2014-10-17T05:07:10Z" finished-at="2014-10-17T05:07:13Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

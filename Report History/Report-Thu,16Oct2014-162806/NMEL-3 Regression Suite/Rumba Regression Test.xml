@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Rumba Regression Test" failures="1" tests="4" time="3056.217" errors="0">
+  <properties/>
+  <testcase name="registerInstructor" time="1353.476" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+  <testcase name="registerCandidateStudent" time="1155.171" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+  <testcase name="settingsPersonalProfile" time="112.446" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+  <testcase name="registerCandidateStudentSelfStudy" time="274.294" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration">
+    <failure type="org.openqa.selenium.WebDriverException" message="unknown error: Element is not clickable at point (1083, 22). Other element would receive the click: &lt;li class=&quot;flash-notice coursesNotifications fade&quot;&gt;...&lt;/li&gt;
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 341 milliseconds
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.105.226.68&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Session ID: cf09a1e56b09d971d063c8eaa4120c5b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir13452_10404}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]">
+      <![CDATA[org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (1083, 22). Other element would receive the click: <li class="flash-notice coursesNotifications fade">...</li>
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 341 milliseconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: cf09a1e56b09d971d063c8eaa4120c5b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir13452_10404}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at com.pearson.piltg.ngmelII.util.UtilityCommon.clickAndWait(UtilityCommon.java:439)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerCandidateStudentSelfStudy(RumbaRegistration.java:383)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 28 stack frames]]>
+    </failure>
+  </testcase>
+</testsuite>

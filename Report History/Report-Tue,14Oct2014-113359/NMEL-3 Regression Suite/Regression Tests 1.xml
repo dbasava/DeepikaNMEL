@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 1" failures="0" tests="6" time="1552.907" errors="0">
+  <properties/>
+  <testcase name="selfStudy" time="117.171" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+  <testcase name="verifyBlankAndIncorrectForPractise" time="146.485" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+  <testcase name="verifyAndAttemptActivity" time="452.513" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+  <testcase name="verifyBlankAndIncorrectForAutograded" time="329.736" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+  <testcase name="teacherToDo" time="400.324" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList"/>
+  <testcase name="ProgramAdminTest" time="79.75" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin"/>
+</testsuite>

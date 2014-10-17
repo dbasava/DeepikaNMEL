@@ -1,0 +1,367 @@
+<html>
+<head>
+<title>TestNG:  Regression Tests 3</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Regression Tests 3</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>13/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Oct 12 20:56:46 PDT 2014</td>
+</tr>
+<tr><td>Total time:</td><td>4593 seconds (4593499 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='3' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td width="30%"><b>Exception</b></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.assignActivityBasicMode()'>assignActivityBasicMode<br/>
+<a href="#Output-66732445" onClick='toggleBox("Output-66732445", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-66732445" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-66732445">
+Test method: NEWNGMEL_336_2,NEWNGMEL_336_3,NEWNGMEL_336_4,NEWNGMEL_336_5.<br/>
+<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font><br/>
+The Home tab did not load appropriatly.<br/>
+Current Tab selected isSETTINGS<br/>
+<br> PERSONAL PROFILE tab is loaded correctly<br/>
+Teacher is now in Basic mode<br/>
+<br><b><font color='red'> Test Case NEWNGMEL_336_3 Fail</b><br><br/>
+</div>
+</td>
+<td>173</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.assignAssignmentDefaultSettingExpertMode()'>assignAssignmentDefaultSettingExpertMode<br/><b>NEWNGMEL_113_3</b><br/>
+<a href="#Output-525091939" onClick='toggleBox("Output-525091939", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-525091939" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-525091939">
+Test method: NEWNGMEL_113_3<br/>
+<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font><br/>
+The Home tab did not load appropriatly.<br/>
+Current Tab selected isSETTINGS<br/>
+<br> PERSONAL PROFILE tab is loaded correctly<br/>
+Teacher is in Expert mode<br/>
+<br> Course Management tab is loaded correctly<br/>
+<br> Course Management tab is loaded correctly<br/>
+Loaded TabCOURSE SETTINGS<br/>
+Error In the Page<br/>
+Student_20141010110757logged out<br/>
+</div>
+</td>
+<td>460</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.assignAssignmentExpertMode()'>assignAssignmentExpertMode<br/><b>NEWNGMEL_113_1,NEWNGMEL_113_2,NEWNGMEL_113_3,NEWNGMEL_113_5,NEWNGMEL_1873_1,NEWNGMEL-2037_11,NEWNGMEL-2037_12</b><br/>
+<a href="#Output-971279180" onClick='toggleBox("Output-971279180", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-971279180" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-971279180">
+Test method: NEWNGMEL_113_1,NEWNGMEL_113_2,NEWNGMEL_113_3,NEWNGMEL_113_5,NEWNGMEL_113_6,NEWNGMEL_1873_1,NEWNGMEL-2037_11,NEWNGMEL-2037_12<br/>
+<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font><br/>
+The Home tab did not load appropriatly.<br/>
+Current Tab selected isSETTINGS<br/>
+<br> PERSONAL PROFILE tab is loaded correctly<br/>
+Teacher is in Expert mode<br/>
+<br> Course Management tab is loaded correctly<br/>
+<br> Course Management tab is loaded correctly<br/>
+Loaded TabCOURSE SETTINGS<br/>
+Default value for score to gradebook5<br/>
+Default value for score to gradebook2<br/>
+The updated course settings have been saved<br/>
+<br><b><font color='green'>Test Case NEWNGMEL_1873_1 Pass</b><br><br/>
+Current Tab selected isCOURSE<br/>
+Selected a Course Options<br/>
+Tree Structure till unit Pronunciation practice<br/>
+Toc Tree structure at sub-unitIntonation in questions and answers<br/>
+Exercise 1is Assigned/Open<br/>
+<br><b><font color='green'>Test Case NEWNGMEL_113_1 Pass</b><br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL_113_2 Pass</b><br><br/>
+Selected All Students<br/>
+Selected a Date<br/>
+<p><b>Test Case NEWNGMEL-2037_11  Pass</b></p></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-2037_11 Pass</b><br><br/>
+Clicked Assign button<br/>
+Teacher_20141010104934 logged out<br/>
+</div>
+</td>
+<td>497</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.assignTestBasicModeDueDateTimer()'>assignTestBasicModeDueDateTimer<br/>
+<a href="#Output-656896689" onClick='toggleBox("Output-656896689", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-656896689" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-656896689">
+Test method: NEWNGMEL_336_7,NEWNGMEL_336_9,NEWNGMEL_336_10,NEWNGMEL_336_12,Toc-Student NEWNGMEL-2269_1<br/>
+<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font><br/>
+The Home tab did not load appropriatly.<br/>
+Current Tab selected isSETTINGS<br/>
+<br> PERSONAL PROFILE tab is loaded correctly<br/>
+Teacher is now in Basic mode<br/>
+<br><b><font color='red'> Test Case NEWNGMEL_336_7 Fail</b><br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL_336_12 Fail</b><br><br/>
+</div>
+</td>
+<td>173</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements.recentActivityEnhancementsStudent()'>recentActivityEnhancementsStudent<br/><b>NEWNGMEL-2475_17</b><br/>
+<a href="#Output-1832601097" onClick='toggleBox("Output-1832601097", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1832601097" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1832601097">
+<br><b>Test method: NEWNGMEL-2475_17</b></br><br/>
+Current Tab selected isCOURSE<br/>
+Selected a Course Options<br/>
+Tree Structure till unitSpeaking and listening<br/>
+Toc Tree structure at sub-unitSpeaking - Opinions<br/>
+Exercise 1is Assigned/Open<br/>
+Selected All Students<br/>
+Selected a Date<br/>
+Clicked Assign button<br/>
+X
+The assignment has been successfully allocated to your student.<br/>
+Teacher_1 logged out<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-2475_17 Pass</b><br><br/>
+</div>
+</td>
+<td>191</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.ReplyMessage.replyMessage()'>replyMessage<br/><b>NEWNGMEL-1681_1,NEWNGMEL-1681_2.</b><br/>
+<a href="#Output-127160076" onClick='toggleBox("Output-127160076", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-127160076" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-127160076">
+<br>Test method: NEWNGMEL-1681_1,NEWNGMEL-1681_2.</br><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+<br>Teacher reply messageRe: Subject Test.171is displayed in student inbox.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1681_1 Pass</b><br><br/>
+Current Tab selected isMessage<br/>
+<br>Student reply messageRe: Subject Test.171is displayed in teacher inbox.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1681_2 Pass</b><br><br/>
+</div>
+</td>
+<td>248</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.sendAssignmentPageVerificationForCourseEndDateGreaterExpertMode()'>sendAssignmentPageVerificationForCourseEndDateGreaterExpertMode<br/><b>NEWNGMEL-2037_10</b><br/>
+<a href="#Output-181531409" onClick='toggleBox("Output-181531409", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-181531409" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-181531409">
+Test method: NEWNGMEL-2037_10.<br/>
+<br> <font color=red>Home tab is NOT loaded correctly; current tab is [Calendar]</font><br/>
+The Home tab did not load appropriately.<br/>
+Current Tab selected isSETTINGS<br/>
+<br> PERSONAL PROFILE tab is loaded correctly<br/>
+Teacher is now in Expert mode<br/>
+</div>
+</td>
+<td>171</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.studentAttemptAssignAssignmentExpertMode()'>studentAttemptAssignAssignmentExpertMode<br/><b>NEWNGMEL_113_6</b><br/>
+<a href="#Output-1397810476" onClick='toggleBox("Output-1397810476", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1397810476" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1397810476">
+Test method: NEWNGMEL_113_6<br/>
+<br> <font color=green>Home tab is loaded correctly</font><br/>
+Home Page is loaded<br/>
+View more button is disable<br/>
+</div>
+</td>
+<td>1154</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage.studentDelete()'>studentDelete<br/><b>NEWNGMEL-1683_3, NEWNGMEL-1683_4</b><br/>
+<a href="#Output-815208074" onClick='toggleBox("Output-815208074", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-815208074" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-815208074">
+<br><b>Test method: NEWNGMEL-1683_3, NEWNGMEL-1683_4.</b></br><br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1683_3 Pass</b><br><br/>
+</div>
+</td>
+<td>202</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle.studentsAttemptsPractiseActivity()'>studentsAttemptsPractiseActivity<br/><b>NEWNGMEL_1873_2,NEWNGMEL_1873_3</b><br/>
+<a href="#Output-278981396" onClick='toggleBox("Output-278981396", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-278981396" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-278981396">
+Test method: NEWNGMEL_1873_2,NEWNGMEL_1873_3<br/>
+Current Tab selected isSETTINGS<br/>
+<br> PERSONAL PROFILE tab is loaded correctly<br/>
+Teacher is now in Expert mode<br/>
+</div>
+</td>
+<td>229</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage.teacherDelete()'>teacherDelete<br/><b>NEWNGMEL-1683_1, NEWNGMEL-1683_2</b><br/>
+<a href="#Output-397887816" onClick='toggleBox("Output-397887816", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-397887816" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-397887816">
+<br><b>Test method: NEWNGMEL-1683_1, NEWNGMEL-1683_2.</b></br><br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1683_1 Pass</b><br><br/>
+</div>
+</td>
+<td>189</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements.toDoAssignmentDisappearStudent()'>toDoAssignmentDisappearStudent<br/><b>NEWNGMEL-2475_21</b><br/>
+<a href="#Output-2101389633" onClick='toggleBox("Output-2101389633", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2101389633" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2101389633">
+<br><b>Test method: NEWNGMEL-2475_21</b></br><br/>
+Current Tab selected isCOURSE<br/>
+Selected a Course Options<br/>
+Tree Structure till unitPronunciation practice<br/>
+Toc Tree structure at sub-unitSchwa /?/<br/>
+Exercise 1is Assigned/Open<br/>
+Selected All Students<br/>
+Selected a Date<br/>
+Clicked Assign button<br/>
+X
+The assignment has been successfully allocated to your student.<br/>
+Teacher_1 logged out<br/>
+<br><b>Mark link exists. Hence teacher is able to see the number of assignments that have been submitted.</br><br/>
+Teacher is allowed to add textual comments along with the mark while grading the assignment. Grading test case.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-126_1 Pass</b><br><br/>
+<br><b>Test Case NEWNGMEL-2475_21 Pass Partially</b></br><br/>
+<br><b>Mark link does not exists. Hence teacher is not able to see the number of assignments that have been submitted.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-2475_3 Fail</b><br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-2475_21 Fail</b><br><br/>
+</div>
+</td>
+<td>531</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements.toDoEnhancementsTeacher()'>toDoEnhancementsTeacher<br/><b>NEWNGMEL-2475_5,NEWNGMEL-126_1(Grading scenario)</b><br/>
+<a href="#Output-976656080" onClick='toggleBox("Output-976656080", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-976656080" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-976656080">
+<br><b>Test method: NEWNGMEL-2475_5,NEWNGMEL-126_1(Grading scenario).</b></br><br/>
+Current Tab selected isCOURSE<br/>
+Selected a Course Options<br/>
+Tree Structure till unitPronunciation practice<br/>
+Toc Tree structure at sub-unitIntonation in questions and answers<br/>
+Exercise 1is Assigned/Open<br/>
+Selected All Students<br/>
+Selected a Date<br/>
+Clicked Assign button<br/>
+X
+The assignment has been successfully allocated to your student.<br/>
+Teacher_1 logged out<br/>
+<br><b>Mark link exists. Hence teacher is able to see the number of assignments that have been submitted.</br><br/>
+Teacher is allowed to add textual comments along with the mark while grading the assignment. Grading test case.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-126_1 Pass</b><br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-2475_5 Pass</b><br><br/>
+</div>
+</td>
+<td>319</td>
+<td></td>
+</tr>
+</table><p>
+</body>
+</html>

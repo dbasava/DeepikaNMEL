@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test" parallel="false">
+<test name="End To End" preserve-order="true">
+<classes>
+			<class	name="com.pearson.piltg.ngmelII.EndtoEndTesting.RumbaRegistration"/>
+			<class name="com.pearson.piltg.ngmelII.EndtoEndTesting.EndToEndTestActivities"></class>
+			<class name="com.pearson.piltg.ngmelII.EndtoEndTesting.EndToEndSelfStudyPractice"></class>
+			<class name="com.pearson.piltg.ngmelII.EndtoEndTesting.EndToEndILSPractice"></class>
+			<class name="com.pearson.piltg.ngmelII.EndtoEndTesting.EndToEndAssignment"></class>
+	</classes>
+</test>
+</suite>

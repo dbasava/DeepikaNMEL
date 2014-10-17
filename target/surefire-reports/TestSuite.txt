@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 83, Failures: 5, Errors: 0, Skipped: 2, Time elapsed: 22,648.989 sec <<< FAILURE!
+viewScoresAtLevelPracticeActivity(com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher)  Time elapsed: 0.005 sec  <<< FAILURE!
+org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.viewScoresAtLevelPracticeActivity(GradeBook_Teacher.java:467)
+
+preConditionTeacherGradedAssignAndAttempt(com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher)  Time elapsed: 7.007 sec  <<< FAILURE!
+org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.preConditionTeacherGradedAssignAndAttempt(GradeBook_Teacher.java:44)
+
+gradebook(com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher)  Time elapsed: 0.009 sec  <<< FAILURE!
+org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebook(GradeBook_Teacher.java:316)
+
+gradeboogradebookFunctionskFunctions(com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher)  Time elapsed: 0.013 sec  <<< FAILURE!
+org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradeboogradebookFunctionskFunctions(GradeBook_Teacher.java:400)
+
+tearDown(com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher)  Time elapsed: 0.019 sec  <<< FAILURE!
+org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:418)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.tearDown(GradeBook_Teacher.java:670)
+

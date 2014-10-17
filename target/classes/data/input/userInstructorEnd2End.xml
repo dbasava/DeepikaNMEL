@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Instructor>
+	<userName>Teacher_20140428112326</userName>
+	<password>Password123</password>
+	<accessCode>EESNVC-SHALL-FREAK-PATNA-METIS-NURSE</accessCode>
+	<firstName>Teacher_20140428112326</firstName>
+	<middleName>Teacher_</middleName>
+	<lastName>Teacher_</lastName>
+	<emailId>teacher@abc.com</emailId>
+	<country>Albania</country>
+	<language>English</language>
+	<timezone>London</timezone>
+	<dateFormat12>22 Feb 2012, 9:00 PM</dateFormat12>
+	<dateFormat24>22 Feb 2012, 15:53</dateFormat24>
+	<CourseID1>n7rt-ndtf-qq7a-lmf9</CourseID1>
+	<CourseName1>Course_20140428112513</CourseName1>
+	<CourseID2>3n6m-cu4s-avan-32ss</CourseID2>
+	<CourseName2>Course_20140428112538</CourseName2>
+</Instructor>

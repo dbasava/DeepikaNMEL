@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NMEL-3 Regression Suite"  annotations='JDK' preserve-order="true">
+
+    <test  name="Rumba Regression Test" preserve-order="true" annotations="JDK">
+		<classes>
+			<class	name="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration" />
+		</classes>
+	</test> 
+
+
+    	<test name="Regression Tests 1" preserve-order="true" >
+		<classes>
+			    <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin"></class>
+	  	<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList" />
+			 	<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/> 
+			
+		</classes>
+	</test> 
+	
+	<test name="Regression Tests Deepika" preserve-order="true" >
+		<classes>
+		<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/> 
+		</classes>
+	</test> 
+     <test name="Regression Tests 2" preserve-order="true" >
+		<classes>
+	 <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"></class>
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"></class>
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage"></class>
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"></class>	
+	    <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"></class>
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"></class>
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage"></class>
+		</classes>
+	</test>
+	
+	
+ 		
+	
+	 	
+	 <test name="Regression Tests 3"  preserve-order="true" >
+		<classes>
+			 <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ReplyMessage"></class>	
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage"></class>
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements"></class>	
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle" ></class>	
+		</classes>
+	</test> 
+	
+	
+	  <test name="Regression Tests 4"  preserve-order="true" >
+		<classes>
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"></class>	
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign"></class>
+		</classes>
+	</test>
+
+
+			
+	<test  name="Regression Tests 5" preserve-order="true" >
+		<classes>
+	 <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"></class> 				 
+		<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile"></class> 
+				<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Show_Hide"></class>
+			 <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_teacher"></class>
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_Student"></class>
+		</classes>
+	</test>
+
+
+	
+	<test  name="Regression Tests 6" preserve-order="true" >
+		<classes>
+	 <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Gradebook_Student"></class>
+			 <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher"></class>	
+		    <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeSettings"></class>	
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Miscellaneous"></class>
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.RemoveStudent"></class>	
+			<class name="com.pearson.piltg.ngmelII.RegressionNMELIII.BatchRegistration"></class>
+		  <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Help"></class> 
+     	</classes>
+	</test>
+	
+	 </suite>

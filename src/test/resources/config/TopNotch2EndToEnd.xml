@@ -1,0 +1,30 @@
+<Assignments>
+<products>
+	<!-- <product1>Next Move 2</product1> -->
+	<product1>Top Notch 2</product1>
+</products>
+
+<assignments>
+	<filliinDropDown></filliinDropDown>
+	<fillinSuperMegaDeathTable></fillinSuperMegaDeathTable>
+	<fillinNoAttempts></fillinNoAttempts>
+	<dragAndDrop></dragAndDrop>
+	<dragAndDropCategorization></dragAndDropCategorization>
+	<matching></matching>
+	<dragableJumbled></dragableJumbled>
+	<wordSearch></wordSearch>
+	<hangman></hangman>
+	<underline></underline>
+	<singleChoice>UNIT 1 – Greetings and Small Talk , Lesson 3 , Activity 01, Reading</singleChoice>
+	<crossword></crossword>
+	<dropDown></dropDown>
+	<insertAWord></insertAWord>
+	<audiosubmit></audiosubmit>
+	<inLineDropDown></inLineDropDown>
+	<writing>UNIT 2 – Movies and Entertainment, Writing Booster, Activity 02</writing>
+	<multipleChoice>UNIT 1 – Greetings and Small Talk, Preview, Activity 03</multipleChoice>
+	<generalTest>UNIT 1 – Greetings and Small Talk, Achievement Tests, General Test</generalTest>
+	<writingTest>UNIT 1 – Greetings and Small Talk, Achievement Tests, Writing Test</writingTest>
+	<speakingTest>UNIT 1 – Greetings and Small Talk, Achievement Tests, Speaking Test</speakingTest>	
+</assignments>
+</Assignments>

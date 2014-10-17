@@ -1,0 +1,19 @@
+<suite name="Selenium TestNG Suite" parallel="test"  verbose="3" thread-count="2">
+
+    <test name="Selenium TestNG - 1">
+        <parameter name="browser" value="firefox" />
+        <parameter name="port" value="4444" />
+        <classes>
+            <class name="com.pearson.piltg.ngmelII.test.GridWithWebdriver" />
+        </classes>
+    </test>
+  <test name="Selenium TestNG - 2">
+        <parameter name="browser" value="firefox" />
+        <parameter name="port" value="4444" />
+        <classes>
+            <class name="com.pearson.piltg.ngmelII.test.GridWithWebdriver" />
+        </classes>
+    </test>
+
+</suite>
+ 

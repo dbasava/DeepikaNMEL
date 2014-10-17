@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+  <title>NMEL Test Report - Regression Tests 5</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+    <link href="custom.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="reportng.js"></script>
+</head>
+<body>
+<h1>Regression Tests 5</h1>
+<p>
+  Test duration: 1458.530s
+</p>
+
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header failed">Failed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL_1063_4">changeDefaultEndDate</span>
+      </td>
+  <td class="duration">
+    41.353s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        <br><b>Test method: NEWNGMEL_1063_4.<br><b>
+                                <br> <font color=green>Home tab is loaded correctly</font>
+                                <br>Home Page is loaded
+                                Current Tab selected isSETTINGS
+                                <br> Course Management tab is loaded correctly
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (1075, 22). Other element would receive the click: &lt;li class=&quot;flash-notice expiredCourses&quot;&gt;...&lt;/li&gt;<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 28 milliseconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.17&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: 2073a5b268860964099be0b9345996d7<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir6216_14136}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-0">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)<br />
+              org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)<br />
+              com.pearson.piltg.ngmelII.util.UtilityCommon.clickAndWait(UtilityCommon.java:431)<br />
+              com.pearson.piltg.ngmelII.common.Common.logoutFromTheApplication(Common.java:199)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.changeDefaultEndDate(SettingsCourseSettings.java:408)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:478)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL_1063_3,NEWNGMEL_1063_5,NEWNGMEL-1770_1,NEWNGMEL-1770_2,NEWNGMEL-1770_3,NEWNGMEL-1770_5,NEWNGMEL-1770_6,NEWNGMEL-1770_7,NEWNGMEL-1973_2,NEWNGMEL-1973_3,NEWNGMEL-1975_1,NEWNGMEL-1975_2,NEWNGMEL-1975_3,NEWNGMEL-1975_5, NEWNGMEL-1770_2">courseSettingValidation</span>
+      </td>
+  <td class="duration">
+    121.367s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        <br><b>Test method: NEWNGMEL_1063_3,NEWNGMEL_1063_5,NEWNGMEL-1770_1,NEWNGMEL-1770_2,NEWNGMEL-1770_3,NEWNGMEL-1770_5,NEWNGMEL-1770_6,NEWNGMEL-1770_7,NEWNGMEL-1973_2,NEWNGMEL-1973_3,NEWNGMEL-1975_1,NEWNGMEL-1975_2,NEWNGMEL-1975_3,NEWNGMEL-1975_5, NEWNGMEL-1770_2.</b></br>
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.TimeoutException: Timed out after 120 seconds waiting for presence of element located by: By.id: username<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.17&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Driver info: driver.version: unknown</b></a><br />
+    <div class="stackTrace" id="exception-1">
+              org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)<br />
+              org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)<br />
+              com.pearson.piltg.ngmelII.util.UtilityCommon.waitForElementPresent(UtilityCommon.java:193)<br />
+              com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:72)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.courseSettingValidation(SettingsCourseSettings.java:96)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:478)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                    <b>Caused by: </b> <a href="javascript:toggleElement('exception-2', 'block')" title="Click to expand/collapse">org.openqa.selenium.NoSuchElementException: no such element<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 6 milliseconds<br/>
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.17&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: 2073a5b268860964099be0b9345996d7<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir6216_14136}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</a><br />
+        <div class="stackTrace" id="exception-2">
+                      sun.reflect.GeneratedConstructorAccessor16.newInstance(Unknown Source)<br />
+                      sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+                      java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+                      org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+                      org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:348)<br />
+                      org.openqa.selenium.By$ById.findElement(By.java:220)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)<br />
+                      org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)<br />
+                      org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)<br />
+                      org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)<br />
+                      org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)<br />
+                      org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)<br />
+                      com.pearson.piltg.ngmelII.util.UtilityCommon.waitForElementPresent(UtilityCommon.java:193)<br />
+                      com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:72)<br />
+                      com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.courseSettingValidation(SettingsCourseSettings.java:96)<br />
+                      sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+                      sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+                      sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+                      java.lang.reflect.Method.invoke(Method.java:606)<br />
+                      org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+                      org.testng.internal.Invoker.invokeMethod(Invoker.java:478)<br />
+                      org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)<br />
+                      org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)<br />
+                      org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+                      org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+                      org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+                      org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+                      org.testng.TestRunner.run(TestRunner.java:466)<br />
+                      org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+                      org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+                      org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+                      org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+                      org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+                      org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+                      org.testng.TestNG.run(TestNG.java:701)<br />
+                      org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+                      org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+                      org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+                      sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+                      sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+                      sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+                      java.lang.reflect.Method.invoke(Method.java:606)<br />
+                      org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+                      org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                  </div>
+          </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL_163_3">enrollCourse</span>
+      </td>
+  <td class="duration">
+    123.337s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        <br><b>Test method : NEWNGMEL_163_3
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-3', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (1075, 22). Other element would receive the click: &lt;li class=&quot;flash-notice expiredCourses&quot;&gt;...&lt;/li&gt;<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 32 milliseconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.17&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: 2073a5b268860964099be0b9345996d7<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir6216_14136}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-3">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)<br />
+              org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)<br />
+              com.pearson.piltg.ngmelII.util.UtilityCommon.clickAndWait(UtilityCommon.java:431)<br />
+              com.pearson.piltg.ngmelII.common.Common.logoutFromTheApplication(Common.java:199)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.enrollCourse(SettingsCourseSettings.java:76)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:478)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL_961_1,NEWNGMEL_961_2, NEWNGMEL_961_3">verifyNumberOfAttempts</span>
+      </td>
+  <td class="duration">
+    121.549s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        <br><b>Test method: NEWNGMEL_961_1, NEWNGMEL_961_3,NEWNGMEL_961_2.<br><b>
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-4', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.TimeoutException: Timed out after 120 seconds waiting for presence of element located by: By.id: username<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.17&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Driver info: driver.version: unknown</b></a><br />
+    <div class="stackTrace" id="exception-4">
+              org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)<br />
+              org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)<br />
+              com.pearson.piltg.ngmelII.util.UtilityCommon.waitForElementPresent(UtilityCommon.java:193)<br />
+              com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:72)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.verifyNumberOfAttempts(SettingsCourseSettings.java:416)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:478)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                    <b>Caused by: </b> <a href="javascript:toggleElement('exception-5', 'block')" title="Click to expand/collapse">org.openqa.selenium.NoSuchElementException: no such element<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 20 milliseconds<br/>
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.17&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: 2073a5b268860964099be0b9345996d7<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir6216_14136}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</a><br />
+        <div class="stackTrace" id="exception-5">
+                      sun.reflect.GeneratedConstructorAccessor16.newInstance(Unknown Source)<br />
+                      sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+                      java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+                      org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+                      org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:348)<br />
+                      org.openqa.selenium.By$ById.findElement(By.java:220)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)<br />
+                      org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)<br />
+                      org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)<br />
+                      org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)<br />
+                      org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)<br />
+                      org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)<br />
+                      com.pearson.piltg.ngmelII.util.UtilityCommon.waitForElementPresent(UtilityCommon.java:193)<br />
+                      com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:72)<br />
+                      com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.verifyNumberOfAttempts(SettingsCourseSettings.java:416)<br />
+                      sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+                      sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+                      sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+                      java.lang.reflect.Method.invoke(Method.java:606)<br />
+                      org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+                      org.testng.internal.Invoker.invokeMethod(Invoker.java:478)<br />
+                      org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)<br />
+                      org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)<br />
+                      org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+                      org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+                      org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+                      org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+                      org.testng.TestRunner.run(TestRunner.java:466)<br />
+                      org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+                      org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+                      org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+                      org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+                      org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+                      org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+                      org.testng.TestNG.run(TestNG.java:701)<br />
+                      org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+                      org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+                      org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+                      sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+                      sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+                      sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+                      java.lang.reflect.Method.invoke(Method.java:606)<br />
+                      org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+                      org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                  </div>
+          </div>
+      </td>
+</tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL_1087_7">settings</span>
+      </td>
+  <td class="duration">
+    402.041s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Test Methods : NEWNGMEL_1087_7
+                                Current Tab selected isSETTINGS
+                                <br> PERSONAL PROFILE tab is loaded correctly
+                                Teacher is in Expert mode
+                                Current Tab selected isCourse
+                                Selected a Course Options
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-6', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (1075, 22). Other element would receive the click: &lt;li class=&quot;flash-notice expiredCourses&quot;&gt;...&lt;/li&gt;<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 28 milliseconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.17&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: fe56d2df6a12b9053b88b8c4db2bc57d<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir12916_27819}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-6">
+              sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)<br />
+              sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)<br />
+              org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)<br />
+              com.pearson.piltg.ngmelII.util.UtilityCommon.clickAndWait(UtilityCommon.java:431)<br />
+              com.pearson.piltg.ngmelII.common.Common.logoutFromTheApplication(Common.java:199)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile.settings(SettingsPersonalProfile.java:135)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:478)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.Show_Hide</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL_97_1, NEWNGMEL_97_2, NEWNGMEL_97_3, NEWNGMEL_97_7, NEWNGMEL_97_4, NEWNGMEL_97_8, NEWNGMEL_97_5,NEWNGMEL_97_6">showHide</span>
+      </td>
+  <td class="duration">
+    38.406s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        <br><b>Test method: NEWNGMEL_97_1, NEWNGMEL_97_2, NEWNGMEL_97_3, NEWNGMEL_97_7, NEWNGMEL_97_4, NEWNGMEL_97_8, NEWNGMEL_97_5,NEWNGMEL_97_6.</b></br>
+                                Current Tab selected isCourse
+                                UNIT 1 does not exist.</b></br>
+                                <br><b><font color='red'> Test Case NEWNGMEL_97_1 Fail</b><br>
+                                <br><b><font color='red'> Test Case NEWNGMEL_97_2 Fail</b><br>
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-7', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (1075, 22). Other element would receive the click: &lt;li class=&quot;flash-notice expiredCourses&quot;&gt;...&lt;/li&gt;<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 29 milliseconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.17&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: b0be058f5e54b707021cfedc0591d542<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir8236_6549}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-7">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)<br />
+              org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)<br />
+              com.pearson.piltg.ngmelII.util.UtilityCommon.clickAndWait(UtilityCommon.java:431)<br />
+              com.pearson.piltg.ngmelII.common.Common.logoutFromTheApplication(Common.java:199)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.Show_Hide.showHide(Show_Hide.java:287)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:478)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_Student</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  tocTreeStructure1
+      </td>
+  <td class="duration">
+    161.019s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Test Methods : NEWNGMEL-964_3,NEWNGMEL-964_2,NEWNGMEL-964_5
+                                <br> <font color=green>Home tab is loaded correctly</font>
+                                Home Page is loaded
+                                Current Tab selected isCOURSE
+                                Selected a Course Options value--STARTER UNIT, Vocabulary - Places, Exercise 2
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-8', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (1075, 22). Other element would receive the click: &lt;li class=&quot;flash-notice expiredCourses&quot;&gt;...&lt;/li&gt;<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 25 milliseconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.17&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: ba80a970847c6e78f546d1c1875d036a<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir12292_3030}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-8">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)<br />
+              org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)<br />
+              com.pearson.piltg.ngmelII.util.UtilityCommon.clickAndWait(UtilityCommon.java:431)<br />
+              com.pearson.piltg.ngmelII.common.Common.logoutFromTheApplication(Common.java:199)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_Student.tocTreeStructure1(Toc_Student.java:331)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:478)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_teacher</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL-2332_1,NEWNGMEL-2332_3,NEWNGMEL-2332_12">previewAssignments</span>
+      </td>
+  <td class="duration">
+    403.737s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Test method: NEWNGMEL-2332_1,NEWNGMEL-2332_3,NEWNGMEL-2332_12
+                                <br> <font color=green>Home tab is loaded correctly</font>
+                                Home Page is loaded
+                                Current Tab selected isSETTINGS
+                                <br> PERSONAL PROFILE tab is loaded correctly
+                                Teacher is in Expert mode
+                                Current Tab selected isCOURSE
+                                Selected a Course Options
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-9', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (1075, 22). Other element would receive the click: &lt;li class=&quot;flash-notice expiredCourses&quot;&gt;...&lt;/li&gt;<br/>
+&nbsp; (Session info: chrome=37.0.2062.124)<br/>
+&nbsp; (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 37 milliseconds<br/>
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;<br/>
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;192.168.1.17&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;<br/>
+Session ID: 1f64c014cb798c121f362015b1c7ead5<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir12792_6444}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</b></a><br />
+    <div class="stackTrace" id="exception-9">
+              sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:526)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)<br />
+              org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)<br />
+              org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)<br />
+              com.pearson.piltg.ngmelII.util.UtilityCommon.clickAndWait(UtilityCommon.java:431)<br />
+              com.pearson.piltg.ngmelII.common.Common.logoutFromTheApplication(Common.java:199)<br />
+              com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_teacher.previewAssignments(Toc_teacher.java:117)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:478)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.runWorkers(TestRunner.java:689)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:566)<br />
+              org.testng.TestRunner.run(TestRunner.java:466)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:301)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:191)<br />
+              org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:776)<br />
+              org.testng.TestNG.run(TestNG.java:701)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)<br />
+              org.apache.maven.surefire.Surefire.run(Surefire.java:180)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:606)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)<br />
+              org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)<br />
+                </div>
+      </td>
+</tr>
+      </table>
+
+  <table class="resultsTable" width="100%">
+    <tr><th colspan="3" class="header skipped">Skipped Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="NEWNGMEL_1490_4, NEWNGMEL_1490_1,NEWNGMEL_1490_2">changePassword</span>
+      </td>
+  <td class="duration">
+    0.001s
+  </td>
+  <td class="result">
+                             <i>Depends on method(s): </i>
+        <span class="dependency">com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile.settings</span>
+          
+    
+        
+
+      </td>
+</tr>
+      </table>
+
+  
+</body>
+</html>

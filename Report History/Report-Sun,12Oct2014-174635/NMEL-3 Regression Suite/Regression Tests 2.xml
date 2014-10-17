@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 2" failures="0" tests="5" time="1047.282" errors="0">
+  <properties/>
+  <testcase name="calendarAssignment" time="220.048" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+  <testcase name="calendarAddEventsOnPastDates" time="126.108" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+  <testcase name="addEventStudent" time="205.505" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+  <testcase name="calendarCourseVerify" time="272.599" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+  <testcase name="calendarGeneralEventVerify" time="213.234" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender"/>
+</testsuite>

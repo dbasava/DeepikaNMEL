@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 6" failures="4" tests="15" time="2453.605" errors="0">
+  <properties/>
+  <testcase name="@AfterClass tearDown" time="0.0" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher">
+    <failure type="org.openqa.selenium.remote.SessionNotFoundException" message="Session ID is null
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.150.237.110&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Driver info: driver.version: RemoteWebDriver">
+      <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:418)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.tearDown(GradeBook_Teacher.java:670)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 24 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="gradebookAutoGradedPractice" time="765.859" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher"/>
+  <testcase name="assignmentAverage" time="290.949" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher"/>
+  <testcase name="gradebookAutoGradedPracticeStudentLogin" time="149.018" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher"/>
+  <testcase name="threshold" time="0.0" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeSettings">
+    <skipped/>
+  </testcase>
+  <testcase name="viewScoresAtLevelPracticeActivity" time="0.001" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher">
+    <failure type="org.openqa.selenium.remote.SessionNotFoundException" message="Session ID is null
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.150.237.110&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Driver info: driver.version: RemoteWebDriver">
+      <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.viewScoresAtLevelPracticeActivity(GradeBook_Teacher.java:467)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 24 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="preConditionTeacherGradedAssignAndAttempt" time="7.0" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher">
+    <failure type="org.openqa.selenium.remote.SessionNotFoundException" message="Session ID is null
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.150.237.110&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Driver info: driver.version: RemoteWebDriver">
+      <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.preConditionTeacherGradedAssignAndAttempt(GradeBook_Teacher.java:44)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 24 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="gradebookTeacherGradedAssignment" time="0.001" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher">
+    <skipped/>
+  </testcase>
+  <testcase name="verifyPendingBatchRegistration" time="193.86" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.BatchRegistration"/>
+  <testcase name="gradebook" time="0.002" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher">
+    <failure type="org.openqa.selenium.remote.SessionNotFoundException" message="Session ID is null
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.150.237.110&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Driver info: driver.version: RemoteWebDriver">
+      <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebook(GradeBook_Teacher.java:316)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 24 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="gradeboogradebookFunctionskFunctions" time="0.002" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher">
+    <failure type="org.openqa.selenium.remote.SessionNotFoundException" message="Session ID is null
+Build info: version: &apos;2.39.0&apos;, revision: &apos;14fa800511cc5d66d426e08b0b2ab926c7ed7398&apos;, time: &apos;2013-12-16 13:18:38&apos;
+System info: host: &apos;BRICAWL-9JDVVY1&apos;, ip: &apos;10.150.237.110&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.7.0_51&apos;
+Driver info: driver.version: RemoteWebDriver">
+      <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:74)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradeboogradebookFunctionskFunctions(GradeBook_Teacher.java:400)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+... Removed 24 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="verifyFirstAttemptLastAttemptTest" time="523.236" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Gradebook_Student"/>
+  <testcase name="studentHelp" time="81.927" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Help"/>
+  <testcase name="teacherHelp" time="77.125" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Help"/>
+  <testcase name="userLanguage_Breadcrum_FooterBarVerification" time="126.321" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Miscellaneous"/>
+  <testcase name="removeStudents" time="153.239" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.RemoveStudent"/>
+</testsuite>

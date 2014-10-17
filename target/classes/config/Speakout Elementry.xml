@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<pearson>
+
+<products>
+	<product1>Speakout Elementary</product1>
+</products>
+
+<unitbuckets>
+	<unit1>Unit 1</unit1>
+	<unit2>Unit 2</unit2>
+</unitbuckets>
+
+<unitnumbers>
+	<unit11>UNIT 1.1</unit11>
+	<unit21>Unit 2.1</unit21>
+</unitnumbers>
+	
+<subunits>
+       <Unit111>Unit 1.1.1</Unit111>
+       <Unit112>Unit 1.1.2</Unit112>	
+</subunits>
+
+<activites>
+	<activity1 name='Practice Auto-graded'>fillin</activity1>
+	<activity2 name='Practice Teacher-graded'>essay</activity2>
+	<activity3 name='Practice Auto-graded'>inline_dropdown</activity3>
+	<activity4 name='Practice Teacher-graded'>audiosubmit</activity4>
+	<activity5 name='Practice Auto-graded'>dropdown</activity5>
+	<activity6 name='Practice Auto-graded'>singleChoice</activity6>
+	<activity7 name='Practice Auto-graded'>multipleChoice</activity7>
+	<activity8 name='Practice Auto-graded'>dragAndDrop</activity8>
+	<activity9 name='Test Auto-Graded'>fillin test</activity9>
+	<activity10 name='Test Teacher-graded'>essay test</activity10>
+	<activity11 name='Test Teacher-graded'>audiosubmit test</activity11>
+	<activity12 name='Test Auto-Graded'>dropdown test</activity12>
+	<activity13 name='Test Auto-Graded'>singleChoice test</activity13>
+	<activity14 name='Test Auto-Graded'>multipleChoice test</activity14>
+	<activity15 name='Test Auto-Graded'>dragAndDrop test</activity15>
+</activites>
+
+<links>
+<assign>Assign</assign>
+<assignagain>Assign again</assignagain>
+</links>
+
+</pearson>

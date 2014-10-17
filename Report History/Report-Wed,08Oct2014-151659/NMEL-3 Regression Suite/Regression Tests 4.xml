@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 4" failures="0" tests="13" time="2092.719" errors="0">
+  <properties/>
+  <testcase name="preConditionAutogradedAttempt" time="141.931" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="preConditionAutoGradedAssignNAttempt" time="235.05" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="viewScoresAtLevelAutoGradedAssignment" time="114.429" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="assignmentAverage" time="324.323" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradeBookExport" time="95.337" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="preConditionTeacherGradedAssignAndAttempt" time="278.317" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebookTeacherGradedAssignment" time="121.564" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="viewScoresAtLevelAssignmentTeacherGraded" time="106.609" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="viewScoresAtLevelPracticeActivity" time="99.787" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebook" time="47.58" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebookFunctions" time="61.425" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebookAutoGradedPractice" time="395.644" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="reAssignAssignments" time="53.01" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign"/>
+</testsuite>

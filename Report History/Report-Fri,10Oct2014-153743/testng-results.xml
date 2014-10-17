@@ -1,0 +1,1085 @@
+<testng-results>
+  <reporter-output>
+    <line>
+      <![CDATA[<p>The Teacher created is:Teacher_20141010022205</p>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The teacher is asked to select a course when the teacher has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher created is:Teacher_20141010023053</p>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The teacher is asked to select a course when the teacher has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test cases: NEWNGMEL_763_1, NEWNGMEL_163_1, NEWNGMEL_187_3]]>
+    </line>
+    <line>
+      <![CDATA[The student created is:Student_20141010023940]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<b>The student is not enrolled for the requested product.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_763_1 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is successfully enrolled to course using course id provided by teacher.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_163_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The student is not asked to select a course when the student has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_187_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The student created is:Student_20141010024710]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<b>The student is not enrolled for the requested product.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_763_1 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is successfully enrolled to course using course id provided by teacher.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_163_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The student is not asked to select a course when the student has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_187_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Settings module test case: NEWNGMEL-2744_3.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>User is not able to select a tab without setting country value.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2744_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The student created is:Student_20141010025629]]>
+    </line>
+    <line>
+      <![CDATA[Self study student:]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[The student is not asked to select a course when the student has more than one course.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_160_3, NEWNGMEL_160_4.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>The course is loaded.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The student has access to the Teacher led courses.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_160_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br>The course is loaded.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The student has access to the Teacher led courses.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_160_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-2586_4, NEWNGMEL-2586_7.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitReading (2)]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2is Open]]>
+    </line>
+    <line>
+      <![CDATA[<br>Wrong answer is displayed and Blank answers are displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2586_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2586_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitGrammar - Present simple]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1*is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<br>View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>By default,the filter is set to Everything under Recent activity tab.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_12 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by assignments only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_9 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by general events only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by course events only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_168_5, NEWNGMEL_168_1, NEWNGMEL_168_2, NEWNGMEL_167_3, NEWNGMEL_168_6, NEWNGMEL-1741_1,NEWNGMEL-1741_2, NEWNGMEL_117_8.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitReading (2)]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [To Do List] is not a valid tab. The valid tabs are [Home, Course, Gradebook, Message, Settings]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Assignments exists on the page..</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Immediate activities appear as per due date]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1741_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Due date is greater than or equal to current date.Hence due date has not passed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Due date is greater than or equal to current date.Hence due date has not passed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[The list in To Do tab is expanded and all the assignments are displayed.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[UNIT 1, Play The Game!, Reading (2), Exercise 2 found.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_167_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student was able to click the open link to launch the activity.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The assignmentUNIT 1, Play The Game!, Reading (2), Exercise 2still exits on the ToDo list.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1741_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Assignment UNIT 1, Play The Game!, Reading (2), Exercise 2is deleted.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_117_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-2586_3, NEWNGMEL-2586_6, NEWNGMEL-2586_9.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitReading (2)]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [To Do List] is not a valid tab. The valid tabs are [Home, Course, Gradebook, Message, Settings]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Wrong answer is displayed and Blank answers are displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2586_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2586_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Previuos incorrect and blank fields are displayed blank.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2586_9 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_168_7, NEWNGMEL_117_2, NEWNGMEL-117_1, NEWNGMEL-117_3, NEWNGMEL-117_4, NEWNGMEL_117_7,NEWNGMEL_168_8, NEWNGMEL-2039_10, NEWNGMEL-117_7, NEWNGMEL-117_8, NEWNGMEL-139_6, NEWNGMEL-120_1,NEWNGMEL_167_12, NEWNGMEL-125_1, NEWNGMEL-117_11, NEWNGMEL-117_12, NEWNGMEL-117_14, NEWNGMEL-117_15NEWNGMEL-117_16, NEWNGMEL-117_17.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitSchwa /ə/]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>The expected selected tab is Home and the actual selected tab is HOME</font>]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [To Do List] is not a valid tab. The valid tabs are [Home, Course, Gradebook, Message, Settings]]]>
+    </line>
+    <line>
+      <![CDATA[<br>Assignments exists on the page]]>
+    </line>
+    <line>
+      <![CDATA[<br>Immediate activities appear as per due date]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Past date error message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Error message is displayed when past date is entered.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_117_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher is able to re-set the due date from To-Do for an assignment for a student.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-117_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Due date for UNIT 9, Pronunciation practice, Schwa /ə/, Exercise 1is changed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[The drop down is successfully set toWeek]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-117_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-117_4 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to verify the due date changed in To Do under Recent Activity tab.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_117_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[chrome not reachable
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.01 seconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 7532022ead4656f5ccbc6a625ec01da3
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir18968_30481}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]]]>
+    </line>
+    <line>
+      <![CDATA[<a href="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList.teacherToDo.png">Screenshot</a>]]>
+    </line>
+  </reporter-output>
+  <suite name="NMEL-3 Regression Suite">
+    <groups>
+      <group name="register">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerCandidateStudent()" name="registerCandidateStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+      </group>
+      <group name="rumba">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerInstructor()" name="registerInstructor" class="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+      </group>
+      <group name="regression">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList.teacherToDo()" name="teacherToDo" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.selfStudy()" name="selfStudy" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyBlankAndIncorrectForPractise()" name="verifyBlankAndIncorrectForPractise" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesTeacher()" name="filterActivitesTeacher" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyAndAttemptActivity()" name="verifyAndAttemptActivity" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyBlankAndIncorrectForAutograded()" name="verifyBlankAndIncorrectForAutograded" class="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesStudent()" name="filterActivitesStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.recentActivityTest()" name="recentActivityTest" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin.ProgramAdminTest()" name="ProgramAdminTest" class="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin"/>
+      </group>
+    </groups>
+    <test name="Rumba Regression Test">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="7142" started-at="2014-10-10T14:54:26Z" finished-at="2014-10-10T14:54:33Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="7272" started-at="2014-10-10T14:21:41Z" finished-at="2014-10-10T14:21:48Z">
+        </test-method>
+        <test-method status="PASS" signature="registerCandidateStudent()" name="registerCandidateStudent" duration-ms="899985" started-at="2014-10-10T14:39:23Z" description="NEWNGMEL_763_1, NEWNGMEL_163_1, NEWNGMEL_187_3" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerInstructor" finished-at="2014-10-10T14:54:23Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="6291" started-at="2014-10-10T14:39:17Z" finished-at="2014-10-10T14:39:23Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2472" started-at="2014-10-10T14:54:23Z" finished-at="2014-10-10T14:54:26Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="7487" started-at="2014-10-10T14:56:03Z" finished-at="2014-10-10T14:56:11Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2460" started-at="2014-10-10T14:59:36Z" finished-at="2014-10-10T14:59:38Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2403" started-at="2014-10-10T14:56:01Z" finished-at="2014-10-10T14:56:03Z">
+        </test-method>
+        <test-method status="FAIL" signature="registerCandidateStudentSelfStudy()" name="registerCandidateStudentSelfStudy" duration-ms="205086" started-at="2014-10-10T14:56:11Z" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.settingsPersonalProfile" finished-at="2014-10-10T14:59:36Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[unknown error: Element is not clickable at point (1075, 22). Other element would receive the click: <div class="flash-notice">...</div>
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 51 milliseconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: a55cb7d287363fb1067e2c0cca198f0e
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir19032_9534}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (1075, 22). Other element would receive the click: &lt;div class="flash-notice"&gt;...&lt;/div&gt;
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 51 milliseconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: a55cb7d287363fb1067e2c0cca198f0e
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir19032_9534}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at com.pearson.piltg.ngmelII.util.UtilityCommon.clickAndWait(UtilityCommon.java:437)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerCandidateStudentSelfStudy(RumbaRegistration.java:380)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="PASS" signature="registerInstructor()" name="registerInstructor" duration-ms="1046537" started-at="2014-10-10T14:21:48Z" description="NEWNGMEL_1063_1, NEWNGMEL-1369_3" finished-at="2014-10-10T14:39:15Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2461" started-at="2014-10-10T14:39:15Z" finished-at="2014-10-10T14:39:17Z">
+        </test-method>
+        <test-method status="PASS" signature="settingsPersonalProfile()" name="settingsPersonalProfile" duration-ms="87858" started-at="2014-10-10T14:54:33Z" description="Settings module test case: NEWNGMEL-2744_3." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerCandidateStudent" finished-at="2014-10-10T14:56:01Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Regression Tests 1">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList">
+        <test-method status="FAIL" signature="tearDown()" name="tearDown" is-config="true" duration-ms="0" started-at="2014-10-10T15:29:08Z" finished-at="2014-10-10T15:29:08Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[chrome not reachable
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.01 seconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 7532022ead4656f5ccbc6a625ec01da3
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir18968_30481}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.01 seconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 7532022ead4656f5ccbc6a625ec01da3
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir18968_30481}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:418)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList.tearDown(HomePage_Teacher_ToDoList.java:545)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:398)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:145)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:82)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:209)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="6529" started-at="2014-10-10T15:23:59Z" finished-at="2014-10-10T15:24:06Z">
+        </test-method>
+        <test-method status="FAIL" signature="teacherToDo()" name="teacherToDo" duration-ms="301405" started-at="2014-10-10T15:24:06Z" description="NEWNGMEL_168_7,NEWNGMEL_167_12, NEWNGMEL-117_1,NEWNGMEL_117_2, NEWNGMEL_168_8, NEWNGMEL-139_6,NEWNGMEL-120_1, NEWNGMEL-2039_10,NEWNGMEL-125_1, NEWNGMEL_117_7" finished-at="2014-10-10T15:29:07Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[chrome not reachable
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.01 seconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 7532022ead4656f5ccbc6a625ec01da3
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir18968_30481}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.01 seconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 7532022ead4656f5ccbc6a625ec01da3
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir18968_30481}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.logoutFromTheApplication(Common.java:198)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Teacher_ToDoList.teacherToDo(HomePage_Teacher_ToDoList.java:539)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin">
+        <test-method status="SKIP" signature="tearDown()" name="tearDown" is-config="true" duration-ms="0" started-at="2014-10-10T15:29:12Z" finished-at="2014-10-10T15:29:12Z">
+        </test-method>
+        <test-method status="SKIP" signature="ProgramAdminTest()" name="ProgramAdminTest" duration-ms="0" started-at="2014-10-10T15:29:12Z" description="NML-4_2,NML-4_5,NML-4_6,NML-234_1,NML-234_3,NML-235_1,NML-235_2,NML-235_3" finished-at="2014-10-10T15:29:12Z">
+        </test-method>
+        <test-method status="FAIL" signature="setUp()" name="setUp" is-config="true" duration-ms="0" started-at="2014-10-10T15:29:09Z" finished-at="2014-10-10T15:29:09Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[unknown error: cannot determine loading status
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.41 seconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 3fdd713ecf526cf60a35973d2ca57142
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir13344_22301}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.41 seconds
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: 3fdd713ecf526cf60a35973d2ca57142
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir13344_22301}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.setUpCommon(Common.java:294)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin.setUp(ProgramAdmin.java:36)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:398)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:145)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:82)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:103)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1369" started-at="2014-10-10T15:23:58Z" finished-at="2014-10-10T15:23:59Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyAndAttemptActivity()" name="verifyAndAttemptActivity" duration-ms="460430" started-at="2014-10-10T15:10:48Z" description="NEWNGMEL_168_5, NEWNGMEL_168_1, NEWNGMEL_168_2, NEWNGMEL_167_3, NEWNGMEL_168_6, NEWNGMEL-1741_1, NEWNGMEL-4793_1, NEWNGMEL_117_8" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyBlankAndIncorrectForPractise" finished-at="2014-10-10T15:18:29Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyBlankAndIncorrectForPractise()" name="verifyBlankAndIncorrectForPractise" duration-ms="149990" started-at="2014-10-10T15:01:45Z" description="NEWNGMEL-2586_4, NEWNGMEL-2586_7." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.selfStudy" finished-at="2014-10-10T15:04:15Z">
+        </test-method>
+        <test-method status="PASS" signature="selfStudy()" name="selfStudy" duration-ms="120649" started-at="2014-10-10T14:59:45Z" description="NEWNGMEL_160_3, NEWNGMEL_160_4.</br>" finished-at="2014-10-10T15:01:45Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyBlankAndIncorrectForAutograded()" name="verifyBlankAndIncorrectForAutograded" duration-ms="329050" started-at="2014-10-10T15:18:29Z" description="NEWNGMEL-2586_3, NEWNGMEL-2586_6, NEWNGMEL-2586_9" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.HomePage_Student_ToDoList.verifyAndAttemptActivity" finished-at="2014-10-10T15:23:58Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="6498" started-at="2014-10-10T14:59:38Z" finished-at="2014-10-10T14:59:45Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity">
+        <test-method status="SKIP" signature="recentActivityTest()" name="recentActivityTest" duration-ms="1" started-at="2014-10-10T15:23:59Z" description="NEWNGMEL_117_4, NEWNGMEL_117_3, NEWNGMEL-2039_11, NEWNGMEL_117_6." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesStudent" finished-at="2014-10-10T15:23:59Z">
+        </test-method>
+        <test-method status="FAIL" signature="filterActivitesStudent()" name="filterActivitesStudent" duration-ms="2" started-at="2014-10-10T15:23:59Z" description="NEWNGMEL-37_8, NEWNGMEL-37_12, NEWNGMEL-37_9, NEWNGMEL-37_10, NEWNGMEL-37_11." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesTeacher" finished-at="2014-10-10T15:23:59Z">
+          <exception class="org.openqa.selenium.remote.SessionNotFoundException">
+            <message>
+              <![CDATA[Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:800)
+	at com.pearson.piltg.ngmelII.common.Common.loginToPlatform(Common.java:73)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesStudent(Hompage_RecentActivity.java:353)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:478)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:607)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:874)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="6529" started-at="2014-10-10T15:04:15Z" finished-at="2014-10-10T15:04:22Z">
+        </test-method>
+        <test-method status="FAIL" signature="tearDown()" name="tearDown" is-config="true" duration-ms="0" started-at="2014-10-10T15:23:59Z" finished-at="2014-10-10T15:23:59Z">
+          <exception class="org.openqa.selenium.remote.SessionNotFoundException">
+            <message>
+              <![CDATA[Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.SessionNotFoundException: Session ID is null
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:276)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:418)
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.tearDown(Hompage_RecentActivity.java:494)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodHelper.invokeMethod(MethodHelper.java:580)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:398)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:145)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:82)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:209)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:689)
+	at org.testng.TestRunner.privateRun(TestRunner.java:566)
+	at org.testng.TestRunner.run(TestRunner.java:466)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:301)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:296)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:276)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:191)
+	at org.testng.TestNG.createAndRunSuiteRunners(TestNG.java:808)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:776)
+	at org.testng.TestNG.run(TestNG.java:701)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:74)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.Surefire.run(Surefire.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)
+	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="PASS" signature="filterActivitesTeacher()" name="filterActivitesTeacher" duration-ms="86985" started-at="2014-10-10T15:09:21Z" description="NEWNGMEL-38_8, NEWNGMEL-38_12, NEWNGMEL-38_9, NEWNGMEL-38_10, NEWNGMEL-38_11." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.preCondition" finished-at="2014-10-10T15:10:48Z">
+        </test-method>
+        <test-method status="PASS" signature="preCondition()" name="preCondition" duration-ms="299436" started-at="2014-10-10T15:04:22Z" finished-at="2014-10-10T15:09:21Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

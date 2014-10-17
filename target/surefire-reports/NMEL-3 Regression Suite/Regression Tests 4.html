@@ -1,0 +1,330 @@
+<html>
+<head>
+<title>TestNG:  Regression Tests 4</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Regression Tests 4</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>13/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Oct 17 02:57:21 PDT 2014</td>
+</tr>
+<tr><td>Total time:</td><td>2861 seconds (2861014 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='3' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td width="30%"><b>Exception</b></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.assignmentAverage()'>assignmentAverage<br/><b>NEWNGMEL-131_13, NEWNGMEL-131_14, NEWNGMEL-131_15</b><br/>
+<a href="#Output-17417619" onClick='toggleBox("Output-17417619", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-17417619" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-17417619">
+Current Tab selected isCourse<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitVocabulary - Types of films<br/>
+Exercise 2**is Open<br/>
+Current Tab selected isGradebook<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitThe Big Picture<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-131_13 Pass</b><br><br/>
+Current Tab selected isSettings<br/>
+<br> PERSONAL PROFILE tab is loaded correctly<br/>
+<br><b><font color='red'>Exception Occured.</b><br><br/>
+</div>
+</td>
+<td>356</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradeBookExport()'>gradeBookExport<br/><b>NEWNGMEL-2205_24, NEWNGMEL-2205_17</b><br/>
+<a href="#Output-659584670" onClick='toggleBox("Output-659584670", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-659584670" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-659584670">
+Current Tab selected isGradebook<br/>
+Tree Structure till unitThe Big Picture<br/>
+The scores are exported as excel.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-2205_24 Pass</b><br><br/>
+Tree Structure till unitThe Big Picture<br/>
+The scores are exported as excel.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-2205_17 Pass</b><br><br/>
+</div>
+</td>
+<td>126</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebook()'>gradebook<br/><b>NEWNGMEL-131_9, NEWNGMEL-131_3, NEWNGMEL-131_4, NEWNGMEL-131_5, NEWNGMEL-131_6, NEWNGMEL-131_7, NEWNGMEL-131_8.</b><br/>
+<a href="#Output-1645217303" onClick='toggleBox("Output-1645217303", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1645217303" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1645217303">
+Current Tab selected isGradebook<br/>
+Teacher is able to expand the Gradebook screen by clicking on the expand arrow (<<) under course tab.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-131_9 Pass</b><br><br/>
+Teacher is entitled to more than one product.<br/>
+Teacher is able to navigate between courses.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-131_3 Pass</b><br><br/>
+The default selected value is Assignments & Tests.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-131_4 Pass</b><br><br/>
+</div>
+</td>
+<td>97</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookAutoGradedPractice()'>gradebookAutoGradedPractice<br/><b>NEWNGMEL-139_3, NEWNGMEL-131_1, NEWNGMEL_961_10, NEWNGMEL-131_11, NEWNGMEL-131_12.</b><br/>
+<a href="#Output-541104896" onClick='toggleBox("Output-541104896", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-541104896" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-541104896">
+Current Tab selected isGradebook<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitThe Big Picture<br/>
+Current Tab selected isCourse<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitVocabulary - Types of films<br/>
+Exercise 2**is tried again<br/>
+Current Tab selected isGradebook<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitThe Big Picture<br/>
+Teacher is be able to view the Gradebook of the course for the auto graded activity. Test case NEWNGMEL-131_1 passed.<br/>
+<br><b><font color='green'>Test Case  Pass</b><br><br/>
+Teacher is able to view the recorded accumulated number of attempts under Gradebook.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL_961_10 Pass</b><br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL_961_10 Fail</b><br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-131_1 Fail</b><br><br/>
+</div>
+</td>
+<td>441</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookFunctions()'>gradebookFunctions<br/><b>NEWNGMEL-1369_5, NEWNGMEL-2029_2, NEWNGMEL-131_10</b><br/>
+<a href="#Output-847174217" onClick='toggleBox("Output-847174217", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-847174217" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-847174217">
+Current Tab selected isGradebook<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1369_5 Pass</b><br><br/>
+The gradebook view is changed to the selected course.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-2029_2 Pass</b><br><br/>
+Teacher is able to sort the student name columns in Gradebook.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-131_10 Pass</b><br><br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitThe Big Picture<br/>
+</div>
+</td>
+<td>304</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookTeacherGradedAssignment()'>gradebookTeacherGradedAssignment<br/><b>NEWNGMEL-131_2,NEWNGMEL-139_5.</b><br/>
+<a href="#Output-726847997" onClick='toggleBox("Output-726847997", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-726847997" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-726847997">
+Current Tab selected isGradebook<br/>
+Tree Structure till unitPronunciation practice<br/>
+Toc Tree structure at sub-unitPronunciation practice<br/>
+Teacher is able to view the Gradebook of the course for the teacher graded activity.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-131_2 Pass</b><br><br/>
+</div>
+</td>
+<td>140</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutoGradedAssignNAttempt()'>preConditionAutoGradedAssignNAttempt<br/>
+<a href="#Output-404116484" onClick='toggleBox("Output-404116484", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-404116484" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-404116484">
+Current Tab selected isCOURSE<br/>
+Selected a Course Options<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitVocabulary - Types of films<br/>
+Exercise 3**is Assigned/Open<br/>
+Selected All Students<br/>
+Selected a Date<br/>
+Clicked Assign button<br/>
+X
+The assignment has been successfully allocated to your student.<br/>
+Teacher_1 logged out<br/>
+</div>
+</td>
+<td>251</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutogradedAttempt()'>preConditionAutogradedAttempt<br/>
+<a href="#Output-1100766453" onClick='toggleBox("Output-1100766453", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1100766453" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1100766453">
+Current Tab selected isCourse<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitVocabulary - Types of films<br/>
+Exercise 2**is Open<br/>
+</div>
+</td>
+<td>158</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt()'>preConditionTeacherGradedAssignAndAttempt<br/>
+<a href="#Output-1975847273" onClick='toggleBox("Output-1975847273", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1975847273" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1975847273">
+Current Tab selected isCOURSE<br/>
+Selected a Course Options<br/>
+Tree Structure till unitPronunciation practice<br/>
+Toc Tree structure at sub-unitWord stress in adjectives<br/>
+Exercise 1is Assigned/Open<br/>
+Selected All Students<br/>
+Selected a Date<br/>
+Clicked Assign button<br/>
+X
+The assignment has been successfully allocated to your student.<br/>
+Teacher_1 logged out<br/>
+Mark link exists. Hence teacher is able to see the number of assignments that have been submitted.<br/>
+<br/>
+no such element
+  (Session info: chrome=38.0.2125.104)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.150.237.110', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: da0510c609b7704c31c500de5fe1aff3
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir2888_10636}, rotatable=false, locationContextEnabled=true, version=38.0.2125.104, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]<br/>
+</div>
+</td>
+<td>401</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign.reAssignAssignments()'>reAssignAssignments<br/><b>NEWNGMEL-3212_1,NEWNGMEL-3212_2</b><br/>
+<a href="#Output-126750996" onClick='toggleBox("Output-126750996", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-126750996" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-126750996">
+Test method: NEWNGMEL-3212_1,NEWNGMEL-3212_2<br/>
+<br> <font color=green>Home tab is loaded correctly</font><br/>
+Home Page is loaded<br/>
+Current Tab selected isSETTINGS<br/>
+<br> PERSONAL PROFILE tab is loaded correctly<br/>
+Teacher is now in Expert mode<br/>
+</div>
+</td>
+<td>180</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.viewScoresAtLevelAssignmentTeacherGraded()'>viewScoresAtLevelAssignmentTeacherGraded<br/><b>NEWNGMEL-2205_7, NEWNGMEL-2205_5, NEWNGMEL-2205_3, NEWNGMEL-2205_1</b><br/>
+<a href="#Output-1468931046" onClick='toggleBox("Output-1468931046", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1468931046" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1468931046">
+Current Tab selected isGradebook<br/>
+</div>
+</td>
+<td>125</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.viewScoresAtLevelAutoGradedAssignment()'>viewScoresAtLevelAutoGradedAssignment<br/><b>NEWNGMEL-2205_12,NEWNGMEL-2205_13,NEWNGMEL-2205_14,NEWNGMEL-2205_15</b><br/>
+<a href="#Output-899306704" onClick='toggleBox("Output-899306704", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-899306704" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-899306704">
+Current Tab selected isGradebook<br/>
+</div>
+</td>
+<td>134</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.viewScoresAtLevelPracticeActivity()'>viewScoresAtLevelPracticeActivity<br/><b>NEWNGMEL-1369_13, NEWNGMEL-1369_14, NEWNGMEL-1369_15</b><br/>
+<a href="#Output-1232490846" onClick='toggleBox("Output-1232490846", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1232490846" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1232490846">
+Current Tab selected isGradebook<br/>
+Teacher is able to view the students scores at course level under gradebook.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1369_13 Pass</b><br><br/>
+Teacher is able to view the students scores at unit level under gradebook.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1369_14 Pass</b><br><br/>
+Teacher is able to view the students scores at sub unit level under gradebook.<br/>
+Teacher is able to view the students scores at activity level under gradebook.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1369_15 Pass</b><br><br/>
+</div>
+</td>
+<td>118</td>
+<td></td>
+</tr>
+</table><p>
+</body>
+</html>

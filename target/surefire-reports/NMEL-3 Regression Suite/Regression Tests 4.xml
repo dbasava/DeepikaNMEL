@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 4" failures="0" tests="13" time="2861.014" errors="0">
+  <properties/>
+  <testcase name="preConditionAutogradedAttempt" time="158.651" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="preConditionAutoGradedAssignNAttempt" time="251.808" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="viewScoresAtLevelAutoGradedAssignment" time="134.433" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="assignmentAverage" time="356.826" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradeBookExport" time="126.168" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="preConditionTeacherGradedAssignAndAttempt" time="401.704" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebookTeacherGradedAssignment" time="140.195" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="viewScoresAtLevelAssignmentTeacherGraded" time="125.103" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="viewScoresAtLevelPracticeActivity" time="118.217" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebook" time="97.287" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebookFunctions" time="304.641" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebookAutoGradedPractice" time="441.465" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="reAssignAssignments" time="180.805" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign"/>
+</testsuite>

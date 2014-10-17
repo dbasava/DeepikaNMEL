@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 5" failures="0" tests="9" time="3549.994" errors="0">
+  <properties/>
+  <testcase name="settings" time="451.731" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile"/>
+  <testcase name="changePassword" time="493.166" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile"/>
+  <testcase name="changeDefaultEndDate" time="76.766" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+  <testcase name="enrollCourse" time="56.185" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+  <testcase name="courseSettingValidation" time="330.749" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+  <testcase name="verifyNumberOfAttempts" time="298.901" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+  <testcase name="showHide" time="467.962" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Show_Hide"/>
+  <testcase name="tocTreeStructure1" time="953.029" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_Student"/>
+  <testcase name="previewAssignments" time="372.834" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.Toc_teacher"/>
+</testsuite>

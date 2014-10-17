@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" skipfailedinvocationCounts="false" verbose="0" name="Failed suite [NMEL-3 Regression Suite]" junit="false" annotations="JDK">
+  <test name="Regression Tests 5(failed)" junit="false" annotations="JDK">
+    <classes>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="settings"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

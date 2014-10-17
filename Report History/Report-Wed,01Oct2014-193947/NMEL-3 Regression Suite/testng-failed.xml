@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" skipfailedinvocationCounts="false" verbose="0" name="Failed suite [NMEL-3 Regression Suite]" junit="false" annotations="JDK">
+  <test name="Rumba Regression Test(failed)" junit="false" annotations="JDK">
+    <classes>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration">
+        <methods>
+          <include name="tearDown"/>
+          <include name="registerCandidateStudentSelfStudy"/>
+          <include name="settingsPersonalProfile"/>
+          <include name="registerCandidateStudent"/>
+          <include name="registerInstructor"/>
+          <include name="setUp"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

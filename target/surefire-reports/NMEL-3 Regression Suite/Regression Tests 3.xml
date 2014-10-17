@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 3" failures="0" tests="13" time="4326.025" errors="0">
+  <properties/>
+  <testcase name="assignAssignmentDefaultSettingExpertMode" time="299.946" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="assignAssignmentExpertMode" time="709.333" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="studentAttemptAssignAssignmentExpertMode" time="506.804" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="assignTestBasicModeDueDateTimer" time="177.935" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="sendAssignmentPageVerificationForCourseEndDateGreaterExpertMode" time="175.975" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="assignActivityBasicMode" time="178.133" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="studentsAttemptsPractiseActivity" time="234.127" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="studentDelete" time="226.834" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage"/>
+  <testcase name="teacherDelete" time="213.754" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage"/>
+  <testcase name="toDoAssignmentDisappearStudent" time="607.145" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements"/>
+  <testcase name="recentActivityEnhancementsStudent" time="207.081" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements"/>
+  <testcase name="toDoEnhancementsTeacher" time="427.742" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements"/>
+  <testcase name="replyMessage" time="273.499" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ReplyMessage"/>
+</testsuite>

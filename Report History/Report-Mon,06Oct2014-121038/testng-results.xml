@@ -1,0 +1,381 @@
+<testng-results>
+  <reporter-output>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2**is tried again]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 3**is Assign again]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the students scores at activity level under gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2205_15 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2**is tried again]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_13 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSettings]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'>Exception Occured.</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[The scores are exported as excel.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2205_24 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[The scores are exported as excel.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2205_17 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitWord stress in adjectives]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1is Assign again]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[X
+The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitPronunciation practice]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the Gradebook of the course for the teacher graded activity.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the students scores at course level under gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_13 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the students scores at unit level under gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_14 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the students scores at sub unit level under gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the students scores at activity level under gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_15 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to expand the Gradebook screen by clicking on the expand arrow (<<) under course tab.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_9 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is entitled to more than one product.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to navigate between courses.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The default selected value is Assignments & Tests.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The view is set to Assignments only.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The view is set to Test only.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The view is set to Practice only.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The view is set to Practice only.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The gradebook view is changed to the selected course.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2029_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to sort the student name columns in Gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-131_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitVocabulary - Types of films]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2**is tried again]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isGradebook]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitThe Big Picture]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is be able to view the Gradebook of the course for the auto graded activity. Test case NEWNGMEL-131_1 passed.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case  Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is able to view the recorded accumulated number of attempts under Gradebook.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_961_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_961_10 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-131_1 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test method: NEWNGMEL-3212_1,NEWNGMEL-3212_2]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is now in Expert mode]]>
+    </line>
+  </reporter-output>
+  <suite name="NMEL-3 Regression Suite">
+    <groups>
+      <group name="movestudent">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt()" name="preConditionTeacherGradedAssignAndAttempt" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+      </group>
+      <group name="regression">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebook()" name="gradebook" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookFunctions()" name="gradebookFunctions" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookAutoGradedPractice()" name="gradebookAutoGradedPractice" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradeBookExport()" name="gradeBookExport" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.gradebookTeacherGradedAssignment()" name="gradebookTeacherGradedAssignment" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.viewScoresAtLevelPracticeActivity()" name="viewScoresAtLevelPracticeActivity" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign.reAssignAssignments()" name="reAssignAssignments" class="com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign"/>
+      </group>
+      <group name="autogradedAttempt">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutogradedAttempt()" name="preConditionAutogradedAttempt" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutoGradedAssignNAttempt()" name="preConditionAutoGradedAssignNAttempt" class="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+      </group>
+    </groups>
+    <test name="Regression Tests 4">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="6359" started-at="2014-10-06T12:09:35Z" finished-at="2014-10-06T12:09:41Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2402" started-at="2014-10-06T12:10:35Z" finished-at="2014-10-06T12:10:37Z">
+        </test-method>
+        <test-method status="PASS" signature="reAssignAssignments()" name="reAssignAssignments" duration-ms="53576" started-at="2014-10-06T12:09:41Z" description="NEWNGMEL-3212_1,NEWNGMEL-3212_2" finished-at="2014-10-06T12:10:35Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2524" started-at="2014-10-06T12:09:32Z" finished-at="2014-10-06T12:09:35Z">
+        </test-method>
+        <test-method status="PASS" signature="preConditionAutoGradedAssignNAttempt()" name="preConditionAutoGradedAssignNAttempt" duration-ms="248544" started-at="2014-10-06T11:37:19Z" finished-at="2014-10-06T11:41:27Z">
+        </test-method>
+        <test-method status="PASS" signature="viewScoresAtLevelPracticeActivity()" name="viewScoresAtLevelPracticeActivity" duration-ms="100448" started-at="2014-10-06T11:57:50Z" description="NEWNGMEL-1369_13, NEWNGMEL-1369_14, NEWNGMEL-1369_15" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutogradedAttempt" finished-at="2014-10-06T11:59:31Z">
+        </test-method>
+        <test-method status="PASS" signature="gradeBookExport()" name="gradeBookExport" duration-ms="95225" started-at="2014-10-06T11:48:24Z" description="NEWNGMEL-2205_24, NEWNGMEL-2205_17" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutoGradedAssignNAttempt" finished-at="2014-10-06T11:49:59Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="7272" started-at="2014-10-06T11:34:57Z" finished-at="2014-10-06T11:35:05Z">
+        </test-method>
+        <test-method status="PASS" signature="gradebook()" name="gradebook" duration-ms="57175" started-at="2014-10-06T11:59:31Z" description="NEWNGMEL-131_9, NEWNGMEL-131_3, NEWNGMEL-131_4, NEWNGMEL-131_5, NEWNGMEL-131_6, NEWNGMEL-131_7, NEWNGMEL-131_8." finished-at="2014-10-06T12:00:28Z">
+        </test-method>
+        <test-method status="PASS" signature="assignmentAverage()" name="assignmentAverage" duration-ms="301016" started-at="2014-10-06T11:43:23Z" description="NEWNGMEL-131_13, NEWNGMEL-131_14, NEWNGMEL-131_15" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutogradedAttempt" finished-at="2014-10-06T11:48:24Z">
+        </test-method>
+        <test-method status="PASS" signature="preConditionTeacherGradedAssignAndAttempt()" name="preConditionTeacherGradedAssignAndAttempt" duration-ms="241687" started-at="2014-10-06T11:49:59Z" finished-at="2014-10-06T11:54:01Z">
+        </test-method>
+        <test-method status="PASS" signature="preConditionAutogradedAttempt()" name="preConditionAutogradedAttempt" duration-ms="133820" started-at="2014-10-06T11:35:05Z" finished-at="2014-10-06T11:37:19Z">
+        </test-method>
+        <test-method status="PASS" signature="gradebookTeacherGradedAssignment()" name="gradebookTeacherGradedAssignment" duration-ms="122362" started-at="2014-10-06T11:54:01Z" description="NEWNGMEL-131_2,NEWNGMEL-139_5." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt" finished-at="2014-10-06T11:56:03Z">
+        </test-method>
+        <test-method status="PASS" signature="gradebookAutoGradedPractice()" name="gradebookAutoGradedPractice" duration-ms="387997" started-at="2014-10-06T12:03:04Z" description="NEWNGMEL-139_3, NEWNGMEL-131_1, NEWNGMEL_961_10, NEWNGMEL-131_11, NEWNGMEL-131_12." finished-at="2014-10-06T12:09:32Z">
+        </test-method>
+        <test-method status="PASS" signature="viewScoresAtLevelAssignmentTeacherGraded()" name="viewScoresAtLevelAssignmentTeacherGraded" duration-ms="107200" started-at="2014-10-06T11:56:03Z" description="NEWNGMEL-2205_7, NEWNGMEL-2205_5, NEWNGMEL-2205_3, NEWNGMEL-2205_1" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionTeacherGradedAssignAndAttempt" finished-at="2014-10-06T11:57:50Z">
+        </test-method>
+        <test-method status="PASS" signature="viewScoresAtLevelAutoGradedAssignment()" name="viewScoresAtLevelAutoGradedAssignment" duration-ms="115802" started-at="2014-10-06T11:41:27Z" description="NEWNGMEL-2205_12,NEWNGMEL-2205_13,NEWNGMEL-2205_14,NEWNGMEL-2205_15" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2.preConditionAutoGradedAssignNAttempt" finished-at="2014-10-06T11:43:23Z">
+        </test-method>
+        <test-method status="PASS" signature="gradebookFunctions()" name="gradebookFunctions" duration-ms="156101" started-at="2014-10-06T12:00:28Z" description="NEWNGMEL-1369_5, NEWNGMEL-2029_2, NEWNGMEL-131_10" finished-at="2014-10-06T12:03:04Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

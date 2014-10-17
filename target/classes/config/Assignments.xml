@@ -1,0 +1,48 @@
+<Assignments>	
+	<courses>
+		<course1>Nitya</course1>
+		<course2>Course A</course2>
+		<course3>Course_R</course3>
+		<course4>MyEnglishLab</course4>
+		<course5>Course A</course5>
+		<course6>Course1</course6>
+		<course7>course Abc</course7>
+		<course8>Self_Study_course</course8>
+	</courses>
+	
+	<assignments>
+		<assignment1>Unit 1, Unit 1.1, Unit 1.1.1, fillin</assignment1>
+		<assignment2>Unit 1, Unit 1.1, Unit 1.1.1, essay</assignment2>
+		<assignment3>Unit 1, Unit 1.1, Unit 1.1.1, inline_dropdown</assignment3>
+		<assignment4>Unit 1, Unit 1.1, Unit 1.1.2, matching</assignment4>
+		<assignment5>Unit 1, Unit 1.1, Unit 1.1.2, hangman</assignment5>		
+		<assignment6>Unit 1, Unit 1.1, Unit 1.1.2, audiosubmit</assignment6>
+		<assignment7>Unit 1, Unit 1.1, Unit 1.1.2, dropdown</assignment7>
+		<assignment8>Unit 1, Unit 1.1, Unit 1.1.2, singleChoice</assignment8>
+		<assignment9>Unit 1, Unit 1.1, Unit 1.1.2, multipleChoice</assignment9>
+		<assignment10>Unit 1, Unit 1.1, Unit 1.1.2, dragAndDrop</assignment10>
+		<assignment11>Unit 1, Unit 1.1, Unit 1.1.2, positional_DnD</assignment11>
+		<assignment12>Unit 1, Unit 1.1, Unit 1.1.2, underline_singlechoice</assignment12>
+		<assignment13>Unit 1, Unit 1.1, Unit 1.1.2, underline_multiplechoice</assignment13>		
+		<assignment14>Unit 2, Unit 2.1, fillin test</assignment14>
+		<assignment15>Unit 2, Unit 2.1, essay test</assignment15>
+		<assignment16>Unit 2, Unit 2.1, inline_dropdown test</assignment16>
+		<assignment17>Unit 2, Unit 2.1, audiosubmit test</assignment17>
+		<assignment18>Unit 2, Unit 2.1, dropdown test</assignment18>
+		<assignment19>Unit 2, Unit 2.1, singleChoice test</assignment19>
+		<assignment20>Unit 2, Unit 2.1, multipleChoice test</assignment20>
+		<assignment21>Unit 2, Unit 2.1, dragAndDrop test</assignment21>
+		<assignment22>Unit 2, Unit 2.1, positional_DnD test</assignment22>
+		<assignment23>Unit 2, Unit 2.1, underline_singlechoice test</assignment23>
+		<assignment24>Unit 2, Unit 2.1, underline_multiplechoice test</assignment24>
+		<assignment25>Unit 2, Unit 2.1, matching test test</assignment25>
+		<assignment26>Unit 2, Unit 2.1,hangman test</assignment26>
+	</assignments>
+	
+	<personaldetails>
+	<personaldetailteacher1>Joe,Is,Theman,Teacher_1@ioki.com.pl,United Kingdom,Dogrib,London (GMT +00:00),22 Feb 2012, 9:00 PM</personaldetailteacher1>
+	<personaldetailteacher2>Joe,Is,Theman,Teacher_1@ioki.com.pl,United Kingdom,Dogrib,London (GMT +00:00),22 Feb 2012, 15:53</personaldetailteacher2>
+	<personaldetailstudent1>Alex,joe,Feynman,Student_1@ioki.com.pl,India,English,London (GMT +01:00),22 Feb 2012, 9:00 PM</personaldetailstudent1>
+	<personaldetailstudent2>Alex,joe,Feynman,Student_1@ioki.com.pl,India,English,London (GMT +01:00),22 Feb 2012, 15:53</personaldetailstudent2>
+	</personaldetails>
+</Assignments>	

@@ -1,0 +1,388 @@
+<Assignments>	
+
+<products>
+	  <product1>Next Move 2</product1> 		<!-- Staging product name -->
+	<!--<product1>Next Move - Level 2</product1> -->		 <!-- QA product name -->
+</products>
+
+	
+	<assignments>
+		<assignment1>STARTER UNIT, Grammar - Have got, Exercise 3</assignment1>
+		<assignment2>STARTER UNIT, Grammar - Have got, Exercise 4, Fill-in: no prompts</assignment2>
+		<assignment3>STARTER UNIT, Grammar - Personal and Object pronouns, Exercise 6, Fill-in: no prompts</assignment3>
+		<assignment4>STARTER UNIT, Vocabulary - Countries and Nationalities,Exercise 6, Drag and drop</assignment4>
+		<assignment5>STARTER UNIT,  Vocabulary - Countries and Nationalities, Exercise 5, Fill-in: no prompts</assignment5>		
+		<assignment6>STARTER UNIT,  Vocabulary - Countries and Nationalities, Exercise 4</assignment6>
+		<assignment7>STARTER UNIT, Grammar - There is/are, Exercise 5</assignment7>
+		<assignment8>STARTER UNIT, Grammar - To be, Exercise 1, Fill-in: drop-down choice in middle</assignment8>
+		<assignment9>STARTER UNIT, Grammar - To be, Exercise 2, Fill-in: no prompts</assignment9>
+		<assignment10>STARTER UNIT, Grammar - Possessive 's, Exercise 7, Fill-in: no prompts</assignment10>
+		<assignment11>STARTER UNIT, Grammar - Possessive pronouns, Exercise 8, Fill-in: no prompts</assignment11>
+		<assignment12>STARTER UNIT, Vocabulary - Places, Exercise 1</assignment12>
+		<assignment13>STARTER UNIT, Vocabulary - Places, Exercise 2</assignment13>		
+		<assignment14>STARTER UNIT, Vocabulary - Possessions, Exercise 3</assignment14>		
+		<assignment15>UNIT 1, Play The Game!, Vocabulary - Sport, Exercise 1*</assignment15>
+		<assignment16>UNIT 1, Play The Game!, Vocabulary - Sport, Exercise 2*</assignment16>
+		<assignment17>UNIT 1, Play The Game!, Vocabulary - Sport, Exercise 3**</assignment17>
+		<assignment18>UNIT 1, Play The Game!, Reading (1), Exercise 1*</assignment18>
+		<assignment19>UNIT 1, Play The Game!, Reading (1), Exercise 2*</assignment19>
+		<assignment20>UNIT 1, Play The Game!, Reading (1), Exercise 3**</assignment20>
+		<assignment21>UNIT 1, Play The Game!, Reading (1), Exercise 4***</assignment21>
+		<assignment22>UNIT 1, Play The Game!, Grammar - Present simple, Exercise 1*</assignment22>
+		<assignment23>UNIT 1, Play The Game!, Grammar - Present simple, Exercise 2*</assignment23>
+		<assignment24>UNIT 1, Play The Game!, Grammar - Present simple, Exercise 3**</assignment24>
+		<assignment25>UNIT 1, Play The Game!, Grammar - Present simple, Exercise 4***</assignment25>
+		<assignment26>UNIT 1, Play The Game!, Grammar - Verb + -ing, Exercise 6*</assignment26>
+		<assignment27>UNIT 1, Play The Game!, Grammar - Verb + -ing, Exercise 7**</assignment27>
+		<assignment28>UNIT 1, Play The Game!, Grammar - Verb + -ing, Exercise 8***</assignment28>
+		<assignment29>UNIT 1, Play The Game!, Vocabulary - Compound nouns, Exercise 1*</assignment29>
+		<assignment30>UNIT 1, Play The Game!, Vocabulary - Compound nouns, Exercise 2*</assignment30>
+		<assignment31>UNIT 1, Play The Game!, Vocabulary - Compound nouns, Exercise 3**</assignment31>
+		<assignment32>UNIT 1, Play The Game!, Vocabulary - Compound nouns, Exercise 4***</assignment32>
+		<assignment33>UNIT 1,Play The Game!, Chatroom - Opinions,Speaking and Listening,Exercise 3**,Drag and drop</assignment33>
+		<assignment34>UNIT 1,Play The Game!, Chatroom - Opinions,Speaking and Listening,Exercise 2*,Matching</assignment34>
+		<assignment35>UNIT 1,Play The Game!, Chatroom - Opinions,Speaking and Listening,Exercise 1*,Media box (XHTML), Fill-in: no prompts</assignment35>
+		<assignment36>UNIT 1,Play The Game!,Reading (1),Exercise 4***</assignment36>
+		<assignment37>UNIT 1,Play The Game!,Reading (1),Exercise 3**</assignment37>
+		<assignment38>UNIT 1,Play The Game!,Reading (1),Exercise 2*,Drag and drop</assignment38>
+		<assignment39>UNIT 1,Play The Game!,Grammar - Adverbs of frequency,Exercise 3**,Draggable jumbled words</assignment39>
+		<assignment40>UNIT 1,Play The Game!,Grammar - Adverbs of frequency,Exercise 2*,Fill-in: no prompts</assignment40>
+	    <assignment41>UNIT 1, Play The Game!, Reading (2), Exercise 2</assignment41>
+		<assignment42>UNIT 1,Play The Game!,Vocabulary - Compound nouns,Exercise 4***,Fill-in: no prompts</assignment42>
+		<assignment43>UNIT 1,Play The Game!,Vocabulary - Compound nouns,Exercise 3**,Drag and drop, Media box (XHTML)</assignment43>
+		<assignment44>UNIT 1,Play The Game!,Vocabulary - Compound nouns,Exercise 2*,Drag and drop, Media box (XHTML)</assignment44>
+		<assignment45>UNIT 1, Grammar reference, Grammar practice - Present simple, Exercise 1</assignment45>
+		<assignment46>UNIT 1,Speaking and listening,Speaking - Opinions,Exercise 2,Drag and drop</assignment46>
+		<assignment47>UNIT 1, Speaking and listening, Speaking - Opinions, Exercise 1</assignment47>
+		<assignment48>UNIT 1,Play The Game!,Grammar - Verb + -ing,Exercise 8***,Media box (XHTML), Fill-in: no prompts</assignment48>
+		<assignment49>UNIT 1,Play The Game!,Grammar - Verb + -ing,Exercise 7**,Fill-in: no prompts</assignment49>
+		<assignment50>UNIT 1,Play The Game!,Grammar - Verb + -ing,Exercise 6*,Media box (XHTML), Fill-in: no prompts</assignment50>
+		<assignment51>UNIT 1, Play The Game!, Listening, Exercise 2</assignment51>
+		<assignment52>UNIT 1,Play The Game!,Grammar - Present simple,Exercise 4***,Fill-in: no prompts</assignment52>
+		<assignment53>UNIT 1,Play The Game!,Grammar - Present simple,Exercise 3**,Fill-in: no prompts</assignment53>
+		<assignment54>UNIT 1,Play The Game!,Grammar - Present simple,Exercise 2*,Matching</assignment54>
+		<assignment55>UNIT 1,Play The Game!,Writing - A description of a sport,Exercise 2,Matching</assignment55>
+		<assignment56>UNIT 1, Pronunciation practice, Verb endings /s/, /z/, /?z/, Exercise 2,Drag and drop: Categorization, Media box (XHTML)</assignment56>
+		<assignment57>UNIT 1,Speaking and listening,Listening - Opinions,Exercise 3,Fill-in: drop-down choice in middle</assignment57>
+		<assignment58>UNIT 1, Pronunciation practice, Verb endings /s/ /z/ /?z/, Exercise 1</assignment58>
+		
+		
+		<assignment59>UNIT 2, The Big Picture, Vocabulary - Adjectives, Exercise 4***</assignment59>
+		<assignment60>UNIT 2, The Big Picture, Vocabulary - Types of films, Exercise 1*</assignment60>
+		<assignment61>UNIT 2, The Big Picture, Vocabulary - Types of films, Exercise 3**</assignment61>
+		<assignment62>UNIT 2,The Big Picture,Grammar - Present simple and Present continuous,Exercise 4**,Fill-in: no prompts</assignment62>
+		<assignment63>UNIT 2,The Big Picture,Listening,Exercise 2,Fill-in: drop-down choice in middle</assignment63>
+		<assignment64>UNIT 2,The Big Picture,Listening,Exercise 1,Single choice</assignment64>
+		<assignment65>UNIT 2,The Big Picture,Vocabulary - Adjectives,Exercise 3**,Fill-in: no prompts</assignment65>
+		<assignment66>UNIT 2,The Big Picture,Chatroom - Suggestions,Speaking and Listening,Exercise 1*,Draggable jumbled words</assignment66>
+		<assignment67>UNIT 2,The Big Picture,Grammar - Present continuous,Exercise 2*,Underline</assignment67>
+		<assignment68>UNIT 2,The Big Picture,Grammar - Present continuous,Exercise 1*,Fill-in: no prompts</assignment68>
+		<assignment69>UNIT 2,The Big Picture,Grammar - Present simple and Present continuous,Exercise 3**,Fill-in: no prompts</assignment69>
+		<assignment70>UNIT 2,The Big Picture,Grammar - Present simple and Present continuous,xercise 2*,Matching</assignment70>
+		<assignment71>UNIT 2,The Big Picture,Reading (2),Exercise 2,Fill-in: no prompts</assignment71>
+		<assignment72>UNIT 2,The Big Picture,Reading (2),Exercise 1,Single choice</assignment72>
+		<assignment73>UNIT 2,The Big Picture,Grammar - Present continuous,Exercise 3**,Fill-in: drop-down choice in middle</assignment73>
+		<assignment74>UNIT 2,The Big Picture,Grammar - Present simple and Present continuous,Exercise 1*,Fill-in: no prompts</assignment74>
+		<assignment75>UNIT 2,The Big Picture,Vocabulary - Adjectives,Exercise 2*,Drag and drop</assignment75>
+		<assignment76>UNIT 2,The Big Picture,Vocabulary - Adjectives,Exercise 1*,Word search</assignment76>
+		<assignment77>UNIT 2,The Big Picture,Vocabulary - Types of films,Exercise 4***,Drag and drop</assignment77>
+		<assignment78>UNIT 2, The Big Picture, Vocabulary - Types of films, Exercise 3**</assignment78>
+		 <assignment79>UNIT 2, The Big Picture, Vocabulary - Types of films, Exercise 2**</assignment79>  <!-- Staging -->
+	<!--	<assignment79>UNIT 2, The Big Picture, Vocabulary – Types of films, Exercise 2**</assignment79>	--><!-- QA -->
+		<assignment80>UNIT 2,The Big Picture,Reading (1),Exercise 3**,Matching</assignment80>
+		<assignment81>UNIT 2,The Big Picture,Reading (1),Exercise 2*,Fill-in: drop-down choice in middle</assignment81>
+		<assignment82>UNIT 2,The Big Picture,Reading (1),Exercise 1*</assignment82>
+		<assignment83>UNIT 2,The Big Picture,Chatroom - Suggestions,Speaking and Listening,Exercise 3**,Drag and drop</assignment83>
+		<assignment84>UNIT 2,The Big Picture,Chatroom - Suggestions,Speaking and Listening,Exercise 2*,Drag and drop</assignment84>
+		<assignment85>UNIT 2,The Big Picture,Writing - A film review,Exercise 2,Fill-in: drop-down choice in middle</assignment85>
+		<assignment86>UNIT 2, Grammar reference, Grammar practice - Present continuous, Exercise 1</assignment86>
+		<assignment87>UNIT 2, Grammar reference, Grammar practice - Present continuous, Exercise 3,Fill-in: no prompts</assignment87>
+		<assignment88>UNIT 2, Grammar reference, Grammar practice - Present continuous,Exercise 2,Media box (XHTML), Draggable jumbled words</assignment88>
+		<assignment89>UNIT 2, Grammar reference, Grammar practice - Present continuous,Exercise 4,Media box (XHTML), Fill-in: no prompts</assignment89>
+		<assignment90>UNIT 2, Grammar reference,Grammar practice - Present simple and Present continuous,Exercise 5,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment90>
+		<assignment91>UNIT 2, Pronunciation practice, Word stress in adjectives, Exercise 2,</assignment91>
+		<assignment92>UNIT 2, Pronunciation practice, Word stress in adjectives, Exercise 1</assignment92>
+		<assignment93>UNIT 2,Speaking and listening,Listening - Suggestions,Exercise 4,Matching</assignment93>
+		<assignment94>UNIT 2,Speaking and listening,Listening - Suggestions,Exercise 3,Fill-in: drop-down choice in middle</assignment94>
+		<assignment95>UNIT 2,Speaking and listening,Speaking - Suggestions,Exercise 2,Drag and drop</assignment95>
+		<assignment96>UNIT 2,Speaking and listening,Speaking - Suggestions,Exercise 1,Fill-in: no prompts</assignment96>
+		
+		<assignment97>UNIT 3,Past Lives,Reading (1),Exercise 4***,Fill-in: no prompts</assignment97>
+		<assignment98>UNIT 3,Past Lives,Reading (1),Exercise 3**,Fill-in: drop-down choice in middle</assignment98>
+		<assignment99>UNIT 3,Past Lives,Reading (1),Exercise 2*,Fill-in: drop-down choice in middle</assignment99>
+		<assignment100>UNIT 3,Past Lives,Vocabulary - Life events,Exercise 2*,Fill-in: drop-down choice in middle</assignment100>
+		<assignment101>UNIT 3,Past Lives,Vocabulary - Life events,Exercise 1*,Drag and drop</assignment101>
+		<assignment102>UNIT 3,Past Lives,Reading (2),Exercise 3,Media box (XHTML), Matching</assignment102>
+		<assignment103>UNIT 3,Past Lives,Reading (2),Exercise 2,Drag and drop</assignment103>
+		<assignment104>UNIT 3,Past Lives,Vocabulary - History,Exercise 4***,Drag and drop</assignment104>
+		<assignment105>UNIT 3,Past Lives,Grammar - Past simple: questions and short answers,Exercise 3**,Fill-in: no prompts</assignment105>
+		<assignment106>UNIT 3,Past Lives,Grammar - Past simple: questions and short answers,Exercise 2*,Fill-in: no prompts</assignment106>
+		<assignment107>UNIT 3,Past Lives,Grammar - Past simple: questions and short answers,Exercise 1*,Media box (XHTML), Matching</assignment107>
+		<assignment108>UNIT 3,Past Lives,Chatroom - Reasoning,Speaking and Listening,Exercise 4**,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment108>
+		<assignment109>UNIT 3,Past Lives,Chatroom - Reasoning,Speaking and Listening,Exercise 3**,Drag and drop</assignment109>
+		<assignment110>UNIT 3,Past Lives,Chatroom - Reasoning,Speaking and Listening,Exercise 2*,Matching</assignment110>
+		<assignment111>UNIT 3,Past Lives,Chatroom - Reasoning,Speaking and Listening,Exercise 1*,Drag and drop</assignment111>
+		<assignment112>UNIT 3,Past Lives,Grammar - Past simple: affirmative and negative,Exercise 4***,Media box (XHTML), Fill-in: no prompts</assignment112>
+		<assignment113>UNIT 3,Past Lives,Grammar - Past simple: affirmative and negative,Exercise 3**,Media box (XHTML), Fill-in: no prompts</assignment113>
+		<assignment114>UNIT 3,Past Lives,Grammar - Past simple: affirmative and negative,Exercise 2*,Media box (XHTML), Fill-in: no prompts</assignment114>
+		<assignment115>UNIT 3,Past Lives,Grammar - Past simple: affirmative and negative,Exercise 1*,Fill-in: drop-down choice in middle</assignment115>
+		<assignment116>UNIT 3,Past Lives,Reading (2),Exercise 1,Fill-in: no prompts</assignment116>
+		<assignment117>UNIT 3,Past Lives,Listening,Exercise 2,Fill-in: drop-down choice in middle</assignment117>
+		<assignment118>UNIT 3,Past Lives,Listening,Exercise 1,Underline</assignment118>
+		<assignment119>UNIT 3,Past Lives,Vocabulary - Life events,Exercise 5***,Media box (XHTML), Fill-in: no prompts</assignment119>
+		<assignment120>UNIT 3,Past Lives,Vocabulary - Life events,Exercise 4**,Media box (XHTML), Fill-in: no prompts</assignment120>
+		<assignment121>UNIT 3,Past Lives,Vocabulary - Life events,Exercise 3**,Media box (XHTML), Matching</assignment121>
+		<assignment122>UNIT 3,Past Lives,Vocabulary - History,Exercise 3**,Drag and drop, Media box (XHTML)</assignment122>
+		<assignment123>UNIT 3, Past Lives, Vocabulary - History, Exercise 2*</assignment123>
+		<assignment124>UNIT 3,Past Lives,Vocabulary - History,Exercise 1*,Crossword, Media box (XHTML)</assignment124>
+		<assignment125>UNIT 3,Grammar reference,Grammar practice - Past simple: affirmative and negative,Exercise 2,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment125>
+		<assignment126>UNIT 3,Grammar reference,Grammar practice - Past simple: affirmative and negative,Exercise 3,Media box (XHTML), Draggable jumbled words</assignment126>
+		<assignment127>UNIT 3,Grammar reference,Grammar practice - Past simple: affirmative and negative,Exercise 4,Media box (XHTML), Fill-in: no prompts</assignment127>
+		<assignment128>UNIT 3,Grammar reference,Grammar practice - Past simple: questions and short answers,Exercise 5,Media box (XHTML), Fill-in: no prompts</assignment128>
+		<assignment129>UNIT 3,Grammar reference,Grammar practice - Past simple: to be,Exercise 1,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment129>
+		
+		<assignment130>UNIT 4,Is It A Crime?,Grammar - Past continuous,Exercise 1*,Draggable jumbled words</assignment130>
+		<assignment131>UNIT 4,Is It A Crime?,Grammar - Past simple and Past continuous,Exercise 1*,Fill-in: drop-down choice in middle</assignment131>
+		<assignment132>UNIT 4,Is It A Crime?,Grammar - Past simple and Past continuous,Exercise 2**,Fill-in: drop-down choice in middle</assignment132>
+		<assignment133>UNIT 4,Is It A Crime?,Grammar - Past simple and Past continuous,Exercise 3**,Fill-in: no prompts</assignment133>
+		<assignment134>UNIT 4,Is It A Crime?,Writing - A short story,Exercise 2,Hangman</assignment134>
+		<assignment135>UNIT 4,Is It A Crime?,Writing - A short story,Exercise 1,Underline</assignment135>
+		<assignment136>UNIT 4,Is It A Crime?,Vocabulary - Breaking the rules,Exercise 2*,Matching</assignment136>
+		<assignment137>UNIT 4,Is It A Crime?,Vocabulary - Breaking the rules,Exercise 4***,Drag and drop, Media box (XHTML)</assignment137>
+		<assignment138>UNIT 4,Is It A Crime?,Vocabulary - Breaking the rules,Exercise 3**,Media box (XHTML), Fill-in: no prompts</assignment138>
+		<assignment139>UNIT 4,Is It A Crime?,Vocabulary - Breaking the rules,Exercise 1*,Drag and drop, Media box (XHTML)</assignment139>
+		<assignment140>UNIT 4,Grammar reference,Grammar practice - Past simple and Past continuous,Exercise 5,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment140>
+		<assignment141>UNIT 4,Grammar reference,Grammar practice - Past simple and Past continuous,Exercise 6,Media box (XHTML), Fill-in: no prompts</assignment141>
+		<assignment142>UNIT 4,Grammar reference,Grammar practice - Past continuous,Exercise 1,Media box (XHTML), Fill-in: no prompts</assignment142>
+		<assignment143>UNIT 4,Grammar reference,Grammar practice - Past continuous,Exercise 2,Media box (XHTML), Fill-in: no prompts</assignment143>
+		<assignment144>UNIT 4,Grammar reference,Grammar practice - Past continuous,Exercise 3,Media box (XHTML), Draggable jumbled words</assignment144>
+		<assignment145>UNIT 4,Grammar reference,Grammar practice - Past continuous,Exercise 4,Media box (XHTML), Fill-in: no prompts</assignment145>
+		<assignment146>UNIT 4,Speaking and listening,Listening - Showing interest,Exercise 3,Matching</assignment146>
+		<assignment147>UNIT 4,Speaking and listening,Listening - Showing interest,Exercise 4,Fill-in: drop-down choice in middle</assignment147>
+		<assignment148>UNIT 4, Pronunciation practice, Was and were: strong and weak forms, Exercise 1</assignment148>
+		<assignment149>UNIT 4,Pronunciation practice,strong and weak forms,Exercise 2,Underline</assignment149>
+		
+		<assignment150>UNIT 5,Look At You ,Vocabulary - Appearance adjectives,Exercise 1* ,Fill-in: drop-down choice in middle</assignment150>
+		<assignment151>UNIT 5,Look At You ,Vocabulary - Appearance adjectives,Exercise 2* ,Drag and drop</assignment151>
+		<assignment152>UNIT 5,Look At You ,Vocabulary - Appearance adjectives,Exercise 3** ,Fill-in: no prompts</assignment152>
+		<assignment153>UNIT 5,Look At You ,Vocabulary - Appearance adjectives,Exercise 4*** ,Drag and drop, Media box (XHTML)</assignment153>
+		<assignment154>UNIT 5,Look At You,Reading (1),Exercise 1*,Hangman</assignment154>
+		<assignment155>UNIT 5,Look At You,Reading (1),Exercise 2*,Fill-in: drop-down choice in middle</assignment155>
+		<assignment156>UNIT 5,Look At You,Reading (1),Exercise 3**,Fill-in: no prompts</assignment156>
+		<assignment157>UNIT 5,Look At You,Grammar - Comparatives and Superlatives,Exercise 1*,Media box (XHTML), Fill-in super-mega-death table</assignment157>
+		<assignment158>UNIT 5,Look At You,Grammar - Comparatives and Superlatives,Exercise 2,Fill-in: drop-down choice in middle</assignment158>
+		<assignment159>UNIT 5,Look At You,Grammar - Comparatives and Superlatives,Exercise 3**,Fill-in: no prompts</assignment159>
+		<assignment160>UNIT 5,Look At You,Grammar - Comparatives and Superlatives,Exercise 4**,Fill-in: no prompts</assignment160>		
+		<assignment161>UNIT 5,Look At You,Vocabulary - Personality adjectives,Exercise 1*,Draggable jumbled words, Fill-in: no prompts</assignment161>
+		<assignment162>UNIT 5,Look At You,Vocabulary - Personality adjectives,Exercise 2,Media box (XHTML), Fill-in: no prompts</assignment162>
+		<assignment163>UNIT 5,Look At You,Vocabulary - Personality adjectives,Exercise 3**,Fill-in: no prompts</assignment163>
+		<assignment164>UNIT 5,Look At You,Vocabulary - Personality adjectives,Exercise 4***,Fill-in: no prompts</assignment164>
+		<assignment165>UNIT 5,Look At You,Chatroom - Agreeing and disagreeing,Speaking and Listening ,Exercise 1*,Fill-in: drop-down choice in middle</assignment165>
+		<assignment166>UNIT 5,Look At You,Chatroom - Agreeing and disagreeing,Speaking and Listening ,Exercise 2*,Drag and drop, Media box (XHTML)</assignment166>
+		<assignment167>UNIT 5,Look At You,Chatroom - Agreeing and disagreeing,Speaking and Listening ,Exercise 3**,Drag and drop</assignment167>
+		<assignment168>UNIT 5,Look At You,Chatroom - Agreeing and disagreeing,Speaking and Listening ,Exercise 4**,Media box (XHTML), Matching</assignment168>
+		<assignment169>UNIT 5,Look At You,Grammar - Present continuous for future,Exercise 1*,Fill-in: no prompts</assignment169>
+		<assignment170>UNIT 5,Look At You,Grammar - Present continuous for future,Exercise 2*,Draggable jumbled words</assignment170>
+		<assignment171>UNIT 5,Look At You,Reading (2),Exercise 1,Fill-in: no prompts</assignment171>
+		<assignment172>UNIT 5,Look At You,Reading (2),Exercise 2,Fill-in: drop-down choice in middle</assignment172>
+		<assignment173>UNIT 5,Look At You,Reading (2),Exercise 3,Fill-in: drop-down choice in middle</assignment173>
+		<assignment174>UNIT 5,Look At You,Listening,Exercise 1,Underline</assignment174>
+		<assignment175>UNIT 5,Look At You,Writing - A description of a friend,Exercise 1,Fill-in: no prompts</assignment175>
+		<assignment176>UNIT 5,Look At You,Writing - A description of a friend,Exercise 2,Underline</assignment176>
+		<assignment177>UNIT 5,Look At You,Writing - A description of a friend,Exercise 3,Media box (XHTML), Hangman</assignment177>
+		<assignment178>UNIT 5, Grammar reference, Grammar practice - Comparatives and Superlatives, Exercise 1</assignment178>
+		<assignment179>UNIT 5,Grammar reference,Grammar practice - Comparatives and Superlatives,Exercise 2,Media box (XHTML), Fill-in: no prompts</assignment179>
+		<assignment180>UNIT 5,Grammar reference,Grammar practice - Comparatives and Superlatives,Exercise 3,Media box (XHTML), Fill-in: no prompts</assignment180>
+		<assignment181>UNIT 5,Grammar reference,Grammar practice - Comparatives and Superlatives,Exercise 4,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment181>		
+		<assignment182>UNIT 5,Grammar reference,Grammar practice - Present continuous for future,Exercise 5,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment182>
+		<assignment183>UNIT 5,Grammar reference,Grammar practice - Present continuous for future,Exercise 6,Media box (XHTML), Fill-in: no prompts</assignment183>		
+		<assignment184>UNIT 5,Speaking and listening,Speaking - Agreeing and disagreeing,Exercise 1,Media box (XHTML), Fill-in: no prompts</assignment184>
+		<assignment185>UNIT 5,Speaking and listening,Speaking - Agreeing and disagreeing,Exercise 2,Drag and drop</assignment185>
+		<assignment186>UNIT 5, Speaking and listening, Listening - Agreeing and disagreeing,Exercise 3</assignment186>
+		<assignment187>UNIT 5,Speaking and listening,Listening - Agreeing and disagreeing,Exercise 4,Fill-in: drop-down choice in middle</assignment187>		
+		<assignment188>UNIT 5, Pronunciation practice, Intonation in questions and answers, Exercise 1</assignment188>
+		<assignment189>UNIT 5, Pronunciation practice, Intonation in questions and answers, Exercise 2</assignment189>
+		<assignment190>UNIT 5, Pronunciation practice, Intonation in questions and answers, Exercise 3</assignment190>		
+		<assignment191>UNIT 6,It's Your World ,Vocabulary - Environment verbs,Exercise 1*,Media box (XHTML), Matching</assignment191>
+		<assignment192>UNIT 6,It's Your World ,Vocabulary - Environment verbs,Exercise 2*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment192>
+		<assignment193>UNIT 6,It's Your World ,Vocabulary - Environment verbs,Exercise 3***,Drag and drop, Media box (XHTML)</assignment193>		
+		<assignment194>UNIT 6,It's Your World ,Reading (1),Exercise 1*,Media box (XHTML), Hangman</assignment194>
+		<assignment195>UNIT 6,It's Your World ,Reading (1),Exercise 2*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment195>
+		<assignment196>UNIT 6,It's Your World ,Reading (1),Exercise 3**,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment196>		
+		<assignment197>UNIT 6,It's Your World ,Grammar - Going to,Exercise 1*,Draggable jumbled words</assignment197>
+		<assignment198>UNIT 6,It's Your World ,Grammar - Going to,Exercise 2**,Fill-in: no prompts</assignment198>
+		<assignment199>UNIT 6,It's Your World ,Grammar - Going to,Exercise 3***,Fill-in: drop-down choice in middle</assignment199>		
+		<assignment200>UNIT 6,It's Your World ,Grammar - Should,Exercise 4*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment200>
+		<assignment201>UNIT 6,It's Your World ,Grammar - Should,Exercise 5**,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment201>
+		<assignment202>UNIT 6,It's Your World ,Grammar - Should,Exercise 6***,Media box (XHTML),Fill-in: no prompts</assignment202>		
+		<assignment203>UNIT 6,It's Your World ,Vocabulary - Materials and containers,Exercise 1*,Drag and drop</assignment203>
+		<assignment204>UNIT 6,It's Your World ,Vocabulary - Materials and containers,Exercise 2*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment204>
+		<assignment205>UNIT 6,It's Your World ,Vocabulary - Materials and containers,Exercise 3**,Media box (XHTML), Fill-in: no prompts</assignment205>
+		<assignment206>UNIT 6,It's Your World ,Vocabulary - Materials and containers,Exercise 4***,Media box (XHTML), Fill-in: no prompts</assignment206>		
+		<assignment207>UNIT 6,It's Your World ,Chatroom - Shopping,Speaking and listening,Exercise 1*,Matching</assignment207>
+		<assignment208>UNIT 6,It's Your World ,Chatroom - Shopping,Speaking and listening,Exercise 2*,Fill-in: no prompts</assignment208>
+		<assignment209>UNIT 6,It's Your World ,Chatroom - Shopping,Speaking and listening,Exercise 3**,Drag and drop</assignment209>		
+		<assignment210>UNIT 6,It's Your World ,Grammar - Must/Mustn't,Exercise 1*,Draggable jumbled words</assignment210>
+		<assignment211>UNIT 6,It's Your World ,Grammar - Must/Mustn't,Exercise 2*,Fill-in: drop-down choice in middle</assignment211>
+		<assignment212>UNIT 6,It's Your World ,Grammar - Must/Mustn't,Exercise 3**,Media box (XHTML), Fill-in: no prompts</assignment212>
+		<assignment213>UNIT 6,It's Your World ,Grammar - Must/Mustn't,Exercise 4***,Drag and drop</assignment213>
+		<assignment214>UNIT 6,It's Your World ,Reading (2),Exercise 1,Single choice, Media box (XHTML)</assignment214>
+		<assignment215>UNIT 6,It's Your World ,Reading (2),Exercise 2,Matching</assignment215>
+		<assignment216>UNIT 6,It's Your World ,Listening,Exercise 1,Underline</assignment216>
+		<assignment217>UNIT 6,It's Your World ,Listening,Exercise 2,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment217>		
+		<assignment218>UNIT 6,It's Your World ,Writing - An information leaflet,Exercise 1,Media box (XHTML), Matching</assignment218>
+		<assignment219>UNIT 6,It's Your World ,Writing - An information leaflet,Exercise 2,Media box (XHTML), Hangman</assignment219>
+		<assignment220>UNIT 6,It's Your World ,Writing - An information leaflet,Exercise 3,Drag and drop, Media box (XHTML)</assignment220>		
+		<assignment221>UNIT 6,Grammar reference ,Grammar practice - Going to,Exercise 1</assignment221>
+		<assignment222>UNIT 6,Grammar reference ,Grammar practice - Going to,Exercise 2,Fill-in: no prompts</assignment222>
+		<assignment223>UNIT 6,Grammar reference ,Grammar practice - Going to,Exercise 3,Fill-in: no prompts</assignment223>
+		<assignment224>UNIT 6,Grammar reference ,Grammar practice - Going to,Exercise 4,Fill-in: no prompts</assignment224>
+		<assignment225>UNIT 6,Grammar reference ,Grammar practice - Should,Exercise 5,Media box (XHTML), Fill-in: no prompts</assignment225>		
+		<assignment226>UNIT 6,Grammar reference ,Grammar practice - Must/Mustn't,Exercise 6,Fill-in: drop-down choice in middle</assignment226>
+		<assignment227>UNIT 6,Speaking and listening ,Speaking - Shopping,Exercise 1,Draggable jumbled words</assignment227>
+		<assignment228>UNIT 6,Speaking and listening ,Speaking - Shopping,Exercise 2,Drag and drop</assignment228>		
+		<assignment229>UNIT 6,Speaking and listening ,Listening - Shopping,Exercise 3,Fill-in: drop-down choice in middle</assignment229>
+		<assignment230>UNIT 6,Speaking and listening ,Listening - Shopping,Exercise 4,Fill-in: no prompts</assignment230>		
+		<assignment231>UNIT 6,Pronunciation practice ,Silent letter l,Exercise 1,Audiosubmit</assignment231>
+		<assignment232>UNIT 6,Pronunciation practice ,Silent letter l,Exercise 2,Media box (XHTML), Fill-in: no prompts</assignment232>		
+		
+		<assignment233>UNIT 7,Make Music ,Vocabulary - Music,Exercise 1,Crossword, Media box (XHTML)</assignment233>
+		<assignment234>UNIT 7,Make Music ,Vocabulary - Music,Exercise 2*,Matching</assignment234>
+		<assignment235>UNIT 7,Make Music ,Vocabulary - Music,Exercise 3**,Drag and drop, Media box (XHTML)</assignment235>
+		<assignment236>UNIT 7,Make Music ,Vocabulary - Music,Exercise 4***,Drag and drop</assignment236>
+		<assignment237>UNIT 7,Make Music ,Reading (1),Exercise 1*,Underline, Media box (XHTML)</assignment237>
+		<assignment238>UNIT 7,Make Music ,Reading (1),Exercise 2*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment238>
+		<assignment239>UNIT 7,Make Music ,Reading (1),Exercise 3**,Matching</assignment239>		
+		<assignment240>UNIT 7,Make Music ,Grammar - Will,Exercise 1*,Media box (XHTML), Fill-in: no prompts</assignment240>
+		<assignment241>UNIT 7,Make Music ,Grammar - Will,Exercise 2*,Fill-in: no prompts</assignment241>
+		<assignment242>UNIT 7,Make Music ,Grammar - Will,Exercise 3**,Media box (XHTML), Fill-in: no prompts</assignment242>
+		<assignment243>UNIT 7,Make Music ,Grammar - Will,Exercise 4**,Fill-in: no prompts</assignment243>
+		<assignment244>UNIT 7,Make Music ,Vocabulary - Musical instruments, types of music,Exercise 1*,Word search, Media box (XHTML)</assignment244>
+		<assignment245>UNIT 7,Make Music ,Vocabulary - Musical instruments, types of music,Exercise 2*,Drag and drop, Media box (XHTML)</assignment245>
+		<assignment246>UNIT 7,Make Music ,Vocabulary - Musical instruments, types of music,Exercise 3**,Fill-in: no prompts</assignment246>
+		<assignment247>UNIT 7,Make Music ,Vocabulary - Musical instruments, types of music,Exercise 4***,Fill-in: drop-down choice in middle</assignment247>		
+		<assignment248>UNIT 7,Make Music ,Chatroom - Offers, Speaking and Listening,Exercise 1*,Fill-in: drop-down choice in middle</assignment248>
+		<assignment249>UNIT 7,Make Music ,Chatroom - Offers, Speaking and Listening,Exercise 2*,Media box (XHTML), Fill-in: no prompts</assignment249>
+		<assignment250>UNIT 7,Make Music ,Chatroom - Offers, Speaking and Listening,Exercise 3**,Drag and drop</assignment250>		
+		<assignment251>UNIT 7,Make Music ,Grammar - First conditional,Exercise 1*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment251>
+		<assignment252>UNIT 7,Make Music ,Grammar - First conditional,Exercise 2*,Media box (XHTML), Fill-in: no prompts</assignment252>
+		<assignment253>UNIT 7,Make Music ,Grammar - First conditional,Exercise 3***,Media box (XHTML), Fill-in: no prompts</assignment253>		
+		<assignment254>UNIT 7,Make Music ,Reading (2),Exercise 1,Media box (XHTML), Fill-in: no prompts</assignment254>
+		<assignment255>UNIT 7,Make Music ,Reading (2),Exercise 2,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment255>
+		<assignment256>UNIT 7,Make Music ,Reading (2),Exercise 3,Media box (XHTML), Fill-in: no prompts</assignment256>		
+		<assignment257>UNIT 7,Make Music ,Listening,Exercise 1 ,Fill-in: drop-down choice in middle</assignment257>
+		<assignment258>UNIT 7,Make Music ,Listening,Exercise 2,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment258>		
+		<assignment259>UNIT 7,Make Music ,Writing - A singer's profile,Exercise 1,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment259>
+		<assignment260>UNIT 7,Make Music ,Writing - A singer's profile,Exercise 2,Media box (XHTML), Hangman</assignment260>		
+		<assignment261>UNIT 7,Grammar reference ,Grammar practice - Will,Exercise 1,Draggable jumbled words</assignment261>
+		<assignment262>UNIT 7,Grammar reference ,Grammar practice - Will,Exercise 2,Media box (XHTML), Fill-in: no prompts</assignment262>
+		<assignment263>UNIT 7,Grammar reference ,Grammar practice - Will,Exercise 3,Fill-in: no prompts</assignment263>
+		<assignment264>UNIT 7,Grammar reference ,Grammar practice - First conditional,Exercise 4,Media box (XHTML), Matching</assignment264>
+		<assignment265>UNIT 7,Grammar reference ,Grammar practice - First conditional,Exercise 5,Media box (XHTML), Fill-in: no prompts</assignment265>
+		<assignment266>UNIT 7,Grammar reference ,Grammar practice - First conditional,Exercise 6,Fill-in: no prompts</assignment266>		
+		<assignment267>UNIT 7,Speaking and listening ,Speaking - Offers,Exercise 1,Fill-in: drop-down choice in middle</assignment267>
+		<assignment268>UNIT 7,Speaking and listening ,Speaking - Offers,Exercise 2,Drag and drop</assignment268>		
+		<assignment269>UNIT 7,Speaking and listening ,Listening - Offers,Exercise 3,Single choice</assignment269>
+		<assignment270>UNIT 7,Speaking and listening ,Listening - Offers,Exercise 4,Fill-in: drop-down choice in middle</assignment270>		
+		<assignment271>UNIT 7,Pronunciation practice ,'ll, Exercise 1</assignment271>
+		<assignment272>UNIT 7,Pronunciation practice ,'ll,Exercise 2,Underline, Media box (XHTML)</assignment272>
+		<assignment273>UNIT 7,Pronunciation practice ,'ll,Exercise 3,Audiosubmit</assignment273>		
+		
+		<assignment274>UNIT 8,Adventure,Vocabulary - The natural world,Exercise 1a*,Audiosubmit</assignment274>
+		<assignment275>UNIT 8,Adventure,Vocabulary - The natural world,Exercise 1b*,Drag and drop, Media box (XHTML)</assignment275>
+		<assignment276>UNIT 8,Adventure,Vocabulary - The natural world,Exercise 2**,Media box (XHTML), Fill-in: no prompts</assignment276>
+		<assignment277>UNIT 8,Adventure,Vocabulary - The natural world,Exercise 3***,Drag and drop, Media box (XHTML)</assignment277>	
+		<assignment278>UNIT 8,Adventure,Reading (1),Exercise 1*,Single choice</assignment278>
+		<assignment279>UNIT 8,Adventure,Reading (1),Exercise 2*,Fill-in: drop-down choice in middle</assignment279>
+		<assignment280>UNIT 8,Adventure,Reading (1),Exercise 3***,Fill-in: drop-down choice in middle</assignment280>		
+		<assignment281>UNIT 8,Adventure,Grammar - Present perfect,Exercise 1*,Media box (XHTML), Draggable jumbled words</assignment281>
+		<assignment282>UNIT 8,Adventure,Grammar - Present perfect,Exercise 2*,Media box (XHTML), Fill-in: no prompts</assignment282>
+		<assignment283>UNIT 8,Adventure,Grammar - Present perfect,Exercise 3**,Media box (XHTML), Fill-in: no prompts</assignment283>
+		<assignment284>UNIT 8,Adventure,Grammar - Present perfect,Exercise 4**,Media box (XHTML), Fill-in: no prompts</assignment284>		
+		<assignment285>UNIT 8,Adventure,Vocabulary - Camping,Exercise 1*,Media box (XHTML), Hangman</assignment285>		
+		<assignment286>UNIT 8,Adventure,Vocabulary - Camping,Exercise 2*,Media box (XHTML), Fill-in: no prompts</assignment286>
+		<assignment287>UNIT 8,Adventure,Vocabulary - Camping,Exercise 3**,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment287>		
+		<assignment288>UNIT 8,Adventure,Chatroom - Apologising,Speaking and Listening ,Exercise 1*,Fill-in: no prompts</assignment288>
+		<assignment289>UNIT 8,Adventure,Chatroom - Apologising,Speaking and Listening ,Exercise 2*,Media box (XHTML), Hangman</assignment289>
+		<assignment290>UNIT 8,Adventure,Chatroom - Apologising,Speaking and Listening ,Exercise 3**,Drag and drop</assignment290>		
+		<assignment291>UNIT 8,Adventure,Grammar - Present perfect questions,Exercise 1*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment291>
+		<assignment292>UNIT 8,Adventure,Grammar - Present perfect questions,Exercise 2*,Media box (XHTML), Fill-in: no prompts</assignment292>
+		<assignment293>UNIT 8, Adventure, Reading (2), Exercise 1</assignment293>
+		<assignment294>UNIT 8,Adventure,Reading (2),Exercise 2</assignment294>		
+		<assignment295>UNIT 8,Adventure,Listening,Exercise 1,Media box (XHTML), Hangman</assignment295>
+		<assignment296>UNIT 8,Adventure,Listening,Exercise 2,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment296>		
+		<assignment297>UNIT 8,Adventure,Writing - An informal email,Exercise 1,Media box (XHTML), Hangman</assignment297>
+		<assignment298>UNIT 8,Adventure,Writing - An informal email,Exercise 2,Drag and drop, Media box (XHTML)</assignment298>
+		<assignment299>UNIT 8,Adventure,Writing - An informal email,Exercise 3,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment299>
+		<assignment300>UNIT 8,Grammar reference,Grammar practice - Present perfect,Exercise 1,Media box (XHTML), Fill-in: no prompts</assignment300>
+		<assignment301>UNIT 8,Grammar reference,Grammar practice - Present perfect,Exercise 2,Media box (XHTML), Fill-in: no prompts</assignment301>
+		<assignment302>UNIT 8,Grammar reference,Grammar practice - Present perfect,Exercise 3,Media box (XHTML), Fill-in: no prompts</assignment302>
+		<assignment303>UNIT 8,Grammar reference,Grammar practice - Present perfect,Exercise 4a,Media box (XHTML), Fill-in: no prompts</assignment303>
+		<assignment304>UNIT 8,Grammar reference,Grammar practice - Present perfect,Exercise 4b,Matching</assignment304>
+		<assignment305>UNIT 8,Grammar reference,Grammar practice - Present perfect,Exercise 5,Media box (XHTML), Fill-in: no prompts</assignment305>
+		<assignment306>UNIT 8,Speaking and listening,Speaking - Apologising,Exercise 1,Drag and drop</assignment306>
+		<assignment307>UNIT 8,Speaking and listening,Speaking - Apologising,Exercise 2,Draggable jumbled words</assignment307>		
+		<assignment308>UNIT 8,Speaking and listening,Listening - Apologising,Exercise 3,Fill-in: no prompts</assignment308>
+		<assignment309>UNIT 8,Speaking and listening,Listening - Apologising,Exercise 4,Matching</assignment309>		
+		<assignment310>UNIT 8, Pronunciation practice, Syllables, Exercise 1</assignment310>
+		<assignment311>UNIT 8, Pronunciation practice, Syllables,Exercise 2,Drag and drop: Categorization, Media box (XHTML)</assignment311>
+		<assignment312>UNIT 8, Pronunciation practice, Syllables,Exercise 3</assignment312>
+		
+		<assignment313>UNIT 9,World Of Work,Vocabulary - Jobs,Exercise 1,Media box (XHTML), Fill-in: no prompts</assignment313>
+		<assignment314>UNIT 8,World Of Work,Vocabulary - Jobs,Exercise 2*,Media box (XHTML), Hangman</assignment314>
+		<assignment315>UNIT 9,World Of Work,Vocabulary - Jobs,Exercise 3**,Drag and drop, Media box (XHTML)</assignment315>
+		<assignment316>UNIT 9,World Of Work,Vocabulary - Jobs,Exercise 4***,Media box (XHTML), Fill-in: no prompts</assignment316>		
+		<assignment317>UNIT 9,World Of Work,Reading (1),Exercise 1*,Single choice, Media box (XHTML)</assignment317>
+		<assignment318>UNIT 9,World Of Work,Reading (1),Exercise 2*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment318>
+		<assignment319>UNIT 9,World Of Work,Reading (1),Exercise 3***,Fill-in: drop-down choice in middle</assignment319>		
+		<assignment320>UNIT 9,World Of Work,Grammar - a/an, some and any,Exercise 1*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment320>
+		<assignment321>UNIT 9,World Of Work,Grammar - a/an, some and any,Exercise 2**,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment321>
+		<assignment322>UNIT 9,World Of Work,Grammar - a/an, some and any,Exercise 3***,Fill-in: no prompts</assignment322>		
+		<assignment323>UNIT 9,World Of Work,Grammar - Quantity,Exercise 4*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment323>
+		<assignment324>UNIT 9,World Of Work,Grammar - Quantity,Exercise 5**,Fill-in: drop-down choice in middle</assignment324>
+		<assignment325>UNIT 9,World Of Work,Grammar - Quantity,Exercise 6***,Drag and drop</assignment325>		
+		<assignment326>UNIT 9,World Of Work,Vocabulary - Adjectives describing jobs,Exercise 1*,Word search, Media box (XHTML)</assignment326>
+		<assignment327>UNIT 9,World Of Work,Vocabulary - Adjectives describing jobs,Exercise 2*,Media box (XHTML), Fill-in: no prompts</assignment327>
+		<assignment328>UNIT 9,World Of Work,Vocabulary - Adjectives describing jobs,Exercise 3**,Drag and drop, Media box (XHTML)</assignment328>
+		<assignment329>UNIT 9,World Of Work,Vocabulary - Adjectives describing jobs,Exercise 4***,Drag and drop, Media box (XHTML)</assignment329>		
+		<assignment330>UNIT 9,World Of Work,Chatroom - Reacting ,Speaking and Listening,Exercise 1*,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment330>
+		<assignment331>UNIT 9,World Of Work,Chatroom - Reacting ,Speaking and Listening,Exercise 2*,Fill-in: no prompts</assignment331>
+		<assignment332>UNIT 9,World Of Work,Chatroom - Reacting ,Speaking and Listening,Exercise 3**,Drag and drop</assignment332>		
+		<assignment333>UNIT 9,World Of Work,Grammar - Indefinite pronouns,Exercise 1*,Matching</assignment333>
+		<assignment334>UNIT 9,World Of Work,Grammar - Indefinite pronouns,Exercise 2*,Fill-in: drop-down choice in middle</assignment334>
+		<assignment335>UNIT 9,World Of Work,Grammar - Indefinite pronouns,Exercise 3**,Drag and drop, Media box (XHTML)</assignment335>
+		<assignment336>UNIT 9,World Of Work,Grammar - Indefinite pronouns,Exercise 4***,Media box (XHTML), Fill-in: no prompts</assignment336>		
+		<assignment337>UNIT 9,World Of Work,Reading (2),Exercise 1,Single choice, Media box (XHTML)</assignment337>
+		<assignment338>UNIT 9,World Of Work,Reading (2),Exercise 2,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment338>		
+		<assignment339>UNIT 9,World Of Work,Listening,Exercise 1,Underline, Media box (XHTML)</assignment339>
+		<assignment340>UNIT 9,World Of Work,Listening,Exercise 2,Fill-in: drop-down choice in middle</assignment340>		
+		<assignment341>UNIT 9,World Of Work,Writing - a questionnaire,Exercise 1,Media box (XHTML), Matching</assignment341>
+		<assignment342>UNIT 9,Grammar reference,Grammar practice - a/an, some  or any,Exercise 1,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment342>
+		<assignment343>UNIT 9,Grammar reference,Grammar practice - a/an, some  or any,Exercise 2,Media box (XHTML), Draggable jumbled words</assignment343>
+		<assignment344>UNIT 9,Grammar reference,Grammar practice - a/an, some  or any,Exercise 3,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment344>
+		<assignment345>UNIT 9,Grammar reference,Grammar practice - Quantity,Exercise 4,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment345>
+		<assignment346>UNIT 9,Grammar reference,Grammar practice - Quantity,Exercise 5,Fill-in: drop-down choice in middle, Media box (XHTML)</assignment346>
+		<assignment347>UNIT 9,Grammar reference,Grammar practice - Indefinite pronouns,Exercise 6,Media box (XHTML), Fill-in: no prompts</assignment347>		
+		<assignment348>UNIT 9,Speaking and listening,Speaking - Reacting,Exercise 1,Fill-in: no prompts</assignment348>
+		<assignment349>UNIT 9,Speaking and listening,Speaking - Reacting,Exercise 2,Drag and drop</assignment349>		
+		<assignment350>UNIT 9,Speaking and listening,Listening - Reacting,Exercise 3,Fill-in: drop-down choice in middle</assignment350>
+		<assignment351>UNIT 9,Speaking and listening,Listening - Reacting,Exercise 4,Matching</assignment351>		
+		<!-- <assignment352>UNIT 9, Pronunciation practice, Schwa /?/, Exercise 1</assignment352> -->
+		<assignment352>UNIT 9, Pronunciation practice, Schwa /ə/, Exercise 1</assignment352>
+		<assignment353>UNIT 9, Pronunciation practice, Schwa /ə/, Exercise 2</assignment353>
+		<assignment354>PROGRESS TESTS, Progress Test 1, Progress Test 1</assignment354>
+		<assignment355>PROGRESS TESTS, Progress Test 2, Progress Test 2</assignment355>
+		<assignment356>PROGRESS TESTS, Progress Test 3, Progress Test 3</assignment356>
+		<assignment357>UNIT 2, Grammar reference, Grammar practice - Present continuous , Exercise 1</assignment357>
+		<assignment358>UNIT 1, Grammar reference, Grammar practice - Present simple, Exercise 2a</assignment358>
+		<assignment359>UNIT 1, Grammar reference, Grammar practice - Present simple, Exercise 3</assignment359>
+		
+	</assignments>
+	
+	<personaldetails>
+	<personaldetailteacher1>Teacher_0201, ,Teacher_0201,teacher@abc.com,Albania ,Dogrib,London (GMT +00:00),22 Feb 2012, 9:00 PM</personaldetailteacher1>
+	<personaldetailteacher2>Joe,Is,Theman,Teacher_1@ioki.com.pl,United Kingdom,Dogrib,London (GMT +00:00),22 Feb 2012, 15:53</personaldetailteacher2>
+	<personaldetailstudent1>Alex,joe,Feynman,Student_1@ioki.com.pl,India,English,London (GMT +01:00),22 Feb 2012, 9:00 PM</personaldetailstudent1>
+	<personaldetailstudent2>Alex,joe,Feynman,Student_1@ioki.com.pl,India,English,London (GMT +01:00),22 Feb 2012, 15:53</personaldetailstudent2>
+	</personaldetails>
+</Assignments>	

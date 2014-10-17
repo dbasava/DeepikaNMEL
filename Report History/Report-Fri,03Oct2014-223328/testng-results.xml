@@ -1,0 +1,816 @@
+<testng-results>
+  <reporter-output>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_25, NEWNGMEL-189_29, NEWNGMEL-189_26,NEWNGMEL-189_27, NEWNGMEL-189_28.</b>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Message notification is displayed.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_25 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Inbox is selected by default.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_29 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Latest messages appear first.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_26 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher messageSubject Test.900is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher messageSubject Test.374is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Message notification is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The notification counter is reduced by 1.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_27 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The no notification displayed.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_28 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-147_14, NEWNGMEL-147_15, NEWNGMEL-147_17, NEWNGMEL-147_16, NEWNGMEL-147_13, NEWNGMEL-147_18, NEWNGMEL-147_11, NEWNGMEL-147_19.</b>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Error message is displayed for empty recipient list.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_14 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student can enter recipient manually.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-147_15 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Error message is displayed for empty subject line list.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_17 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>An error message for long subject is displayed.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_16 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Recipients are displayed in Recipients field.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_13 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>By default priority is set to Normal]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is able to set priority.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_18 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is able to send message from new message tab.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The message exists in Sent Items tab]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The message sent is displayed in Sent messages tab.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_19 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_30, NEWNGMEL-189_31, NEWNGMEL-189_32, NEWNGMEL-189_33, NEWNGMEL-189_34, NEWNGMEL-189_35, NEWNGMEL-189_37, NEWNGMEL-189_38, NEWNGMEL-189_39, NEWNGMEL-189_40, NEWNGMEL-189_36, NEWNGMEL-189_41.</b>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher messageSubject Test.247is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher messageSubject Test.743is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The message sent by the teacher and column headers are displayed in Inbox tab.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_30 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per priorities.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_31 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for sender type.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_32 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for sender.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_33 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for Subject.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_34 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per the dates.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_35 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are not displayed as per the dates.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-189_37 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Student is able to display all messages on clicking Show All button.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_41 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The inbox message are displayed for selected sender type.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_38 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Unread messages are not displayed when filter is set for Read.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_39 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages displayed are not inrange, sent by student and the status is for these messages is Read.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-189_40 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The contents are deleted. Test case NEWNGMEL-189_36 passed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_36 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-190_11, NEWNGMEL-190_13, NEWNGMEL-190_15, NEWNGMEL-190_16, NEWNGMEL-190_17, NEWNGMEL-190_18.</b>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Sent message tab is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>The table headers exists in Sent Items tab]]>
+    </line>
+    <line>
+      <![CDATA[<br>Sent messageSubject Test.735is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Most recent messages appear first.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per priorities.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_13 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for recipeints.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_14 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for subject.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_15 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per the dates.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_16 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are displayed as per the dates.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_18 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The contents are deleted.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_17 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_42, NEWNGMEL-189_44, NEWNGMEL-189_45, NEWNGMEL-189_46, NEWNGMEL-189_47, NEWNGMEL-189_48.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default	.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher messageSubject Test.72 is displayed in student inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_42 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_44 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is able to see all the  From (sender name), To (recipient list), Subject (message subject) and the message Content.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_45 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Correct data is displayed in the message.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student is navigated to New Message tab in reply mode.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The recipients and the subject are already filled with appropriate values.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_46 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher is navigated to New Message tab in forward mode.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The recipients field is empty and the subject are already filled.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_47 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Dialog box for delete confirmation is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_48 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_1, NEWNGMEL-189_2, NEWNGMEL-189_3, NEWNGMEL-189_4.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Message notification is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Latest messages appear first.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student messageSubject Test.25is displayed in teacher inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Message notification is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The notification counter is reduced by 1.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The no notification displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-190_1, NEWNGMEL-190_3 , NEWNGMEL-190_5, NEWNGMEL-190_6,  NEWNGMEL-190_7, NEWNGMEL-190_4, NEWNGMEL-190_8.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Sent message tab is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>The table headers exists in Sent Items tab]]>
+    </line>
+    <line>
+      <![CDATA[<br>Sent messagenullis not displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Latest messages appear first.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are not sorted as per priorities.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-190_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for recipeints.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are not sorted alphabetically for subject.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-190_5 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per the dates.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are displayed as per the dates.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The contents are deleted.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-190_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_7, NEWNGMEL-189_8, NEWNGMEL-189_9, NEWNGMEL-189_10, NEWNGMEL-189_11, NEWNGMEL-189_13, NEWNGMEL-189_15, NEWNGMEL-189_16, NEWNGMEL-189_12.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>The table headers exists in Inbox tab]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per priorities.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for sender type.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for sender.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_9 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted alphabetically for Subject.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are sorted as per the dates.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages are not displayed as per the dates.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-189_13 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Unread messages are not displayed when filter is set for Read.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_15 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The messages displayed are not inrange, sent by student and the status is for these messages is Read.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL-189_16 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The contents are deleted.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_12 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-147_5, NEWNGMEL-147_8, NEWNGMEL-147_7, NEWNGMEL-147_4, NEWNGMEL-147_1, NEWNGMEL-147_10.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_5 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Error message is displayed for empty recipient list.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher cannot enter recipient manually. ]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Error message is displayed for empty subject line list.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>An error message for long subject is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Recipients are displayed in Recipients field.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>By default priority is set to Normal]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher is able to send from new message tab.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The message exists in Sent Items tab]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The message sent is displayed in Sent messages tab.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-189_18, NEWNGMEL-189_21, NEWNGMEL-189_22, NEWNGMEL-189_23, NEWNGMEL-189_24.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Inbox is selected by default.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Student messageSubject Test.530is displayed in teacher inbox.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher is able to read message by clicking on the message.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_18 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher is able to see all the  From (sender name), To (recipient list), Subject (message subject) and the message Content.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_21 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Incorrect data is displayed in the message.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher is navigated to New Message tab in reply mode.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The recipients and the subject are already filled with appropriate values.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_22 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Teacher is navigated to New Message tab in forward mode.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The recipients field is empty and the subject are already filled.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_23 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Dialog box for delete confirmation is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-189_24 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL-147_2, NEWNGMEL-147_3, NEWNGMEL-1681_5, NEWNGMEL-1681_6, NEWNGMEL-153_2.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are displayed in Recipients field.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSettings]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[Recipients are added from contact list]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Teacher is able to send message to the student.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isMessage]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The contact list checkbox is disabled.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-147_12 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Student is able to send message to only the teacher and not student when the messanger is turned off.]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-153_2 Pass</b><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="NMEL-3 Regression Suite">
+    <groups>
+      <group name="regression">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.inboxMessageNotification()" name="inboxMessageNotification" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.sentMessageViewAndSort()" name="sentMessageViewAndSort" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.messageInboxNotificationStudent()" name="messageInboxNotificationStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.inboxMessageViewAndSort()" name="inboxMessageViewAndSort" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.messageCreate()" name="messageCreate" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.inboxMessageReadMessage()" name="inboxMessageReadMessage" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.turnOffMessangerAndCreateMessage()" name="turnOffMessangerAndCreateMessage" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.messageCreateStudent()" name="messageCreateStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.inboxViewAndSortStudent()" name="inboxViewAndSortStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.sentMessagesViewAndSortStudent()" name="sentMessagesViewAndSortStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.inboxMessageReadStudent()" name="inboxMessageReadStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student"/>
+      </group>
+    </groups>
+    <test name="Regression Tests 2">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher">
+        <test-method status="PASS" signature="inboxMessageNotification()" name="inboxMessageNotification" duration-ms="356472" started-at="2014-10-03T22:06:51Z" description="NEWNGMEL-189_1, NEWNGMEL-189_2, NEWNGMEL-189_3, NEWNGMEL-189_4" finished-at="2014-10-03T22:12:47Z">
+        </test-method>
+        <test-method status="PASS" signature="messageCreate()" name="messageCreate" duration-ms="132124" started-at="2014-10-03T22:23:28Z" description="NEWNGMEL-147_5, NEWNGMEL-147_8, NEWNGMEL-147_7, NEWNGMEL-147_4, NEWNGMEL-147_1, NEWNGMEL-147_10" finished-at="2014-10-03T22:25:40Z">
+        </test-method>
+        <test-method status="PASS" signature="sentMessageViewAndSort()" name="sentMessageViewAndSort" duration-ms="227552" started-at="2014-10-03T22:12:47Z" description="NEWNGMEL-190_1, NEWNGMEL-190_3 , NEWNGMEL-190_5, NEWNGMEL-190_6,  NEWNGMEL-190_7, NEWNGMEL-190_4, NEWNGMEL-190_8." finished-at="2014-10-03T22:16:35Z">
+        </test-method>
+        <test-method status="PASS" signature="inboxMessageReadMessage()" name="inboxMessageReadMessage" duration-ms="236568" started-at="2014-10-03T22:25:40Z" description="NEWNGMEL-189_18, NEWNGMEL-189_21, NEWNGMEL-189_22, NEWNGMEL-189_23, NEWNGMEL-189_24." finished-at="2014-10-03T22:29:37Z">
+        </test-method>
+        <test-method status="PASS" signature="turnOffMessangerAndCreateMessage()" name="turnOffMessangerAndCreateMessage" duration-ms="229458" started-at="2014-10-03T22:29:37Z" description="NEWNGMEL-147_2, NEWNGMEL-147_3, NEWNGMEL-1681_5, NEWNGMEL-1681_6, NEWNGMEL-153_2." finished-at="2014-10-03T22:33:26Z">
+        </test-method>
+        <test-method status="PASS" signature="inboxMessageViewAndSort()" name="inboxMessageViewAndSort" duration-ms="412969" started-at="2014-10-03T22:16:35Z" description="NEWNGMEL-189_7, NEWNGMEL-189_8, NEWNGMEL-189_9, NEWNGMEL-189_10, NEWNGMEL-189_11, NEWNGMEL-189_13, NEWNGMEL-189_15, NEWNGMEL-189_16, NEWNGMEL-189_12." finished-at="2014-10-03T22:23:28Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="7661" started-at="2014-10-03T22:06:43Z" finished-at="2014-10-03T22:06:51Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1285" started-at="2014-10-03T22:33:26Z" finished-at="2014-10-03T22:33:27Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2438" started-at="2014-10-03T22:06:41Z" finished-at="2014-10-03T22:06:43Z">
+        </test-method>
+        <test-method status="PASS" signature="inboxMessageReadStudent()" name="inboxMessageReadStudent" duration-ms="201944" started-at="2014-10-03T22:03:19Z" description="NEWNGMEL-189_42, NEWNGMEL-189_44, NEWNGMEL-189_45, NEWNGMEL-189_46, NEWNGMEL-189_47, NEWNGMEL-189_48." finished-at="2014-10-03T22:06:41Z">
+        </test-method>
+        <test-method status="PASS" signature="sentMessagesViewAndSortStudent()" name="sentMessagesViewAndSortStudent" duration-ms="246635" started-at="2014-10-03T21:59:12Z" description="NEWNGMEL-190_11, NEWNGMEL-190_13, NEWNGMEL-190_15, NEWNGMEL-190_16, NEWNGMEL-190_17, NEWNGMEL-190_18" finished-at="2014-10-03T22:03:19Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="7237" started-at="2014-10-03T21:44:10Z" finished-at="2014-10-03T21:44:17Z">
+        </test-method>
+        <test-method status="PASS" signature="inboxViewAndSortStudent()" name="inboxViewAndSortStudent" duration-ms="393984" started-at="2014-10-03T21:52:38Z" description="NEWNGMEL-189_30, NEWNGMEL-189_31, NEWNGMEL-189_32, NEWNGMEL-189_33, NEWNGMEL-189_34, NEWNGMEL-189_35, NEWNGMEL-189_37, NEWNGMEL-189_38, NEWNGMEL-189_39, NEWNGMEL-189_40, NEWNGMEL-189_36, NEWNGMEL-189_41." finished-at="2014-10-03T21:59:12Z">
+        </test-method>
+        <test-method status="PASS" signature="messageCreateStudent()" name="messageCreateStudent" duration-ms="135296" started-at="2014-10-03T21:50:23Z" description=" NEWNGMEL-147_14, NEWNGMEL-147_15, NEWNGMEL-147_17, NEWNGMEL-147_16, NEWNGMEL-147_13, NEWNGMEL-147_18, NEWNGMEL-147_11, NEWNGMEL-147_19" finished-at="2014-10-03T21:52:38Z">
+        </test-method>
+        <test-method status="PASS" signature="messageInboxNotificationStudent()" name="messageInboxNotificationStudent" duration-ms="365585" started-at="2014-10-03T21:44:17Z" description="NEWNGMEL-189_25, NEWNGMEL-189_29, NEWNGMEL-189_26,NEWNGMEL-189_27, NEWNGMEL-189_28." finished-at="2014-10-03T21:50:23Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

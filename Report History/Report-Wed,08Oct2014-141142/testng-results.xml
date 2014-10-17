@@ -1,0 +1,48 @@
+<testng-results>
+  <reporter-output>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :Submit link is displayed.Submit link is disabled</b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :View link is displayed.View link is enabled.</b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :Discard link is displayed.Discard link is enabled.</b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :Submit Batch button is enabled.</b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :No students error is displayed.</b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :Edit Student successful. TC NML-202_4 Pass </b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Pass :Student deleted. TC NML-202_3 Pass. </b></p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Fail :Teacher able to submit batch. If the Teacher doesn't confirm the batch with legal T'c & C's TC NML-2055_1 Fail. </b></p>]]>
+    </line>
+  </reporter-output>
+  <suite name="NMEL-3 Regression Suite">
+    <groups>
+    </groups>
+    <test name="Regression Tests 6">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.BatchRegistration">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1388" started-at="2014-10-08T14:11:40Z" finished-at="2014-10-08T14:11:42Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyPendingBatchRegistration()" name="verifyPendingBatchRegistration" duration-ms="183409" started-at="2014-10-08T14:08:37Z" finished-at="2014-10-08T14:11:40Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9525" started-at="2014-10-08T14:08:27Z" finished-at="2014-10-08T14:08:37Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

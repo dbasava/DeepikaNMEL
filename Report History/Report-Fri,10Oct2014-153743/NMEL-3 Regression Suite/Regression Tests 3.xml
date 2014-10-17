@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 3" failures="0" tests="13" time="2608.647" errors="0">
+  <properties/>
+  <testcase name="assignAssignmentDefaultSettingExpertMode" time="107.259" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="assignAssignmentExpertMode" time="115.917" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="studentAttemptAssignAssignmentExpertMode" time="312.637" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="assignTestBasicModeDueDateTimer" time="57.34" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="sendAssignmentPageVerificationForCourseEndDateGreaterExpertMode" time="54.656" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="assignActivityBasicMode" time="56.123" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="studentsAttemptsPractiseActivity" time="52.089" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.AssignAndUpdate_ActivitiesCycle"/>
+  <testcase name="studentDelete" time="220.464" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage"/>
+  <testcase name="teacherDelete" time="194.038" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.DeleteMessage"/>
+  <testcase name="toDoAssignmentDisappearStudent" time="546.707" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements"/>
+  <testcase name="toDoEnhancementsTeacher" time="405.634" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements"/>
+  <testcase name="recentActivityEnhancementsStudent" time="195.639" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.HomepageTabEnhancements"/>
+  <testcase name="replyMessage" time="254.612" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ReplyMessage"/>
+</testsuite>

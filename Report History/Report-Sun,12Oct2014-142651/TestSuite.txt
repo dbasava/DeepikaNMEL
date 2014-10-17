@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.492 sec <<< FAILURE!
+ProgramAdminTest(com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin)  Time elapsed: 0.096 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problem: 
+	Duplicate local variable jse
+
+	at com.pearson.piltg.ngmelII.RegressionNMELIII.ProgramAdmin.ProgramAdminTest(ProgramAdmin.java:192)
+

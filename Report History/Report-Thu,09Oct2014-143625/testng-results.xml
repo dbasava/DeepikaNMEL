@@ -1,0 +1,161 @@
+<testng-results>
+  <reporter-output>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitGrammar - Present simple]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1*is Assign again]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<br>View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_8 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>By default,the filter is set to Everything under Recent activity tab.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_12 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by assignments only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_9 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by general events only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_10 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to filter Recent activity tab by course events only.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-38_11 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>View more button is disable]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>The recent activities are displayed when the student navigates to the Recent Activity tab.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_168_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[exception occured]]>
+    </line>
+    <line>
+      <![CDATA[Test method : NEWNGMEL_117_4, NEWNGMEL_117_3,NEWNGMEL-2039_11, NEWNGMEL_117_6.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCOURSE]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unitPlay The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitGrammar - Present simple]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 2*is Assigned/Open]]>
+    </line>
+    <line>
+      <![CDATA[Selected All Students]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Assign button]]>
+    </line>
+    <line>
+      <![CDATA[The assignment has been successfully allocated to your student.]]>
+    </line>
+    <line>
+      <![CDATA[Teacher_1 logged out]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>The latest assigned activity is displayed on teacher recent activity page.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[Past date error message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Error message is displayed when past date is entered.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_117_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Teacher is able to change the due date successfully.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Due date for UNIT 1, Play The Game!, Grammar - Present simple, Exercise 2*is changed.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_117_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_117_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>View more button is disable]]>
+    </line>
+  </reporter-output>
+  <suite name="NMEL-3 Regression Suite">
+    <groups>
+      <group name="regression">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesTeacher()" name="filterActivitesTeacher" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesStudent()" name="filterActivitesStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.recentActivityTest()" name="recentActivityTest" class="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity"/>
+      </group>
+    </groups>
+    <test name="Regression Tests 1">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity">
+        <test-method status="PASS" signature="recentActivityTest()" name="recentActivityTest" duration-ms="317642" started-at="2014-10-09T14:31:06Z" description="NEWNGMEL_117_4, NEWNGMEL_117_3, NEWNGMEL-2039_11, NEWNGMEL_117_6." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesStudent" finished-at="2014-10-09T14:36:23Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="8497" started-at="2014-10-09T14:21:20Z" finished-at="2014-10-09T14:21:29Z">
+        </test-method>
+        <test-method status="PASS" signature="filterActivitesTeacher()" name="filterActivitesTeacher" duration-ms="94283" started-at="2014-10-09T14:26:29Z" description="NEWNGMEL-38_8, NEWNGMEL-38_12, NEWNGMEL-38_9, NEWNGMEL-38_10, NEWNGMEL-38_11." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.preCondition" finished-at="2014-10-09T14:28:03Z">
+        </test-method>
+        <test-method status="PASS" signature="preCondition()" name="preCondition" duration-ms="300261" started-at="2014-10-09T14:21:29Z" finished-at="2014-10-09T14:26:29Z">
+        </test-method>
+        <test-method status="PASS" signature="filterActivitesStudent()" name="filterActivitesStudent" duration-ms="182448" started-at="2014-10-09T14:28:03Z" description="NEWNGMEL-37_8, NEWNGMEL-37_12, NEWNGMEL-37_9, NEWNGMEL-37_10, NEWNGMEL-37_11." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.Hompage_RecentActivity.filterActivitesTeacher" finished-at="2014-10-09T14:31:06Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1457" started-at="2014-10-09T14:36:23Z" finished-at="2014-10-09T14:36:25Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

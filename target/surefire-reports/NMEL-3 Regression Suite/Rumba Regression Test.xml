@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Rumba Regression Test" failures="0" tests="4" time="2569.774" errors="0">
+  <properties/>
+  <testcase name="registerInstructor" time="1143.737" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+  <testcase name="registerCandidateStudent" time="1001.734" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+  <testcase name="settingsPersonalProfile" time="93.499" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+  <testcase name="registerCandidateStudentSelfStudy" time="216.216" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+</testsuite>

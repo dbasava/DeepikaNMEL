@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test" parallel="false">
+	<test name="End To End" preserve-order="true">
+		<groups>
+			<run>
+				<exclude name="PA" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.pearson.piltg.ngmelII.EndtoEndTesting.RumbaRegistration" />
+			<class name="com.pearson.piltg.ngmelII.EndtoEndTesting.EndtoEnd"></class>
+			<class name="com.pearson.piltg.ngmelII.EndtoEndTesting.EndtoEnd2"></class>
+		</classes>
+
+	</test>
+</suite>

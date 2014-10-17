@@ -1,0 +1,40 @@
+<User>
+	<Instructor>
+		<userName>Teacher_</userName>
+		<password>Password123</password>
+		<!-- <accessCode>EESNVB-CANEA-REBEL-DYFED-SAINT-ROSES</accessCode> --> <!--nQA Nextmove2 code -->
+		<!-- <accessCode>EESNPT-KEPT-POME-SYNC-HIRI-URGE</accessCode> -->
+		<!-- <accessCode2>EESNVC-SHALL-FREAK-PATNA-METIS-NURSE</accessCode2> --> <!--//Staging Nextmove2 code -->
+		<accessCode2>EESNGA-DROSS-CANOE-SEVAN-POTTO-TAXES</accessCode2>
+		<accessCode>EESNVC-SHALL-FREAK-PATNA-METIS-NURSE</accessCode>	
+		<emailId>teacher@abc.com</emailId>
+		<firstName>Teacher_</firstName>
+		<middleName>Teacher_</middleName>
+		<lastName>Teacher_</lastName>
+		<institution>PEARSON EDUCATION</institution>
+		<teacherCountry>Albania</teacherCountry>
+		<teacherLanguage>Akan</teacherLanguage>
+		<dateFormat12>22 Feb 2012, 9:00 PM</dateFormat12>
+		<dateFormat24>22 Feb 2012, 15:53</dateFormat24>
+	</Instructor>
+
+	<Student>
+		<userName>Student_</userName>
+		<password>Password123</password>
+		<!-- <accessCode>ESSNVB-COAPT-REBEL-DYFED-SAINT-ROSES</accessCode> --> <!--nQA Nextmove2 code -->
+		<!-- <accessCode>ESSNGA-DRILL-CANOE-SEVAN-BEGUN-TAXES</accessCode> -->
+		<!-- <accessCode>ESSNVB-FUSIL-FREAK-PATNA-QUASH-MINES</accessCode> --> <!--Staging Nextmove2 code -->
+		<accessCode2>ESSNPT-COWS-POME-SYNC-RUSH-MOAT</accessCode2>
+		<accessCode>ESSNVB-FUSIL-FREAK-PATNA-QUASH-MINES</accessCode> 
+		<emailId>student@abc.com</emailId>
+		<firstName>Student</firstName>
+		<middleName>Student_</middleName>
+		<lastName>Student_</lastName>
+		<institution>Pearson</institution>
+		<studentCountry>Albania</studentCountry>
+		<StudentLanguage>Akan</StudentLanguage>
+		<dateFormat12>22 Feb 2012, 9:00 PM</dateFormat12>
+		<dateFormat24>22 Feb 2012, 15:53</dateFormat24>
+	</Student>
+
+</User>

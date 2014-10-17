@@ -1,0 +1,36 @@
+<Assignments>	
+	<courses>
+		<course1>Ipsum Course 1</course1>
+		<course2>Course for enrol</course2>
+		<course3>Nisi Course 14</course3>
+		<course4>MyEnglishLab</course4>
+	</courses>
+	
+	<assignments>
+		<assignment1>Unit 1, Unit 1.1, Listen and check, Exercise 1</assignment1>
+		<assignment2>Unit 1, Unit 1.1, Listen and check, Exercise 2</assignment2>
+		<assignment3>Unit 1, Unit 1.1, Listen and check, Exercise 3</assignment3>
+		<assignment4>Unit 1, Unit 1.1, Listen and check, Exercise 4</assignment4>
+		<assignment5>Unit 1, Unit 1.1, Practice exercises, Exercise 1</assignment5>
+		<assignment6>Unit 1, Unit 1.1, Practice exercises, Exercise 2</assignment6>
+		<assignment7>Unit 1, Unit 1.1, Practice exercises, Exercise 3</assignment7>
+		<assignment8>Unit 1, Unit 1.1, Practice exercises, Exercise 4</assignment8>
+		<assignment9>Unit 1, Unit 1.2, Listen and check, Exercise 1</assignment9>
+		<assignment10>Unit 1, Unit 1.2, Listen and check, Exercise 2</assignment10>
+		<assignment11>Unit 1, Unit 1.2, Listen and check, Exercise 3</assignment11>
+		<assignment12>Unit 1, Unit 1.2, Listen and check, Exercise 4</assignment12>
+		<assignment13>Unit 1, Unit 1.2, Practice exercises, Exercise 1</assignment13>
+		<assignment14>Unit 1, Unit 1.2, Practice exercises, Exercise 2</assignment14>
+		<assignment15>Unit 1, Unit 1.2, Practice exercises, Exercise 3</assignment15>
+		<assignment16>Unit 1, Unit 1.2, Practice exercises, Exercise 4</assignment16>
+		<assignment17>Unit 1, Unit 1.2, Exercise 1</assignment17>
+		<assignment18>Unit 1, Unit 1.2, Exercise 2</assignment18>
+		<assignment19>Unit 1, Unit 1.2, Exercise 3</assignment19>
+		<assignment20>Unit 1, Unit 1.2, Exercise 4</assignment20>
+		<assignment21>Unit 2, Unit 2.1, Exercise 1</assignment21>
+		<assignment22>Unit 2, Unit 2.1, Exercise 2</assignment22>
+		<assignment23>Unit 2, Unit 2.1, Exercise 3</assignment23>
+		<assignment24>Unit 2, Unit 2.1, Exercise 4</assignment24>
+		<assignment25>Unit 2, Unit 2.2, Exercise 1</assignment25>
+	</assignments>
+</Assignments>	

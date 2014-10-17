@@ -1,0 +1,187 @@
+<testng-results>
+  <reporter-output>
+    <line>
+      <![CDATA[Test Methods : NEWNGMEL_1087_7]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is in Expert mode]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[Selected a Course Options]]>
+    </line>
+    <line>
+      <![CDATA[Tree Structure till unit Play The Game!]]>
+    </line>
+    <line>
+      <![CDATA[Toc Tree structure at sub-unitGrammar - Present simple]]>
+    </line>
+    <line>
+      <![CDATA[Exercise 1*is Assign again]]>
+    </line>
+    <line>
+      <![CDATA[Test Method : NEWNGMEL_1490_4, NEWNGMEL_1490_1,NEWNGMEL_1490_2 ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSettings]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1490_4 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSettings]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1490_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1490_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_1063_4.<br><b>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method : NEWNGMEL_163_3]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Student gets appropriate error message when an invalid course id is entered.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_163_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_1063_3,NEWNGMEL_1063_5,NEWNGMEL-1770_1,NEWNGMEL-1770_2,NEWNGMEL-1770_3,NEWNGMEL-1770_5,NEWNGMEL-1770_6,NEWNGMEL-1770_7,NEWNGMEL-1973_2,NEWNGMEL-1973_3,NEWNGMEL-1975_1,NEWNGMEL-1975_2,NEWNGMEL-1975_3,NEWNGMEL-1975_5, NEWNGMEL-1770_2.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Home Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> PERSONAL PROFILE tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[Teacher is in Expert mode]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1770_7 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>The error message is displayed.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1770_2 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1770_6 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><b>Error message is displayed.</b></p></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1770_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Test method: NEWNGMEL_961_1, NEWNGMEL_961_3,NEWNGMEL_961_2.<br><b>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <font color=green>Home tab is loaded correctly</font>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Home Page is loaded</br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[Loaded TabCourse Settings]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_961_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_961_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_961_2 Pass</b><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="NMEL-3 Regression Suite">
+    <groups>
+      <group name="regression">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.changeDefaultEndDate()" name="changeDefaultEndDate" class="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.enrollCourse()" name="enrollCourse" class="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.courseSettingValidation()" name="courseSettingValidation" class="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings.verifyNumberOfAttempts()" name="verifyNumberOfAttempts" class="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings"/>
+      </group>
+    </groups>
+    <test name="Regression Tests 5">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2598" started-at="2014-10-06T16:35:27Z" finished-at="2014-10-06T16:35:29Z">
+        </test-method>
+        <test-method status="PASS" signature="settings()" name="settings" duration-ms="202364" started-at="2014-10-06T16:27:51Z" description="NEWNGMEL_1087_7" finished-at="2014-10-06T16:31:14Z">
+        </test-method>
+        <test-method status="PASS" signature="changePassword()" name="changePassword" duration-ms="253257" started-at="2014-10-06T16:31:14Z" description="NEWNGMEL_1490_4, NEWNGMEL_1490_1,NEWNGMEL_1490_2" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsPersonalProfile.settings" finished-at="2014-10-06T16:35:27Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="7110" started-at="2014-10-06T16:27:44Z" finished-at="2014-10-06T16:27:51Z">
+        </test-method>
+      </class>
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.SettingsCourseSettings">
+        <test-method status="PASS" signature="verifyNumberOfAttempts()" name="verifyNumberOfAttempts" duration-ms="175411" started-at="2014-10-06T16:41:01Z" description="NEWNGMEL_961_1,NEWNGMEL_961_2, NEWNGMEL_961_3" finished-at="2014-10-06T16:43:56Z">
+        </test-method>
+        <test-method status="PASS" signature="changeDefaultEndDate()" name="changeDefaultEndDate" duration-ms="61015" started-at="2014-10-06T16:35:35Z" description="NEWNGMEL_1063_4" finished-at="2014-10-06T16:36:36Z">
+        </test-method>
+        <test-method status="PASS" signature="enrollCourse()" name="enrollCourse" duration-ms="55909" started-at="2014-10-06T16:36:36Z" description="NEWNGMEL_163_3" finished-at="2014-10-06T16:37:32Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="5914" started-at="2014-10-06T16:35:29Z" finished-at="2014-10-06T16:35:35Z">
+        </test-method>
+        <test-method status="PASS" signature="courseSettingValidation()" name="courseSettingValidation" duration-ms="208683" started-at="2014-10-06T16:37:32Z" description="NEWNGMEL_1063_3,NEWNGMEL_1063_5,NEWNGMEL-1770_1,NEWNGMEL-1770_2,NEWNGMEL-1770_3,NEWNGMEL-1770_5,NEWNGMEL-1770_6,NEWNGMEL-1770_7,NEWNGMEL-1973_2,NEWNGMEL-1973_3,NEWNGMEL-1975_1,NEWNGMEL-1975_2,NEWNGMEL-1975_3,NEWNGMEL-1975_5, NEWNGMEL-1770_2" finished-at="2014-10-06T16:41:01Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2453" started-at="2014-10-06T16:43:56Z" finished-at="2014-10-06T16:43:59Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

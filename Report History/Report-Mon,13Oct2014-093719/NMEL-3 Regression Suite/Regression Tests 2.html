@@ -1,0 +1,692 @@
+<html>
+<head>
+<title>TestNG:  Regression Tests 2</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Regression Tests 2</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>18/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Oct 12 17:57:38 PDT 2014</td>
+</tr>
+<tr><td>Total time:</td><td>4232 seconds (4232500 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='3' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td width="30%"><b>Exception</b></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender.addEventStudent()'>addEventStudent<br/><b>NEWNGMEL - 150_12, NEWNGMEL - 150_11.</b><br/>
+<a href="#Output-1879501356" onClick='toggleBox("Output-1879501356", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1879501356" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1879501356">
+<br><b>Student is not able to create a course event.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL - 150_12 Fail</b><br><br/>
+<br><b>A course event was not created.</b></br><br/>
+General event not created by Student.<br/>
+</div>
+</td>
+<td>205</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender.calendarAddEventsOnPastDates()'>calendarAddEventsOnPastDates<br/><b>NEWNGMEL - 150_7, NEWNGMEL - 150_8.</b><br/>
+<a href="#Output-1335732606" onClick='toggleBox("Output-1335732606", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1335732606" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1335732606">
+<br><b>Event was created with past date.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL - 150_7 Pass</b><br><br/>
+<br><b>Event was created with past date.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL - 150_8 Pass</b><br><br/>
+</div>
+</td>
+<td>126</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender.calendarAssignment()'>calendarAssignment<br/><b>NEWNGMEL-2528_3,NEWNGMEL-2528_8, NEWNGMEL-2528_4, NEWNGMEL-2528_5.</b><br/>
+<a href="#Output-2114386292" onClick='toggleBox("Output-2114386292", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2114386292" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2114386292">
+<br>Test method: NEWNGMEL-2528_3, NEWNGMEL-2528_8, NEWNGMEL-2528_4, NEWNGMEL-2528_5.</br><br/>
+Current Tab selected isCOURSE<br/>
+Selected a Course Options<br/>
+Tree Structure till unitPast Lives<br/>
+Toc Tree structure at sub-unitVocabulary - History<br/>
+Exercise 2*is Assign again<br/>
+Selected All Students<br/>
+Selected a Date<br/>
+Clicked Assign button<br/>
+X
+The assignment has been successfully allocated to your student.<br/>
+Teacher_1 logged out<br/>
+<br> <font color=green>The expected selected tab is To Do List and the actual selected tab is HOME</font><br/>
+The expected selected tab is [Calendar] and the actual selected tab is [Calendar]<br/>
+Current Month is selected.<br/>
+Current week is selected by default.<br/>
+<br>Current Month and week is selected.</br><br/>
+The drop down is successfully set toDay<br/>
+</div>
+</td>
+<td>219</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender.calendarCourseVerify()'>calendarCourseVerify<br/><b>NEWNGMEL - 150_3, NEWNGMEL - 150_4, NEWNGMEL-978_1, NEWNGMEL-978_5, NEWNGMEL-682_3, NEWNGMEL-978_3, NEWNGMEL-978_7, NEWNGMEL-978_11, NEWNGMEL-978_15, NEWNGMEL-978_13, NEWNGMEL-978_17</b><br/>
+<a href="#Output-596213267" onClick='toggleBox("Output-596213267", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-596213267" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-596213267">
+<br><b>Test method: NEWNGMEL - 150_3, NEWNGMEL - 150_4, NEWNGMEL-978_1, NEWNGMEL-978_5, NEWNGMEL-682_3, NEWNGMEL-978_3, NEWNGMEL-978_7, NEWNGMEL-978_11, NEWNGMEL-978_15, NEWNGMEL-978_13, NEWNGMEL-978_17.</b></br><br/>
+Current Tab selected isHome<br/>
+Current Month is selected.<br/>
+Current week is selected by default.<br/>
+<br>Current Week and month is selected.</br><br/>
+<br><b>A course event was created using date picker.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL - 150_3 Pass</b><br><br/>
+<br><b>A course event was created by manual date entry. Test case NEWNGMEL - 150_4 passed.</b></br><br/>
+<br>Course events checkbox is checked.</br><br/>
+<br>Week view is selected by default.</br><br/>
+<br>Initially week view is displayed.</br><br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+<br>Course events are not displayed when Course events checkbox is unchecked.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-978_5 Pass</b><br><br/>
+The drop down is successfully set toDay<br/>
+<br><b>Day view is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-682_3 Pass</b><br><br/>
+The event is not created and not displayed on calendar page<br/>
+<br><b>Event is not displayed in day view.<b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_3 Fail</b><br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_7 Fail</b><br><br/>
+The expected selected tab is [To do list] and the actual selected tab is [Calendar]<br/>
+Current Month is selected.<br/>
+Current week is selected by default.<br/>
+<br>Current Week and month is selected.</br><br/>
+<br>Course events checkbox is checked.</br><br/>
+<br>Week view is selected by default.</br><br/>
+<br>Initially week view is displayed.</br><br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+<br>Course events are not displayed when Course events checkbox is unchecked.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-978_15 Pass</b><br><br/>
+The drop down is successfully set toDay<br/>
+<br>Day view is displayed.</br><br/>
+The event is not created and not displayed on calendar page<br/>
+<br><b>Event is not displayed in day view.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_13 Fail</b><br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_17 Fail</b><br><br/>
+</div>
+</td>
+<td>259</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Homepage_Calender.calendarGeneralEventVerify()'>calendarGeneralEventVerify<br/><b>NEWNGMEL - 150_1, NEWNGMEL - 150_2, NEWNGMEL-978_2, NEWNGMEL-978_4, NEWNGMEL-682_3, NEWNGMEL-978_6, NEWNGMEL-978_8, NEWNGMEL-978_12, NEWNGMEL-978_16, NEWNGMEL-978_14, NEWNGMEL-978_18</b><br/>
+<a href="#Output-791858245" onClick='toggleBox("Output-791858245", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-791858245" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-791858245">
+<br>Test method: NEWNGMEL - 150_1, NEWNGMEL - 150_2, NEWNGMEL-978_2, NEWNGMEL-978_4, NEWNGMEL-682_3, NEWNGMEL-978_4, NEWNGMEL-978_8, NEWNGMEL-978_12, NEWNGMEL-978_16, NEWNGMEL-978_14, NEWNGMEL-978_18.</br><br/>
+The expected selected tab is [Calendar] and the actual selected tab is [Calendar]<br/>
+Current Month is selected.<br/>
+Current week is selected by default.<br/>
+<br>Current Week and month is selected.</br><br/>
+<br><b>A general event was created using date picker.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL - 150_1 Pass</b><br><br/>
+<br><b>A general event was created by manual input. Test case NEWNGMEL - 150_2 passed.</b></br><br/>
+<br>General events checkbox is checked.</br><br/>
+<br>Week view is selected by default.</br><br/>
+<br>Initially week view is displayed.</br><br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+<br>General events are not displayed when general events checkbox is unchecked.</br><br/>
+<br><b><font color='green'>Test Case  NEWNGMEL-978_6 Pass</b><br><br/>
+The drop down is successfully set toDay<br/>
+<br><b>Day view is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-682_3 Pass</b><br><br/>
+The event is not created and not displayed on calendar page<br/>
+<br><b>General event is not displayed in day view.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_4 Fail</b><br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_8 Fail</b><br><br/>
+The expected selected tab is [To do list] and the actual selected tab is [Calendar]<br/>
+Current Month is selected.<br/>
+Current week is selected by default.<br/>
+<br>Current Week and month is selected.</br><br/>
+<br>General events checkbox is checked.</br><br/>
+<br>Week view is selected by default.</br><br/>
+<br>Initially week view is displayed.</br><br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+The event type is not displayed.<br/>
+<br>General events are not displayed when General events checkbox is unchecked.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-978_16 Pass</b><br><br/>
+The drop down is successfully set toDay<br/>
+<br>Day view is displayed.</br><br/>
+The event is not created and not displayed on calendar page<br/>
+<br><b>Event is not displayed in day view.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_14 Fail</b><br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-978_18 Fail</b><br><br/>
+</div>
+</td>
+<td>215</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage.forwardMessage()'>forwardMessage<br/><b>NEWNGMEL-1682_1,NEWNGMEL-1682_2.</b><br/>
+<a href="#Output-1153944351" onClick='toggleBox("Output-1153944351", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1153944351" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1153944351">
+<br><b>Test method: NEWNGMEL-1682_1,NEWNGMEL-1682_2.</b></br><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Current Tab selected isMessage<br/>
+<br>Teacher messageFw: Subject Test.56is displayed in student inbox.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1682_1 Pass</b><br><br/>
+Recipients are added from contact list<br/>
+Current Tab selected isMessage<br/>
+<br>Student messageFw: Subject Test.56is displayed in teacher inbox.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1682_2 Pass</b><br><br/>
+</div>
+</td>
+<td>254</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.ForwardMessage.forwardMessageTurnOff()'>forwardMessageTurnOff<br/><b>NEWNGMEL-1682_5,NEWNGMEL-1682_6.</b><br/>
+<a href="#Output-1592514605" onClick='toggleBox("Output-1592514605", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1592514605" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1592514605">
+<br>Test cases: NEWNGMEL-1682_5,NEWNGMEL-1682_6.</br><br/>
+Current Tab selected isSettings<br/>
+<br> Course Management tab is loaded correctly<br/>
+Current Tab selected isMessage<br/>
+<br><b>The contact list checkbox is disabled.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1682_5 Pass</b><br><br/>
+<br><b>The teacher contact list checkbox is enabled.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1682_6 Pass</b><br><br/>
+</div>
+</td>
+<td>136</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.inboxMessageNotification()'>inboxMessageNotification<br/><b>NEWNGMEL-189_1, NEWNGMEL-189_2, NEWNGMEL-189_3, NEWNGMEL-189_4</b><br/>
+<a href="#Output-399403395" onClick='toggleBox("Output-399403395", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-399403395" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-399403395">
+<br><b>Test method: NEWNGMEL-189_1, NEWNGMEL-189_2, NEWNGMEL-189_3, NEWNGMEL-189_4.</b></br><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+<br><b>Message notification is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_1 Pass</b><br><br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br>Latest messages appear first.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_2 Pass</b><br><br/>
+<br>Student messageSubject Test.847is displayed in teacher inbox.</br><br/>
+<br>Student messageSubject Test.397is displayed in teacher inbox.</br><br/>
+<br>Message notification is displayed.</br><br/>
+<br><b>The notification counter is reduced by 1.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_3 Pass</b><br><br/>
+<br><b>The no notification displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_4 Pass</b><br><br/>
+</div>
+</td>
+<td>338</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.inboxMessageReadMessage()'>inboxMessageReadMessage<br/><b>NEWNGMEL-189_18, NEWNGMEL-189_21, NEWNGMEL-189_22, NEWNGMEL-189_23, NEWNGMEL-189_24.</b><br/>
+<a href="#Output-1490911510" onClick='toggleBox("Output-1490911510", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1490911510" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1490911510">
+<br><b>Test method: NEWNGMEL-189_18, NEWNGMEL-189_21, NEWNGMEL-189_22, NEWNGMEL-189_23, NEWNGMEL-189_24.</b></br><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br>Student messageSubject Test.529is displayed in teacher inbox.</br><br/>
+<br><b>Teacher is able to read message by clicking on the message.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_18 Pass</b><br><br/>
+<br><b>Teacher is able to see all the  From (sender name), To (recipient list), Subject (message subject) and the message Content.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_21 Pass</b><br><br/>
+<br>Incorrect data is displayed in the message.</br><br/>
+<br>Teacher is navigated to New Message tab in reply mode.</br><br/>
+<br><b>The recipients and the subject are already filled with appropriate values.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_22 Pass</b><br><br/>
+<br>Teacher is navigated to New Message tab in forward mode.</br><br/>
+<br><b>The recipients field is empty and the subject are already filled.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_23 Pass</b><br><br/>
+<br><b>Dialog box for delete confirmation is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_24 Pass</b><br><br/>
+</div>
+</td>
+<td>222</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.inboxMessageReadStudent()'>inboxMessageReadStudent<br/><b>NEWNGMEL-189_42, NEWNGMEL-189_44, NEWNGMEL-189_45, NEWNGMEL-189_46, NEWNGMEL-189_47, NEWNGMEL-189_48.</b><br/>
+<a href="#Output-332640170" onClick='toggleBox("Output-332640170", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-332640170" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-332640170">
+<br><b>Test method: NEWNGMEL-189_42, NEWNGMEL-189_44, NEWNGMEL-189_45, NEWNGMEL-189_46, NEWNGMEL-189_47, NEWNGMEL-189_48.</b></br><br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default	.</br><br/>
+<br>Teacher messageSubject Test.22 is displayed in student inbox.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_42 Pass</b><br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_44 Pass</b><br><br/>
+<br><b>Student is able to see all the  From (sender name), To (recipient list), Subject (message subject) and the message Content.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_45 Pass</b><br><br/>
+<br>Correct data is displayed in the message.</br><br/>
+<br>Student is navigated to New Message tab in reply mode.</br><br/>
+<br><b>The recipients and the subject are already filled with appropriate values.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_46 Pass</b><br><br/>
+<br>Teacher is navigated to New Message tab in forward mode.</br><br/>
+<br><b>The recipients field is empty and the subject are already filled.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_47 Pass</b><br><br/>
+<br><b>Dialog box for delete confirmation is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_48 Pass</b><br><br/>
+</div>
+</td>
+<td>195</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.inboxMessageViewAndSort()'>inboxMessageViewAndSort<br/><b>NEWNGMEL-189_7, NEWNGMEL-189_8, NEWNGMEL-189_9, NEWNGMEL-189_10, NEWNGMEL-189_11, NEWNGMEL-189_13, NEWNGMEL-189_15, NEWNGMEL-189_16, NEWNGMEL-189_12.</b><br/>
+<a href="#Output-703061469" onClick='toggleBox("Output-703061469", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-703061469" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-703061469">
+<br><b>Test method: NEWNGMEL-189_7, NEWNGMEL-189_8, NEWNGMEL-189_9, NEWNGMEL-189_10, NEWNGMEL-189_11, NEWNGMEL-189_13, NEWNGMEL-189_15, NEWNGMEL-189_16, NEWNGMEL-189_12.</b></br><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br>The table headers exists in Inbox tab<br/>
+<br><b>The messages are not sorted as per priorities.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-189_7 Fail</b><br><br/>
+<br><b>The messages are sorted alphabetically for sender type.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_8 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for sender.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_9 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for Subject.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_10 Pass</b><br><br/>
+<br><b>The messages are sorted as per the dates.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_11 Pass</b><br><br/>
+<br><b>The messages are not displayed as per the dates.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-189_13 Fail</b><br><br/>
+<br><b>Unread messages are not displayed when filter is set for Read.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_15 Pass</b><br><br/>
+<br><b>The messages displayed are not inrange, sent by student and the status is for these messages is Read.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-189_16 Fail</b><br><br/>
+<br><b>The contents are deleted.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_12 Pass</b><br><br/>
+</div>
+</td>
+<td>404</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.inboxViewAndSortStudent()'>inboxViewAndSortStudent<br/><b>NEWNGMEL-189_30, NEWNGMEL-189_31, NEWNGMEL-189_32, NEWNGMEL-189_33, NEWNGMEL-189_34, NEWNGMEL-189_35, NEWNGMEL-189_37, NEWNGMEL-189_38, NEWNGMEL-189_39, NEWNGMEL-189_40, NEWNGMEL-189_36, NEWNGMEL-189_41.</b><br/>
+<a href="#Output-1343913734" onClick='toggleBox("Output-1343913734", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1343913734" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1343913734">
+<br><b>Test method: NEWNGMEL-189_30, NEWNGMEL-189_31, NEWNGMEL-189_32, NEWNGMEL-189_33, NEWNGMEL-189_34, NEWNGMEL-189_35, NEWNGMEL-189_37, NEWNGMEL-189_38, NEWNGMEL-189_39, NEWNGMEL-189_40, NEWNGMEL-189_36, NEWNGMEL-189_41.</b><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br><b>Inbox is selected by default.</br><br/>
+<br><b>Teacher messageSubject Test.280is displayed in student inbox.</br><br/>
+<br><b>Teacher messageSubject Test.284is displayed in student inbox.</br><br/>
+<br><b>The message sent by the teacher and column headers are displayed in Inbox tab.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_30 Pass</b><br><br/>
+<br><b>The messages are sorted as per priorities.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_31 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for sender type.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_32 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for sender.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_33 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for Subject.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_34 Pass</b><br><br/>
+<br><b>The messages are sorted as per the dates.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_35 Pass</b><br><br/>
+<br><b>The messages are not displayed as per the dates.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-189_37 Fail</b><br><br/>
+Student is able to display all messages on clicking Show All button.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_41 Pass</b><br><br/>
+<br><b>The inbox message are displayed for selected sender type.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_38 Pass</b><br><br/>
+<br><b>Unread messages are not displayed when filter is set for Read.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_39 Pass</b><br><br/>
+<br><b>The messages displayed are not inrange, sent by student and the status is for these messages is Read.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-189_40 Fail</b><br><br/>
+<br><b>The contents are deleted. Test case NEWNGMEL-189_36 passed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_36 Pass</b><br><br/>
+</div>
+</td>
+<td>381</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.messageCreate()'>messageCreate<br/><b>NEWNGMEL-147_5, NEWNGMEL-147_8, NEWNGMEL-147_7, NEWNGMEL-147_4, NEWNGMEL-147_1, NEWNGMEL-147_10</b><br/>
+<a href="#Output-822241569" onClick='toggleBox("Output-822241569", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-822241569" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-822241569">
+<br><b>Test method: NEWNGMEL-147_5, NEWNGMEL-147_8, NEWNGMEL-147_7, NEWNGMEL-147_4, NEWNGMEL-147_1, NEWNGMEL-147_10.</b></br><br/>
+Current Tab selected isMessage<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_5 Pass</b><br><br/>
+<br>Error message is displayed for empty recipient list.</br><br/>
+<br>Teacher cannot enter recipient manually. <br/>
+Recipients are added from contact list<br/>
+<br><b>Error message is displayed for empty subject line list.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_8 Pass</b><br><br/>
+<br><b>An error message for long subject is displayed.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_7 Pass</b><br><br/>
+Recipients are added from contact list<br/>
+<br><b>Recipients are displayed in Recipients field.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_4 Pass</b><br><br/>
+<br>By default priority is set to Normal<br/>
+<br><b>Teacher is able to send from new message tab.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_1 Pass</b><br><br/>
+The message exists in Sent Items tab<br/>
+<br><b>The message sent is displayed in Sent messages tab.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_10 Pass</b><br><br/>
+</div>
+</td>
+<td>122</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.messageCreateStudent()'>messageCreateStudent<br/><b> NEWNGMEL-147_14, NEWNGMEL-147_15, NEWNGMEL-147_17, NEWNGMEL-147_16, NEWNGMEL-147_13, NEWNGMEL-147_18, NEWNGMEL-147_11, NEWNGMEL-147_19</b><br/>
+<a href="#Output-1840417105" onClick='toggleBox("Output-1840417105", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1840417105" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1840417105">
+<br><b>Test method: NEWNGMEL-147_14, NEWNGMEL-147_15, NEWNGMEL-147_17, NEWNGMEL-147_16, NEWNGMEL-147_13, NEWNGMEL-147_18, NEWNGMEL-147_11, NEWNGMEL-147_19.</b><br/>
+Current Tab selected isMessage<br/>
+<br><b>Error message is displayed for empty recipient list.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_14 Pass</b><br><br/>
+<br><b>Student can enter recipient manually.</b><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-147_15 Fail</b><br><br/>
+Recipients are added from contact list<br/>
+<br><b>Error message is displayed for empty subject line list.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_17 Pass</b><br><br/>
+<br><b>An error message for long subject is displayed.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_16 Pass</b><br><br/>
+Recipients are added from contact list<br/>
+<br><b>Recipients are displayed in Recipients field.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_13 Pass</b><br><br/>
+<br><b>By default priority is set to Normal<br/>
+<br><b>Student is able to set priority.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_18 Pass</b><br><br/>
+<br><b>Student is able to send message from new message tab.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_11 Pass</b><br><br/>
+The message exists in Sent Items tab<br/>
+<br><b>The message sent is displayed in Sent messages tab.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_19 Pass</b><br><br/>
+</div>
+</td>
+<td>125</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.messageInboxNotificationStudent()'>messageInboxNotificationStudent<br/><b>NEWNGMEL-189_25, NEWNGMEL-189_29, NEWNGMEL-189_26,NEWNGMEL-189_27, NEWNGMEL-189_28.</b><br/>
+<a href="#Output-1189428080" onClick='toggleBox("Output-1189428080", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1189428080" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1189428080">
+<br><b>Test method: NEWNGMEL-189_25, NEWNGMEL-189_29, NEWNGMEL-189_26,NEWNGMEL-189_27, NEWNGMEL-189_28.</b><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+<br><b>Message notification is displayed.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_25 Pass</b><br><br/>
+Current Tab selected isMessage<br/>
+<br><b>Inbox is selected by default.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_29 Pass</b><br><br/>
+Current Tab selected isMessage<br/>
+<br>Latest messages appear first.</br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_26 Pass</b><br><br/>
+<br>Teacher messageSubject Test.588is displayed in student inbox.</br><br/>
+<br>Teacher messageSubject Test.226is displayed in student inbox.</br><br/>
+<br>Message notification is displayed.</br><br/>
+<br><b>The notification counter is reduced by 1.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_27 Pass</b><br><br/>
+<br><b>The no notification displayed.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-189_28 Pass</b><br><br/>
+</div>
+</td>
+<td>307</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.sentMessageViewAndSort()'>sentMessageViewAndSort<br/><b>NEWNGMEL-190_1, NEWNGMEL-190_3 , NEWNGMEL-190_5, NEWNGMEL-190_6,  NEWNGMEL-190_7, NEWNGMEL-190_4, NEWNGMEL-190_8.</b><br/>
+<a href="#Output-2087459221" onClick='toggleBox("Output-2087459221", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2087459221" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2087459221">
+<br><b>Test method: NEWNGMEL-190_1, NEWNGMEL-190_3 , NEWNGMEL-190_5, NEWNGMEL-190_6,  NEWNGMEL-190_7, NEWNGMEL-190_4, NEWNGMEL-190_8.</b></br><br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br>Sent message tab is displayed.</br><br/>
+<br>The table headers exists in Sent Items tab<br/>
+<br>Sent messagenullis not displayed.</br><br/>
+<br><b>Latest messages appear first.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_1 Pass</b><br><br/>
+<br><b>The messages are sorted as per priorities.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_3 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for recipeints.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_4 Pass</b><br><br/>
+<br><b>The messages are not sorted alphabetically for subject.</b></br><br/>
+<br><b><font color='red'> Test Case NEWNGMEL-190_5 Fail</b><br><br/>
+<br><b>The messages are sorted as per the dates.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_6 Pass</b><br><br/>
+<br><b>The messages are displayed as per the dates.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_8 Pass</b><br><br/>
+<br><b>The contents are deleted.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_7 Pass</b><br><br/>
+</div>
+</td>
+<td>217</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Student.sentMessagesViewAndSortStudent()'>sentMessagesViewAndSortStudent<br/><b>NEWNGMEL-190_11, NEWNGMEL-190_13, NEWNGMEL-190_15, NEWNGMEL-190_16, NEWNGMEL-190_17, NEWNGMEL-190_18</b><br/>
+<a href="#Output-69724535" onClick='toggleBox("Output-69724535", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-69724535" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-69724535">
+<br><b>Test method: NEWNGMEL-190_11, NEWNGMEL-190_13, NEWNGMEL-190_15, NEWNGMEL-190_16, NEWNGMEL-190_17, NEWNGMEL-190_18.</b><br/>
+Current Tab selected isMessage<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isMessage<br/>
+<br>Inbox is selected by default.</br><br/>
+<br>Sent message tab is displayed.</br><br/>
+<br>The table headers exists in Sent Items tab<br/>
+<br>Sent messageSubject Test.588is displayed.</br><br/>
+<br><b>Most recent messages appear first.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_11 Pass</b><br><br/>
+<br><b>The messages are sorted as per priorities.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_13 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for recipeints.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_14 Pass</b><br><br/>
+<br><b>The messages are sorted alphabetically for subject.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_15 Pass</b><br><br/>
+<br><b>The messages are sorted as per the dates.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_16 Pass</b><br><br/>
+<br><b>The messages are displayed as per the dates.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_18 Pass</b><br><br/>
+<br><b>The contents are deleted.</b><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-190_17 Pass</b><br><br/>
+</div>
+</td>
+<td>237</td>
+<td></td>
+</tr>
+<tr>
+<td title='com.pearson.piltg.ngmelII.RegressionNMELIII.Message_Teacher.turnOffMessangerAndCreateMessage()'>turnOffMessangerAndCreateMessage<br/><b>NEWNGMEL-147_2, NEWNGMEL-147_3, NEWNGMEL-1681_5, NEWNGMEL-1681_6, NEWNGMEL-153_2.</b><br/>
+<a href="#Output-1672172631" onClick='toggleBox("Output-1672172631", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1672172631" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1672172631">
+<br><b>Test method: NEWNGMEL-147_2, NEWNGMEL-147_3, NEWNGMEL-1681_5, NEWNGMEL-1681_6, NEWNGMEL-153_2.</b></br><br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+Recipients are displayed in Recipients field.<br/>
+Current Tab selected isSettings<br/>
+<br> Course Management tab is loaded correctly<br/>
+Current Tab selected isMessage<br/>
+Recipients are added from contact list<br/>
+<br><b>Teacher is able to send message to the student.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_3 Pass</b><br><br/>
+Current Tab selected isMessage<br/>
+<br><b>The contact list checkbox is disabled.</b></br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_2 Pass</b><br><br/>
+<br><b><font color='green'>Test Case NEWNGMEL-147_12 Pass</b><br><br/>
+Student is able to send message to only the teacher and not student when the messanger is turned off.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-153_2 Pass</b><br><br/>
+</div>
+</td>
+<td>213</td>
+<td></td>
+</tr>
+</table><p>
+</body>
+</html>

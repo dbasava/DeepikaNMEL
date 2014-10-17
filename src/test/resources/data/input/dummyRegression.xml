@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NMEL-3 Regression Suite" parallel="false" annotations='JDK'  preserve-order="true">
+ 
+  <test  name="Rumba Regression Test"  preserve-order="true" annotations='JDK'>
+		<classes>
+			<class	name="com.pearson.piltg.ngmelII.test.RumbaRegistration" />
+		</classes>
+	</test> 
+	
+			 	
+	<test name="Regression Tests 1" preserve-order="true" annotations='JDK' >
+		<classes>
+			<class name="com.pearson.piltg.ngmelII.test.AProgramAdmin" ></class>
+			 <class name="com.pearson.piltg.ngmelII.test.BHomePage_Teacher_ToDoList"  />
+			<class name="com.pearson.piltg.ngmelII.test.CHomePage_Student_ToDoList" />
+			<class name="com.pearson.piltg.ngmelII.test.DHompage_RecentActivity" />
+		</classes>
+	</test>
+		
+	 
+	<test name="Regression Tests 2" preserve-order="true" >
+		<classes>
+			<class name="com.pearson.piltg.ngmelII.test.EHomepage_Calender"></class>	
+			<class name="com.pearson.piltg.ngmelII.test.FMessage_Teacher"></class>
+			<class name="com.pearson.piltg.ngmelII.test.GMessage_Student"></class>
+			<class name="com.pearson.piltg.ngmelII.test.HForwardMessage"></class>
+		</classes>
+	</test>
+		
+		<!-- 
+
+	<test name="Regression Tests 3"  preserve-order="true" >
+		<classes>
+			<class name="com.pearson.piltg.ngmelII.test.ReplyMessage"></class>	
+			<class name="com.pearson.piltg.ngmelII.test.DeleteMessage"></class>
+			<class name="com.pearson.piltg.ngmelII.test.HomepageTabEnhancements"></class>		
+			<class name="com.pearson.piltg.ngmelII.test.AssignAndUpdate_ActivitiesCycle"></class>	
+		</classes>
+	</test>
+	
+	
+	
+	<test name="Regression Tests 4"  preserve-order="true" >
+		<classes>
+			<class name="com.pearson.piltg.ngmelII.test.AmendDueDate"></class>
+			<class name="com.pearson.piltg.ngmelII.test.GradeBook_Teacher_withP2"></class>	
+			<class name="com.pearson.piltg.ngmelII.test.MoveStudent"></class>		
+			<class name="com.pearson.piltg.ngmelII.test.ReAssign"></class>
+		</classes>
+	</test>
+	
+		
+	<test  name="Regression Tests 5" preserve-order="true" >
+		<classes>
+			<class name="com.pearson.piltg.ngmelII.test.SettingsCourseSettings"></class>
+			<class name="com.pearson.piltg.ngmelII.test.SettingsPersonalProfile"></class>	
+			<class name="com.pearson.piltg.ngmelII.test.Show_Hide"></class>			
+			<class name="com.pearson.piltg.ngmelII.test.Toc_teacher"></class>
+			<class name="com.pearson.piltg.ngmelII.test.Toc_Student"></class>						
+		</classes>
+	</test>
+	
+	 -->
+</suite>

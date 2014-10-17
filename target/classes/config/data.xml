@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<company>
+	<teacher>
+		<username>24Dec.Teacher</username>
+		<password>Password123</password>
+		<name>Teacher_2711 Teacher_2711</name>
+		
+	</teacher>
+<teacher1>
+		<username>Teacher_2</username>
+		<password>Teacher_2</password>
+		<name></name>
+</teacher1>
+
+<teacher3>
+		<username>Teacher_3</username>
+		<password>Teacher_3</password>
+		<name></name>
+</teacher3>
+
+<student>
+		<username>Student_271142</username>
+		<password>Password123</password>	
+		<name>Student_2711 Student_2711</name>
+	</student>
+	
+	<student2>
+		<username>Student_2</username>
+		<password>Student_2</password>	
+		<name>Bill Dirac</name>
+	</student2>
+	
+	<student3>
+		<username>StudenNGMEL_683</username>
+		<password>password123</password>	
+		<name>Miranda Einstein</name>
+	</student3>
+</company>

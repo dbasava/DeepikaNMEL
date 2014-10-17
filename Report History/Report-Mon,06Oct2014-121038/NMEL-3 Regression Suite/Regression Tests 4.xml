@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Tests 4" failures="0" tests="13" time="2139.546" errors="0">
+  <properties/>
+  <testcase name="preConditionAutogradedAttempt" time="133.82" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="preConditionAutoGradedAssignNAttempt" time="248.544" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="viewScoresAtLevelAutoGradedAssignment" time="115.802" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="assignmentAverage" time="301.016" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradeBookExport" time="95.225" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="preConditionTeacherGradedAssignAndAttempt" time="241.687" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebookTeacherGradedAssignment" time="122.362" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="viewScoresAtLevelAssignmentTeacherGraded" time="107.2" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="viewScoresAtLevelPracticeActivity" time="100.448" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebook" time="57.175" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebookFunctions" time="156.101" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="gradebookAutoGradedPractice" time="387.997" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher_withP2"/>
+  <testcase name="reAssignAssignments" time="53.576" classname="com.pearson.piltg.ngmelII.RegressionNMELIII.ReAssign"/>
+</testsuite>

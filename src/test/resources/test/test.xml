@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test" parallel="false">
+<test name="Regression Rumba Registration" preserve-order="true">
+<classes>
+			<class	name="com.pearson.piltg.ngmelII.RegressionTesting.RumbaRegistration"/>
+</classes>
+</test>
+<test name="Regression Test" preserve-order="true">
+	<classes>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.AssignAndUpdate_ActivitiesCycle" />
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.CourseGeneral"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.HomePage_Teacher_ToDoList" />
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.HomePage_Student_ToDoList"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.Hompage_RecentActivity"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.Homepage_Calender"></class>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.HomepageTabEnhancements" />
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.Message_Teacher"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.Message_Student"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.ForwardMessage"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.ReplyMessage"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.DeleteMessage"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.SettingsCourseSettings"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.SettingsPersonalProfile"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.Show_Hide"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.Tab_Selection"/> 
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.GradeBook_Teacher"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.Gradebook_Student"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.GradeSettings"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.Toc_teacher"/>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.Toc_Student"></class>
+			<class name="com.pearson.piltg.ngmelII.RegressionTesting.Miscellaneous"/>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

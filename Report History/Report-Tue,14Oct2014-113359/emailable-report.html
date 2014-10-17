@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG:  Unit Test</title>
+<style type="text/css">
+table caption,table.info_table,table.param,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.param td,table.param th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.param th {vertical-align:bottom}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.param td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.param tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+<body>
+<table cellspacing=0 cellpadding=0 class="param">
+<tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em">Regression Tests 6</td><td class="numi">7</td><td class="numi">7</td><td class="numi">0</td><td class="numi_attn">1</td><td class="numi">1,259.7 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+</table>
+<a id="summary"></a>
+<table cellspacing=0 cellpadding=0 class="passed">
+<tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Time<br/>(Msecs)</th></tr>
+<tr><th colspan="4">Regression Tests 6 &#8212; failed</th></tr>
+<tr class="failedodd"><td rowspan="1">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher<td><a href="#m1">gradebookAutoGradedPracticeStudentLogin</a></td><td class="numi">1</td><td class="numi">128532</td></tr>
+<tr><th colspan="4">Regression Tests 6 &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="7">com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher<td><a href="#m2">assignmentAverage</a></td><td class="numi">1</td><td class="numi">282734</td></tr><tr class="passedodd"><td><a href="#m3">gradeboogradebookFunctionskFunctions</a></td><td class="numi">1</td><td class="numi">76547</td></tr><tr class="passedodd"><td><a href="#m4">gradebook</a></td><td class="numi">1</td><td class="numi">45810</td></tr><tr class="passedodd"><td><a href="#m5">gradebookAutoGradedPractice (regression)</a></td><td class="numi">1</td><td class="numi">320097</td></tr><tr class="passedodd"><td><a href="#m6">gradebookTeacherGradedAssignment</a></td><td class="numi">1</td><td class="numi">145403</td></tr><tr class="passedodd"><td><a href="#m7">preConditionTeacherGradedAssignAndAttempt</a></td><td class="numi">1</td><td class="numi">60431</td></tr><tr class="passedodd"><td><a href="#m8">viewScoresAtLevelPracticeActivity</a></td><td class="numi">1</td><td class="numi">190186</td></tr>
+</table>
+<h1>Regression Tests 6</h1>
+<a id="m1"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher:gradebookAutoGradedPracticeStudentLogin</h2>
+<div style="padding-left:3em">
+<h3>Test Messages</h3>
+Current Tab selected isGradebook<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitThe Big Picture<br/>
+<h3>Failure</h3>
+<p>no such element
+  (Session info: chrome=37.0.2062.124)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: '14fa800511cc5d66d426e08b0b2ab926c7ed7398', time: '2013-12-16 13:18:38'
+System info: host: 'BRICAWL-9JDVVY1', ip: '10.105.226.68', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_51'
+Session ID: b49b8292f1d05846f308d3c886281b42
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ubasaja\AppData\Local\Temp\scoped_dir3344_336}, rotatable=false, locationContextEnabled=true, version=37.0.2062.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]</p>
+sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)
+<br/>at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+<br/>at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+<br/>at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+<br/>at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:396)
+<br/>at org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+<br/>at com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher.gradebookAutoGradedPracticeStudentLogin(GradeBook_Teacher.java:601)
+<br/>30 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m2"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher:assignmentAverage</h2>
+<div style="padding-left:3em">
+Current Tab selected isCourse<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitVocabulary - Types of films<br/>
+Exercise 2**is tried again<br/>
+Current Tab selected isGradebook<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitThe Big Picture<br/>
+<br><b><font color='red'>Exception Occured.</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m3"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher:gradeboogradebookFunctionskFunctions</h2>
+<div style="padding-left:3em">
+Current Tab selected isGradebook<br/>
+Teacher is able yto see all 5 viewing options.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1369_5 Pass</b><br><br/>
+The gradebook view is changed to the selected course.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-2029_2 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m4"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher:gradebook</h2>
+<div style="padding-left:3em">
+Current Tab selected isGradebook<br/>
+The default selected value is Assignments & Tests.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-131_4 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m5"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher:gradebookAutoGradedPractice</h2>
+<div style="padding-left:3em">
+Current Tab selected isGradebook<br/>
+Tree Structure till unitThe Big Picture<br/>
+Toc Tree structure at sub-unitThe Big Picture<br/>
+Current Tab selected isCourse<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m6"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher:gradebookTeacherGradedAssignment</h2>
+<div style="padding-left:3em">
+Current Tab selected isGradebook<br/>
+Tree Structure till unitPronunciation practice<br/>
+Toc Tree structure at sub-unitPronunciation practice<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m7"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher:preConditionTeacherGradedAssignAndAttempt</h2>
+<div style="padding-left:3em">
+View more button is disable<br/>
+<br><b><font color='red'>Exception Occured.</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<a id="m8"></a><h2>com.pearson.piltg.ngmelII.RegressionNMELIII.GradeBook_Teacher:viewScoresAtLevelPracticeActivity</h2>
+<div style="padding-left:3em">
+Current Tab selected isGradebook<br/>
+Teacher is able to view the students scores at course level under gradebook.<br/>
+<br><b><font color='green'>Test Case NEWNGMEL-1369_13 Pass</b><br><br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>

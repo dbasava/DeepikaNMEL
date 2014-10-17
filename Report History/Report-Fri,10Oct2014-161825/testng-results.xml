@@ -1,0 +1,303 @@
+<testng-results>
+  <reporter-output>
+    <line>
+      <![CDATA[<p>The Teacher created is:Teacher_20141010034043</p>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The teacher is asked to select a course when the teacher has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher created is:Teacher_20141010034928</p>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<br> Course Management tab is loaded correctly]]>
+    </line>
+    <line>
+      <![CDATA[<p><p>confirm button is displayed after clicking on Create Course button.</p>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_1063_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p>The Teacher is able to generate PDF for the course.</p> ]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The teacher is asked to select a course when the teacher has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-1369_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test cases: NEWNGMEL_763_1, NEWNGMEL_163_1, NEWNGMEL_187_3]]>
+    </line>
+    <line>
+      <![CDATA[The student created is:Student_20141010035819]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<b>The student is not enrolled for the requested product.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_763_1 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is successfully enrolled to course using course id provided by teacher.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_163_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The student is not asked to select a course when the student has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_187_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The student created is:Student_20141010040552]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<b>The student is not enrolled for the requested product.</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_763_1 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[Student Joined a Course]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isSETTINGS]]>
+    </line>
+    <line>
+      <![CDATA[The selected tab [My Courses] is not a valid tab. The valid tabs are [Course Management, Personal Profile]]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Student is successfully enrolled to course using course id provided by teacher.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL_163_1 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>The student is not asked to select a course when the student has more than one course.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='red'> Test Case NEWNGMEL_187_3 Fail</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Settings module test case: NEWNGMEL-2744_3.]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isHome]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>User is not able to select a tab without setting country value.</br></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='green'>Test Case NEWNGMEL-2744_3 Pass</b><br>]]>
+    </line>
+    <line>
+      <![CDATA[The student created is:Student_20141010041457]]>
+    </line>
+    <line>
+      <![CDATA[Self study student:]]>
+    </line>
+    <line>
+      <![CDATA[Current Tab selected isCourse]]>
+    </line>
+    <line>
+      <![CDATA[The student is not asked to select a course when the student has more than one course.]]>
+    </line>
+  </reporter-output>
+  <suite name="NMEL-3 Regression Suite">
+    <groups>
+      <group name="register">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerCandidateStudent()" name="registerCandidateStudent" class="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+      </group>
+      <group name="rumba">
+        <method signature="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerInstructor()" name="registerInstructor" class="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration"/>
+      </group>
+    </groups>
+    <test name="Rumba Regression Test">
+      <class name="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="6661" started-at="2014-10-10T15:57:54Z" finished-at="2014-10-10T15:58:00Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="7069" started-at="2014-10-10T15:40:18Z" finished-at="2014-10-10T15:40:25Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="6347" started-at="2014-10-10T16:14:35Z" finished-at="2014-10-10T16:14:41Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="6036" started-at="2014-10-10T16:13:02Z" finished-at="2014-10-10T16:13:08Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2467" started-at="2014-10-10T16:18:22Z" finished-at="2014-10-10T16:18:24Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2451" started-at="2014-10-10T15:57:51Z" finished-at="2014-10-10T15:57:53Z">
+        </test-method>
+        <test-method status="PASS" signature="registerCandidateStudentSelfStudy()" name="registerCandidateStudentSelfStudy" duration-ms="221044" started-at="2014-10-10T16:14:41Z" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.settingsPersonalProfile" finished-at="2014-10-10T16:18:22Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2455" started-at="2014-10-10T16:13:00Z" finished-at="2014-10-10T16:13:02Z">
+        </test-method>
+        <test-method status="PASS" signature="registerInstructor()" name="registerInstructor" duration-ms="1045687" started-at="2014-10-10T15:40:25Z" description="NEWNGMEL_1063_1, NEWNGMEL-1369_3" finished-at="2014-10-10T15:57:51Z">
+        </test-method>
+        <test-method status="PASS" signature="registerCandidateStudent()" name="registerCandidateStudent" duration-ms="899393" started-at="2014-10-10T15:58:00Z" description="NEWNGMEL_763_1, NEWNGMEL_163_1, NEWNGMEL_187_3" depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerInstructor" finished-at="2014-10-10T16:13:00Z">
+        </test-method>
+        <test-method status="PASS" signature="settingsPersonalProfile()" name="settingsPersonalProfile" duration-ms="84042" started-at="2014-10-10T16:13:08Z" description="Settings module test case: NEWNGMEL-2744_3." depends-on-methods="com.pearson.piltg.ngmelII.RegressionNMELIII.RumbaRegistration.registerCandidateStudent" finished-at="2014-10-10T16:14:32Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2413" started-at="2014-10-10T16:14:32Z" finished-at="2014-10-10T16:14:35Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
